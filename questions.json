@@ -4624,5 +4624,1206 @@
     },
     "correct": "B",
     "explanation": "Điều 86 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), không cho vay margin cổ phiếu tự doanh hoặc liên quan."
+  },
+  
+  {
+    "id": 101,
+    "question": "Trong trường hợp chào bán cổ phiếu ra công chúng để thực hiện dự án, phương án sử dụng vốn phải xác định tỷ lệ chào bán thành công tối thiểu là bao nhiêu phần trăm tổng số cổ phiếu dự kiến chào bán, trừ trường hợp chào bán cho cổ đông hiện hữu theo tỷ lệ sở hữu?",
+    "options": {
+      "A": "50%",
+      "B": "60%",
+      "C": "70%",
+      "D": "80%"
+    },
+    "correct": "C",
+    "explanation": "Theo điểm b khoản 2 Điều 12 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tỷ lệ chào bán thành công tối thiểu là 70% tổng số cổ phiếu dự kiến chào bán để thực hiện dự án."
+  },
+  {
+    "id": 102,
+    "question": "Đối với tổ chức phát hành trái phiếu đăng ký chào bán phải được xếp hạng tín nhiệm bởi tổ chức xếp hạng tín nhiệm độc lập, ngoại trừ trường hợp nào sau đây?",
+    "options": {
+      "A": "Trái phiếu phát hành của tổ chức tín dụng",
+      "B": "Trái phiếu được bảo lãnh thanh toán bởi tổ chức tín dụng quốc tế",
+      "C": "Trái phiếu chuyển đổi thành cổ phiếu",
+      "D": "Trái phiếu kèm chứng quyền"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 2 Điều 19 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), ngoại trừ trường hợp trái phiếu phát hành của tổ chức tín dụng hoặc trái phiếu được bảo lãnh thanh toán toàn bộ gốc và lãi."
+  },
+  {
+    "id": 103,
+    "question": "Khi nộp hồ sơ đăng ký chào bán chứng khoán ra công chúng sau ngày kết thúc kỳ lập báo cáo tài chính bán niên, tổ chức phát hành phải bổ sung báo cáo tài chính bán niên được soát xét hoặc kiểm toán bởi tổ chức nào?",
+    "options": {
+      "A": "Tổ chức kiểm toán độc lập",
+      "B": "Tổ chức kiểm toán được chấp thuận",
+      "C": "Tổ chức kiểm toán quốc tế",
+      "D": "Tổ chức kiểm toán nhà nước"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm a khoản 4 Điều 11 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), phải bổ sung báo cáo tài chính bán niên được soát xét hoặc kiểm toán bởi tổ chức kiểm toán được chấp thuận."
+  },
+  {
+    "id": 104,
+    "question": "Đối với nhà đầu tư nước ngoài là tổ chức thuộc Chính phủ nước ngoài hoặc tổ chức tài chính quốc tế, tài liệu xác định tư cách nhà đầu tư chứng khoán chuyên nghiệp bao gồm những gì?",
+    "options": {
+      "A": "Giấy chứng nhận đăng ký kinh doanh",
+      "B": "Giấy chứng nhận đăng ký lập quỹ đầu tư",
+      "C": "Tài liệu quy định tổ chức trực thuộc Chính phủ hoặc tổ chức tài chính quốc tế",
+      "D": "Báo cáo tài chính năm gần nhất"
+    },
+    "correct": "C",
+    "explanation": "Theo khoản 8 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tài liệu xác định là tài liệu quy định tổ chức là trực thuộc Chính phủ hoặc tổ chức tài chính quốc tế."
+  },
+  {
+    "id": 105,
+    "question": "Trong trường hợp huy động vốn không để thực hiện dự án, tổ chức phát hành phải báo cáo và công bố thông tin về việc sử dụng vốn từ đợt chào bán nào, trừ tổ chức tín dụng?",
+    "options": {
+      "A": "Tất cả các đợt chào bán trước đó",
+      "B": "Đợt chào bán gần nhất",
+      "C": "Đợt chào bán tương tự",
+      "D": "Không cần báo cáo"
+    },
+    "correct": "C",
+    "explanation": "Theo khoản 1a Điều 9 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), phải báo cáo và công bố về việc sử dụng vốn từ đợt chào bán, đợt phát hành tương tự."
+  },
+  {
+    "id": 106,
+    "question": "Ngày kết thúc đợt phát hành cổ phiếu để chuyển đổi trái phiếu chuyển đổi được xác định bởi ai?",
+    "options": {
+      "A": "Ủy ban Chứng khoán Nhà nước",
+      "B": "Tổ chức phát hành",
+      "C": "Sở giao dịch chứng khoán",
+      "D": "Tổng công ty lưu ký"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm h khoản 12 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), ngày kết thúc đợt phát hành cổ phiếu để chuyển đổi trái phiếu chuyển đổi là ngày được tổ chức phát hành xác định."
+  },
+  {
+    "id": 107,
+    "question": "Tổ chức xếp hạng tín nhiệm độc lập bao gồm tổ chức nào sau đây theo quy định?",
+    "options": {
+      "A": "Chỉ Moody’s, Standard & Poor’s, Fitch Ratings",
+      "B": "Moody’s, Standard & Poor’s, Fitch Ratings và doanh nghiệp xếp hạng tín nhiệm được Bộ Tài chính cấp Giấy chứng nhận",
+      "C": "Chỉ doanh nghiệp xếp hạng tín nhiệm được Bộ Tài chính cấp Giấy chứng nhận",
+      "D": "Tổ chức kiểm toán độc lập"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 57 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tổ chức xếp hạng tín nhiệm độc lập bao gồm Moody’s, Standard & Poor’s, Fitch Ratings và doanh nghiệp được Bộ Tài chính cấp Giấy chứng nhận."
+  },
+  {
+    "id": 108,
+    "question": "Đối với tổ chức khác không phải tổ chức niêm yết, tổ chức đăng ký giao dịch, tài liệu xác định tư cách nhà đầu tư chứng khoán chuyên nghiệp bao gồm Giấy chứng nhận đăng ký doanh nghiệp và báo cáo tài chính nào?",
+    "options": {
+      "A": "Báo cáo tài chính năm gần nhất được kiểm toán",
+      "B": "Báo cáo tài chính bán niên được soát xét",
+      "C": "Bảng cân đối kế toán gần nhất được kiểm toán đối với trường hợp chia, tách, hợp nhất",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo điểm b khoản 2 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), bao gồm Giấy chứng nhận đăng ký doanh nghiệp và các báo cáo tài chính liên quan."
+  },
+  {
+    "id": 109,
+    "question": "Tổ chức tư vấn hồ sơ chào bán, phát hành chứng khoán phải trực tiếp thực hiện các hoạt động tư vấn hồ sơ, và chịu trách nhiệm theo quy định tại khoản nào của Luật Chứng khoán?",
+    "options": {
+      "A": "Khoản 1 Điều 11a",
+      "B": "Khoản 3 Điều 11a",
+      "C": "Khoản 2 Điều 11a",
+      "D": "Khoản 4 Điều 11a"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm b khoản 1 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tổ chức tư vấn hồ sơ chịu trách nhiệm theo khoản 3 Điều 11a Luật Chứng khoán."
+  },
+  {
+    "id": 110,
+    "question": "Điều kiện về hoạt động kinh doanh có lãi, nợ phải trả, lỗ lũy kế, vốn chủ sở hữu của doanh nghiệp được căn cứ trên báo cáo tài chính nào nếu doanh nghiệp là công ty mẹ?",
+    "options": {
+      "A": "Báo cáo tài chính hợp nhất",
+      "B": "Báo cáo tài chính riêng",
+      "C": "Báo cáo tài chính tổng hợp",
+      "D": "Báo cáo tài chính năm gần nhất"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 8 Điều 7 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), nếu doanh nghiệp là công ty mẹ thì căn cứ trên báo cáo tài chính hợp nhất."
+  },
+  {
+    "id": 111,
+    "question": "Khi sử dụng tài khoản định danh điện tử để giải quyết thủ tục hành chính, thông tin về danh tính điện tử có giá trị chứng minh tương đương với việc cung cấp thông tin hoặc sử dụng, xuất trình giấy tờ nào?",
+    "options": {
+      "A": "Giấy tờ chứa thông tin đó",
+      "B": "Chỉ giấy chứng nhận đăng ký kinh doanh",
+      "C": "Chỉ báo cáo tài chính",
+      "D": "Không có giá trị chứng minh"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 9 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), thông tin về danh tính điện tử có giá trị chứng minh tương đương với giấy tờ chứa thông tin đó."
+  },
+  {
+    "id": 112,
+    "question": "Đối với trường hợp mua lại doanh nghiệp, bán tài sản trong cơ cấu lại doanh nghiệp, tỷ lệ giá trị giao dịch so với tổng giá trị tài sản được tính như thế nào?",
+    "options": {
+      "A": "Từng giao dịch so với tổng giá trị tài sản",
+      "B": "Tổng giá trị các giao dịch phát sinh trong năm cơ cấu lại so với tổng giá trị tài sản",
+      "C": "Chỉ giao dịch lớn nhất",
+      "D": "Không tính tỷ lệ"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm c khoản 14 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tỷ lệ được tính bằng tổng giá trị các giao dịch phát sinh trong năm cơ cấu lại."
+  },
+  {
+    "id": 113,
+    "question": "Công ty đại chúng, tổ chức phát hành phải đảm bảo quyền tiếp cận thông tin của nhà đầu tư đối với các quyết định liên quan đến chào bán chứng khoán theo quy định nào?",
+    "options": {
+      "A": "Pháp luật về doanh nghiệp",
+      "B": "Pháp luật về công bố thông tin trên thị trường chứng khoán",
+      "C": "Điều lệ công ty",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo khoản 1a Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), đảm bảo quyền tiếp cận theo pháp luật doanh nghiệp, công bố thông tin, và Điều lệ công ty."
+  },
+  {
+    "id": 114,
+    "question": "Nhà đầu tư tham gia đầu tư chứng khoán phải tự chịu trách nhiệm về quyết định đầu tư và rủi ro phát sinh, đồng thời hiểu rõ và tuân thủ quy định về gì?",
+    "options": {
+      "A": "Đầu tư, giao dịch trên thị trường chứng khoán",
+      "B": "Chỉ đầu tư chứng khoán",
+      "C": "Chỉ giao dịch chứng khoán",
+      "D": "Không có quy định"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1b Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), nhà đầu tư phải tự chịu trách nhiệm và tuân thủ quy định về đầu tư, giao dịch."
+  },
+  {
+    "id": 115,
+    "question": "Việc nộp và trả kết quả giải quyết thủ tục hành chính được thực hiện thông qua cơ chế nào theo pháp luật về thủ tục hành chính?",
+    "options": {
+      "A": "Một cửa, một cửa liên thông",
+      "B": "Hai cửa",
+      "C": "Ba cửa",
+      "D": "Không qua cơ chế nào"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 2 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), thực hiện qua một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia."
+  },
+  {
+    "id": 116,
+    "question": "Tổ chức kiểm toán, kiểm toán viên được chấp thuận phải tuân thủ quy định của pháp luật về kiểm toán độc lập và chịu trách nhiệm đối với ý kiến về gì?",
+    "options": {
+      "A": "Tính trung thực, hợp lý về báo cáo, số liệu được kiểm toán",
+      "B": "Chỉ báo cáo tài chính năm",
+      "C": "Chỉ báo cáo bán niên",
+      "D": "Không chịu trách nhiệm"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm c khoản 1 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), chịu trách nhiệm về ý kiến tính trung thực, hợp lý về báo cáo, số liệu kiểm toán."
+  },
+  {
+    "id": 117,
+    "question": "Ủy ban Chứng khoán Nhà nước xem xét tính hợp lệ của hồ sơ trên cơ sở hồ sơ được cung cấp, nhưng không chịu trách nhiệm về vi phạm xảy ra khi nào?",
+    "options": {
+      "A": "Trước và sau khi nộp hồ sơ hợp lệ",
+      "B": "Chỉ trước khi nộp",
+      "C": "Chỉ sau khi nộp",
+      "D": "Không có vi phạm"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm d khoản 1 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), không chịu trách nhiệm về vi phạm trước và sau khi nộp hồ sơ hợp lệ."
+  },
+  {
+    "id": 118,
+    "question": "Đối với nhà đầu tư nước ngoài là cá nhân, văn bản xác nhận tư cách nhà đầu tư chứng khoán chuyên nghiệp là gì?",
+    "options": {
+      "A": "Văn bản xác nhận mã số giao dịch chứng khoán",
+      "B": "Hộ chiếu còn hiệu lực",
+      "C": "Giấy tờ xác thực cá nhân hợp pháp có thông tin về quốc tịch",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo khoản 6 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), bao gồm văn bản xác nhận mã số giao dịch hoặc hộ chiếu, giấy tờ xác thực cá nhân."
+  },
+  {
+    "id": 119,
+    "question": "Đối với nhà đầu tư nước ngoài là tổ chức, tài liệu xác định tư cách bao gồm Giấy phép thành lập và hoạt động do cơ quan nào cấp?",
+    "options": {
+      "A": "Cơ quan quản lý có thẩm quyền nước ngoài",
+      "B": "Bộ Tài chính Việt Nam",
+      "C": "Ủy ban Chứng khoán Nhà nước",
+      "D": "Ngân hàng Nhà nước"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm b khoản 7 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), Giấy phép thành lập do cơ quan quản lý có thẩm quyền nước ngoài cấp."
+  },
+  {
+    "id": 120,
+    "question": "Trong trường hợp doanh nghiệp có đơn vị trực thuộc không có tư cách pháp nhân, kết quả hoạt động kinh doanh được căn cứ trên báo cáo tài chính nào?",
+    "options": {
+      "A": "Báo cáo tài chính tổng hợp",
+      "B": "Báo cáo tài chính hợp nhất",
+      "C": "Báo cáo tài chính riêng",
+      "D": "Báo cáo tài chính năm"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 8 Điều 7 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), căn cứ trên báo cáo tài chính tổng hợp nếu có đơn vị trực thuộc không có tư cách pháp nhân."
+  },
+  {
+    "id": 121,
+    "question": "Tỷ lệ cơ cấu lại doanh nghiệp được tính bằng tổng giá trị tài sản của các công ty bị hợp nhất so với tổng giá trị tài sản của công ty nào?",
+    "options": {
+      "A": "Công ty bị hợp nhất có tổng giá trị tài sản lớn nhất",
+      "B": "Công ty hợp nhất",
+      "C": "Công ty mẹ",
+      "D": "Công ty con"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm a khoản 14 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tỷ lệ tính bằng tổng giá trị tài sản của các công ty bị hợp nhất so với công ty có tổng giá trị lớn nhất."
+  },
+  {
+    "id": 122,
+    "question": "Phương án bù đắp phần thiếu hụt vốn dự kiến huy động từ đợt chào bán để thực hiện dự án phải được xác định trong phương án sử dụng vốn cho trường hợp nào?",
+    "options": {
+      "A": "Đợt chào bán để thực hiện dự án",
+      "B": "Đợt chào bán không thực hiện dự án",
+      "C": "Đợt chào bán cho cổ đông hiện hữu",
+      "D": "Không cần phương án"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm b khoản 2 Điều 12 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), phương án bù đắp thiếu hụt vốn cho đợt chào bán để thực hiện dự án."
+  },
+  {
+    "id": 123,
+    "question": "Tài liệu quy định tại các điểm c, đ, e, h và k khoản 1 Điều 18 Luật Chứng khoán được đề cập trong hồ sơ đăng ký chào bán chứng khoán ra công chúng theo điều nào?",
+    "options": {
+      "A": "Khoản 10 Điều 11",
+      "B": "Khoản 4 Điều 11",
+      "C": "Khoản 2 Điều 12",
+      "D": "Khoản 1 Điều 9"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm b khoản 6 Điều 11 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tài liệu quy định tại các điểm c, đ, e, h và k khoản 1 Điều 18 Luật Chứng khoán."
+  },
+  {
+    "id": 124,
+    "question": "Đối với nhà đầu tư nước ngoài là tổ chức, tài liệu từ hệ thống cơ sở dữ liệu của cơ quan quản lý nước ngoài phải xác định gì?",
+    "options": {
+      "A": "Tổ chức được thành lập tại nước đó",
+      "B": "Tổ chức có vốn đầu tư tại Việt Nam",
+      "C": "Tổ chức niêm yết chứng khoán",
+      "D": "Tổ chức kiểm toán"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm d khoản 7 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tài liệu xác định tổ chức được thành lập tại nước đó."
+  },
+  {
+    "id": 125,
+    "question": "Chỉ tiêu 'tổng giá trị tài sản' trong cơ cấu lại doanh nghiệp được căn cứ trên báo cáo tài chính nào nếu doanh nghiệp là công ty mẹ?",
+    "options": {
+      "A": "Giá trị thấp hơn trên báo cáo tài chính riêng và hợp nhất",
+      "B": "Giá trị cao hơn trên báo cáo tài chính riêng và hợp nhất",
+      "C": "Chỉ báo cáo tài chính riêng",
+      "D": "Chỉ báo cáo tài chính hợp nhất"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm d khoản 14 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), căn cứ trên chỉ tiêu có giá trị thấp hơn trên báo cáo tài chính riêng và hợp nhất nếu là công ty mẹ."
+  },
+  {
+    "id": 126,
+    "question": "Trong báo cáo tài chính hợp nhất, vốn chủ sở hữu không bao gồm gì?",
+    "options": {
+      "A": "Lợi ích của cổ đông không kiểm soát",
+      "B": "Lợi nhuận sau thuế",
+      "C": "Nợ phải trả",
+      "D": "Lỗ lũy kế"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 8 Điều 7 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), vốn chủ sở hữu không bao gồm lợi ích của cổ đông không kiểm soát."
+  },
+  {
+    "id": 127,
+    "question": "Kết quả hoạt động kinh doanh trong báo cáo tài chính hợp nhất là chỉ tiêu nào của công ty mẹ?",
+    "options": {
+      "A": "Lợi nhuận sau thuế",
+      "B": "Doanh thu thuần",
+      "C": "Lợi nhuận trước thuế",
+      "D": "Tổng lợi nhuận"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 8 Điều 7 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), kết quả hoạt động kinh doanh là lợi nhuận sau thuế của công ty mẹ trên báo cáo tài chính hợp nhất."
+  },
+  {
+    "id": 128,
+    "question": "Đối với trường hợp sáp nhập, tỷ lệ cơ cấu lại doanh nghiệp được tính bằng tổng giá trị tài sản của các công ty bị sáp nhập so với gì?",
+    "options": {
+      "A": "Tổng giá trị tài sản của công ty nhận sáp nhập",
+      "B": "Tổng giá trị tài sản của công ty mẹ",
+      "C": "Tổng giá trị tài sản của tất cả công ty",
+      "D": "Không tính tỷ lệ"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm b khoản 14 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tỷ lệ tính bằng tổng giá trị tài sản của các công ty bị sáp nhập so với công ty nhận sáp nhập."
+  },
+  {
+    "id": 129,
+    "question": "Tổ chức, cá nhân tham gia lập, xác nhận hồ sơ phải chịu trách nhiệm về hồ sơ theo quy định nào?",
+    "options": {
+      "A": "Pháp luật",
+      "B": "Điều lệ công ty",
+      "C": "Cam kết với nhà đầu tư",
+      "D": "Không chịu trách nhiệm"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm a khoản 1 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), chịu trách nhiệm về hồ sơ, tài liệu báo cáo theo quy định pháp luật."
+  },
+  {
+    "id": 130,
+    "question": "Nhà đầu tư nước ngoài là tổ chức phải cung cấp Giấy đăng ký thuế của cơ quan thuế nước nào?",
+    "options": {
+      "A": "Nước nơi tổ chức thành lập hoặc đăng ký kinh doanh",
+      "B": "Việt Nam",
+      "C": "Nước sở tại niêm yết chứng khoán",
+      "D": "Không cần Giấy đăng ký thuế"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm c khoản 7 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), Giấy đăng ký thuế của cơ quan thuế nước nơi tổ chức thành lập hoặc đăng ký kinh doanh."
+  },
+  {
+    "id": 131,
+    "question": "Đối với quỹ đầu tư, tài liệu xác định tư cách nhà đầu tư nước ngoài bao gồm Giấy chứng nhận đăng ký lập quỹ đầu tư hoặc gì nếu không cấp?",
+    "options": {
+      "A": "Điều lệ hoặc Bản cáo bạch",
+      "B": "Hợp đồng tín thác hoặc biên bản thỏa thuận góp vốn",
+      "C": "Các văn bản tương đương",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo điểm đ khoản 7 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), bao gồm Giấy chứng nhận đăng ký lập quỹ hoặc Điều lệ, Bản cáo bạch, hợp đồng tín thác, biên bản thỏa thuận."
+  },
+  {
+    "id": 132,
+    "question": "Trong trường hợp hoàn thành việc chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp, báo cáo tài chính để xác định tư cách nhà đầu tư chứng khoán chuyên nghiệp là gì?",
+    "options": {
+      "A": "Báo cáo tài chính năm gần nhất được kiểm toán",
+      "B": "Báo cáo tài chính bán niên được soát xét",
+      "C": "Bảng cân đối kế toán gần nhất được kiểm toán",
+      "D": "Không cần báo cáo"
+    },
+    "correct": "C",
+    "explanation": "Theo điểm b khoản 2 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), bảng cân đối kế toán gần nhất được kiểm toán đối với trường hợp chia, tách, hợp nhất."
+  },
+  {
+    "id": 133,
+    "question": "Tổ chức, cá nhân có thẩm quyền tiếp nhận hồ sơ xem xét tính hợp lệ dựa trên gì?",
+    "options": {
+      "A": "Hồ sơ, tài liệu báo cáo được cung cấp",
+      "B": "Kiểm tra thực tế doanh nghiệp",
+      "C": "Ý kiến của tổ chức kiểm toán",
+      "D": "Cam kết của tổ chức phát hành"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm d khoản 1 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), xem xét tính hợp lệ trên cơ sở hồ sơ, tài liệu được cung cấp."
+  },
+  {
+    "id": 134,
+    "question": "Nhà đầu tư phải tự đánh giá, tự chịu trách nhiệm về quyết định đầu tư và gì?",
+    "options": {
+      "A": "Rủi ro phát sinh trong đầu tư và giao dịch chứng khoán",
+      "B": "Chỉ rủi ro đầu tư",
+      "C": "Chỉ rủi ro giao dịch",
+      "D": "Không chịu trách nhiệm"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1b Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tự chịu rủi ro phát sinh trong đầu tư và giao dịch chứng khoán."
+  },
+  {
+    "id": 135,
+    "question": "Tổ chức phát hành phải công bố thông tin đầy đủ, chính xác, kịp thời và tuân thủ nghĩa vụ theo cam kết với cổ đông theo gì?",
+    "options": {
+      "A": "Điều lệ công ty",
+      "B": "Quy định pháp luật có liên quan",
+      "C": "Cả A và B",
+      "D": "Không tuân thủ"
+    },
+    "correct": "C",
+    "explanation": "Theo khoản 1a Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tuân thủ theo Điều lệ công ty và quy định pháp luật có liên quan."
+  },
+  {
+    "id": 136,
+    "question": "Đối với trái phiếu được tổ chức tín dụng, chi nhánh ngân hàng nước ngoài bảo lãnh thanh toán toàn bộ gốc và lãi, có cần xếp hạng tín nhiệm không?",
+    "options": {
+      "A": "Cần",
+      "B": "Không cần",
+      "C": "Chỉ cần nếu dư nợ vượt 100%",
+      "D": "Tùy tổ chức phát hành"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 19 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), ngoại trừ trường hợp trái phiếu được bảo lãnh thanh toán toàn bộ gốc và lãi bởi tổ chức tín dụng."
+  },
+  {
+    "id": 137,
+    "question": "Trong phương án sử dụng vốn cho đợt chào bán để thực hiện dự án, phải xác định phương án bù đắp phần thiếu hụt vốn trừ trường hợp nào?",
+    "options": {
+      "A": "Chào bán cho cổ đông hiện hữu theo tỷ lệ sở hữu",
+      "B": "Chào bán ra công chúng",
+      "C": "Chào bán riêng lẻ",
+      "D": "Không có ngoại lệ"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm b khoản 2 Điều 12 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), trừ trường hợp chào bán cho cổ đông hiện hữu theo tỷ lệ sở hữu."
+  },
+  {
+    "id": 138,
+    "question": "Tổ chức, cá nhân tham gia tư vấn hồ sơ có trách nhiệm theo quy định tại khoản 3 Điều 11a Luật Chứng khoán, và phải làm gì với hoạt động tư vấn hồ sơ?",
+    "options": {
+      "A": "Trực tiếp thực hiện",
+      "B": "Ủy thác cho bên thứ ba",
+      "C": "Chỉ tư vấn gián tiếp",
+      "D": "Không cần thực hiện"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm b khoản 1 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), phải trực tiếp thực hiện các hoạt động tư vấn hồ sơ."
+  },
+  {
+    "id": 139,
+    "question": "Đối với nhà đầu tư nước ngoài là tổ chức, tài liệu về tổ chức từ hệ thống cơ sở dữ liệu của cơ quan quản lý nước ngoài phải xác định tổ chức được gì?",
+    "options": {
+      "A": "Thành lập tại nước đó",
+      "B": "Niêm yết chứng khoán",
+      "C": "Có vốn đầu tư nước ngoài",
+      "D": "Là tổ chức tín dụng"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm d khoản 7 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), xác định tổ chức được thành lập tại nước đó."
+  },
+  {
+    "id": 140,
+    "question": "Trong trường hợp thực hiện nhiều giao dịch để mua lại một doanh nghiệp hoặc mua lại nhiều doanh nghiệp thuộc nhóm công ty mẹ - công ty con, tỷ lệ cơ cấu lại doanh nghiệp được tính như thế nào?",
+    "options": {
+      "A": "Tổng giá trị các giao dịch so với tổng giá trị tài sản",
+      "B": "Giá trị giao dịch lớn nhất",
+      "C": "Chỉ giao dịch đầu tiên",
+      "D": "Không tính tổng"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm c khoản 14 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tỷ lệ tính bằng tổng giá trị các giao dịch so với tổng giá trị tài sản."
+  },
+  {
+    "id": 141,
+    "question": "Tổ chức phát hành hoặc trái phiếu phải được xếp hạng tín nhiệm bởi tổ chức xếp hạng tín nhiệm độc lập, ngoại trừ trường hợp trái phiếu được bảo lãnh thanh toán bởi tổ chức nào?",
+    "options": {
+      "A": "Tổ chức tài chính quốc tế",
+      "B": "Tổ chức tín dụng",
+      "C": "Chi nhánh ngân hàng nước ngoài",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo khoản 2 Điều 19 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), ngoại trừ trái phiếu được bảo lãnh bởi tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tài chính quốc tế."
+  },
+  {
+    "id": 142,
+    "question": "Hồ sơ đăng ký chào bán chứng khoán ra công chúng phải bao gồm tài liệu quy định tại các điểm c, đ, e, h và k khoản 1 Điều 18 Luật Chứng khoán, nhưng điểm đ là gì?",
+    "options": {
+      "A": "Phương án phát hành",
+      "B": "Báo cáo tài chính",
+      "C": "Cam kết bảo lãnh",
+      "D": "Hợp đồng tư vấn"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 10 Điều 11 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tài liệu tại điểm đ khoản 1 Điều 18 Luật Chứng khoán là phương án phát hành."
+  },
+  {
+    "id": 143,
+    "question": "Đối với trường hợp hợp nhất, tỷ lệ cơ cấu lại doanh nghiệp được tính bằng tổng giá trị tài sản của các công ty bị hợp nhất còn lại so với gì?",
+    "options": {
+      "A": "Tổng giá trị tài sản của công ty bị hợp nhất có tổng giá trị lớn nhất",
+      "B": "Tổng giá trị tài sản của công ty hợp nhất",
+      "C": "Tổng giá trị tài sản của tất cả",
+      "D": "Không tính còn lại"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm a khoản 14 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tổng giá trị của các công ty bị hợp nhất còn lại so với công ty có tổng giá trị lớn nhất."
+  },
+  {
+    "id": 144,
+    "question": "Nhà đầu tư nước ngoài là tổ chức phải cung cấp tài liệu tương đương trong trường hợp cơ quan quản lý nước ngoài không cấp Giấy chứng nhận đăng ký lập quỹ đầu tư là gì?",
+    "options": {
+      "A": "Điều lệ hoặc Bản cáo bạch",
+      "B": "Hợp đồng tín thác",
+      "C": "Biên bản thỏa thuận góp vốn",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo điểm đ khoản 7 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), bao gồm Điều lệ, Bản cáo bạch, hợp đồng tín thác, biên bản thỏa thuận góp vốn."
+  },
+  {
+    "id": 145,
+    "question": "Tổ chức, cá nhân liên quan đến hồ sơ báo cáo phải chịu trách nhiệm về thông tin giả mạo hoặc chưa đầy đủ có thể gây thiệt hại cho ai?",
+    "options": {
+      "A": "Người mua chứng quyền",
+      "B": "Nhà đầu tư",
+      "C": "Tổ chức phát hành",
+      "D": "Ủy ban Chứng khoán"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm a khoản 1 Điều 6 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), chịu trách nhiệm về thông tin có thể làm nhà đầu tư chịu thiệt hại."
+  },
+  {
+    "id": 146,
+    "question": "Khi nộp hồ sơ sau ngày kết thúc kỳ lập báo cáo tài chính bán niên, phải bổ sung báo cáo tài chính bán niên được gì?",
+    "options": {
+      "A": "Soát xét hoặc kiểm toán bởi tổ chức kiểm toán được chấp thuận",
+      "B": "Chỉ soát xét",
+      "C": "Chỉ kiểm toán",
+      "D": "Không cần bổ sung"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm a khoản 4 Điều 11 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), bổ sung báo cáo tài chính bán niên được soát xét hoặc kiểm toán bởi tổ chức kiểm toán được chấp thuận."
+  },
+  {
+    "id": 147,
+    "question": "Tổ chức xếp hạng tín nhiệm Moody’s, Standard & Poor’s, Fitch Ratings thuộc loại nào?",
+    "options": {
+      "A": "Tổ chức xếp hạng tín nhiệm độc lập",
+      "B": "Tổ chức kiểm toán",
+      "C": "Tổ chức tín dụng",
+      "D": "Tổ chức tài chính quốc tế"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm a khoản 57 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), Moody’s, Standard & Poor’s, Fitch Ratings là tổ chức xếp hạng tín nhiệm độc lập."
+  },
+  {
+    "id": 148,
+    "question": "Doanh nghiệp xếp hạng tín nhiệm được Bộ Tài chính cấp Giấy chứng nhận đủ điều kiện kinh doanh thuộc loại nào?",
+    "options": {
+      "A": "Tổ chức xếp hạng tín nhiệm độc lập",
+      "B": "Tổ chức kiểm toán",
+      "C": "Tổ chức tín dụng",
+      "D": "Tổ chức lưu ký"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm b khoản 57 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), doanh nghiệp được Bộ Tài chính cấp Giấy chứng nhận là tổ chức xếp hạng tín nhiệm độc lập."
+  },
+  {
+    "id": 149,
+    "question": "Đối với trường hợp mua lại doanh nghiệp, tỷ lệ cơ cấu lại doanh nghiệp được tính bằng giá trị từng giao dịch so với tổng giá trị tài sản theo báo cáo nào?",
+    "options": {
+      "A": "Báo cáo tài chính năm gần nhất",
+      "B": "Báo cáo tài chính bán niên",
+      "C": "Báo cáo tài chính hợp nhất",
+      "D": "Báo cáo tài chính tổng hợp"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm c khoản 14 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tỷ lệ tính theo báo cáo tài chính năm gần nhất."
+  },
+  {
+    "id": 150,
+    "question": "Nhà đầu tư nước ngoài là cá nhân phải cung cấp Hộ chiếu còn hiệu lực hoặc giấy tờ xác thực cá nhân hợp pháp có thông tin về gì?",
+    "options": {
+      "A": "Quốc tịch nước ngoài",
+      "B": "Mã số giao dịch chứng khoán",
+      "C": "Báo cáo tài chính",
+      "D": "Giấy chứng nhận đầu tư"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 6 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), giấy tờ có thông tin về quốc tịch nước ngoài."
+  },
+  {
+    "id": 151,
+    "question": "Trong trường hợp thực hiện nhiều giao dịch mua lại doanh nghiệp thuộc nhóm công ty mẹ - công ty con, tỷ lệ được tính bằng tổng giá trị các giao dịch so với gì?",
+    "options": {
+      "A": "Tổng giá trị tài sản của doanh nghiệp",
+      "B": "Vốn chủ sở hữu",
+      "C": "Doanh thu",
+      "D": "Lợi nhuận"
+    },
+    "correct": "A",
+    "explanation": "Theo điểm c khoản 14 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tổng giá trị các giao dịch so với tổng giá trị tài sản của doanh nghiệp."
+  },
+  {
+    "id": 152,
+    "question": "Tổ chức, cá nhân ký hồ sơ phải đảm bảo những tài liệu, thông tin trong hồ sơ là đầy đủ và đúng sự thật, không có thông tin giả mạo hoặc chưa đầy đủ có thể gây thiệt hại cho ai?",
+    "options": {
+      "A": "Người mua chứng quyền có bảo đảm",
+      "B": "Nhà đầu tư",
+      "C": "Tổ chức phát hành",
+      "D": "Ủy ban Chứng khoán"
+    },
+    "correct": "B",
+    "explanation": "Theo cam kết của tổ chức phát hành trong Mẫu số 84 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), không gây thiệt hại cho nhà đầu tư."
+  },
+  {
+    "id": 153,
+    "question": "Tổ chức phát hành chứng quyền có bảo đảm phải cam kết không công bố thông tin về việc chào bán trên các phương tiện thông tin đại chúng trước khi được cấp gì?",
+    "options": {
+      "A": "Giấy chứng nhận đăng ký chào bán chứng quyền có bảo đảm",
+      "B": "Giấy phép kinh doanh chứng khoán",
+      "C": "Giấy chứng nhận niêm yết",
+      "D": "Giấy chứng nhận lưu ký"
+    },
+    "correct": "A",
+    "explanation": "Theo cam kết của tổ chức phát hành trong Mẫu số 84 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), không công bố trước khi được Ủy ban Chứng khoán cấp Giấy chứng nhận."
+  },
+  {
+    "id": 154,
+    "question": "Ngân hàng lưu ký nhận ký quỹ tài sản bảo đảm thanh toán không phải là người có liên quan của tổ chức phát hành theo quy định nào?",
+    "options": {
+      "A": "Pháp luật chứng khoán",
+      "B": "Pháp luật doanh nghiệp",
+      "C": "Pháp luật đầu tư",
+      "D": "Pháp luật ngân hàng"
+    },
+    "correct": "A",
+    "explanation": "Theo cam kết của tổ chức phát hành trong Mẫu số 84 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), không phải người có liên quan theo pháp luật chứng khoán."
+  },
+  {
+    "id": 155,
+    "question": "Tổ chức phát hành chứng khoán cơ sở không phải là người có liên quan của tổ chức phát hành chứng quyền theo quy định của pháp luật nào?",
+    "options": {
+      "A": "Pháp luật chứng khoán",
+      "B": "Pháp luật doanh nghiệp",
+      "C": "Pháp luật đầu tư",
+      "D": "Pháp luật ngân hàng"
+    },
+    "correct": "A",
+    "explanation": "Theo cam kết của tổ chức phát hành trong Mẫu số 84 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), không phải người có liên quan theo pháp luật chứng khoán."
+  },
+  {
+    "id": 156,
+    "question": "Trong Giấy đăng ký dự thi sát hạch cấp chứng chỉ hành nghề chứng khoán, người đăng ký phải ghi rõ địa điểm dự thi là Hà Nội hoặc đâu?",
+    "options": {
+      "A": "Tp. HCM",
+      "B": "Đà Nẵng",
+      "C": "Cần Thơ",
+      "D": "Hải Phòng"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 85 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), địa điểm đăng ký dự thi ghi rõ Hà Nội hoặc Tp. HCM."
+  },
+  {
+    "id": 157,
+    "question": "Người đăng ký dự thi sát hạch phải cam kết chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của nội dung Giấy đề nghị cấp chứng chỉ hành nghề chứng khoán nào?",
+    "options": {
+      "A": "Môi giới chứng khoán",
+      "B": "Phân tích tài chính",
+      "C": "Quản lý quỹ",
+      "D": "Tất cả các loại"
+    },
+    "correct": "D",
+    "explanation": "Theo Mẫu số 85 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), cam kết cho tất cả loại chứng chỉ hành nghề."
+  },
+  {
+    "id": 158,
+    "question": "Trong Bản thông tin cá nhân, người khai phải liệt kê những bằng cấp, chương trình đào tạo liên quan đến tiêu chuẩn, điều kiện của chức danh được gì?",
+    "options": {
+      "A": "Bầu, bổ nhiệm",
+      "B": "Bầu cử",
+      "C": "Tuyển dụng",
+      "D": "Khen thưởng"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), liên quan đến tiêu chuẩn, điều kiện của chức danh được bầu, bổ nhiệm."
+  },
+  {
+    "id": 159,
+    "question": "Sau khi nghiên cứu Điều lệ công ty và quy định pháp luật, người khai trong Bản thông tin cá nhân phải cam kết liệt kê nội dung phù hợp với gì?",
+    "options": {
+      "A": "Tiêu chuẩn, điều kiện của chức danh được bầu, bổ nhiệm",
+      "B": "Quyền lợi cổ đông",
+      "C": "Nghĩa vụ nhà đầu tư",
+      "D": "Trách nhiệm tổ chức phát hành"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), cam kết phù hợp với tiêu chuẩn, điều kiện của chức danh được bầu, bổ nhiệm."
+  },
+  {
+    "id": 160,
+    "question": "Trong Danh mục bất động sản góp vào quỹ đầu tư bất động sản, loại bất động sản bao gồm bất động sản tạo thu nhập cố định hoặc gì?",
+    "options": {
+      "A": "Bất động sản phục vụ giải trí, nghỉ dưỡng",
+      "B": "Công trình công nghiệp",
+      "C": "Đất nông nghiệp",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), loại bất động sản bao gồm tạo thu nhập cố định, phục vụ giải trí, công trình công nghiệp, đất nông nghiệp."
+  },
+  {
+    "id": 161,
+    "question": "Trong Danh mục bất động sản đang trong quá trình xây dựng, phải cung cấp chi tiết tình trạng mua bán/cho thuê trước, tiến độ xây dựng và gì?",
+    "options": {
+      "A": "Tóm lược về giá trị bán và các hợp đồng liên quan đã được ký kết",
+      "B": "Chỉ tiến độ xây dựng",
+      "C": "Chỉ tình trạng mua bán",
+      "D": "Không cần chi tiết"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), cung cấp tóm lược về giá trị bán và các hợp đồng liên quan đã được ký kết."
+  },
+  {
+    "id": 162,
+    "question": "Danh mục chứng khoán cơ cấu của thành viên lập quỹ, nhà đầu tư tham gia góp vốn thành lập quỹ được phong tỏa tại đâu?",
+    "options": {
+      "A": "Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam",
+      "B": "Sở giao dịch chứng khoán",
+      "C": "Ủy ban Chứng khoán Nhà nước",
+      "D": "Ngân hàng giám sát"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 104 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), phong tỏa tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam."
+  },
+  {
+    "id": 163,
+    "question": "Trong Danh sách cổ đông, cổ đông sáng lập được sắp xếp theo thứ tự về tỷ lệ sở hữu từ cao xuống thấp, và đại diện phần vốn góp là ai?",
+    "options": {
+      "A": "Đại diện theo pháp luật",
+      "B": "Chức vụ được chỉ định",
+      "C": "Cả A và B",
+      "D": "Không cần đại diện"
+    },
+    "correct": "C",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), đại diện phần vốn góp là đại diện và chức vụ."
+  },
+  {
+    "id": 164,
+    "question": "Danh sách Hội đồng quản trị bao gồm loại thành viên HĐQT nào?",
+    "options": {
+      "A": "Độc lập/điều hành/khác",
+      "B": "Chỉ độc lập",
+      "C": "Chỉ điều hành",
+      "D": "Không phân loại"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), loại thành viên HĐQT là độc lập/điều hành/khác."
+  },
+  {
+    "id": 165,
+    "question": "Danh sách Tổng giám đốc và nhân viên nghiệp vụ phải bao gồm loại Chứng chỉ hành nghề kinh doanh chứng khoán hoặc tương đương do cơ quan nào cấp?",
+    "options": {
+      "A": "Cơ quan cấp",
+      "B": "Ủy ban Chứng khoán Nhà nước",
+      "C": "Bộ Tài chính",
+      "D": "Sở giao dịch"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), bao gồm loại CCHN hoặc tương đương/cơ quan cấp."
+  },
+  {
+    "id": 166,
+    "question": "Cam kết của tổ chức phát hành chứng quyền có bảo đảm bao gồm tuân thủ nghĩa vụ thanh toán của chứng quyền và sản phẩm tài chính khác đã phát hành đối với trường hợp nào?",
+    "options": {
+      "A": "Đã từng chào bán chứng quyền, sản phẩm tài chính khác",
+      "B": "Chưa từng chào bán",
+      "C": "Chỉ chứng quyền",
+      "D": "Không cam kết"
+    },
+    "correct": "A",
+    "explanation": "Theo cam kết trong Mẫu số 84 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tuân thủ nghĩa vụ đối với trường hợp đã từng chào bán."
+  },
+  {
+    "id": 167,
+    "question": "Ngân hàng nơi mở tài khoản phong tỏa không phải là người có liên quan của tổ chức phát hành theo quy định của pháp luật nào?",
+    "options": {
+      "A": "Pháp luật chứng khoán",
+      "B": "Pháp luật ngân hàng",
+      "C": "Pháp luật doanh nghiệp",
+      "D": "Pháp luật đầu tư"
+    },
+    "correct": "A",
+    "explanation": "Theo cam kết của tổ chức phát hành trong Mẫu số 84 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), không phải người có liên quan theo pháp luật chứng khoán."
+  },
+  {
+    "id": 168,
+    "question": "Trong Giấy đăng ký dự thi sát hạch, người đăng ký phải ghi rõ loại chứng chỉ hành nghề chứng khoán nào?",
+    "options": {
+      "A": "Môi giới chứng khoán",
+      "B": "Phân tích tài chính",
+      "C": "Quản lý quỹ",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo Mẫu số 85 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), đăng ký loại chứng chỉ Môi giới, Phân tích tài chính, Quản lý quỹ."
+  },
+  {
+    "id": 169,
+    "question": "Lý do đề nghị được cấp lại chứng chỉ hành nghề chứng khoán được ghi trong phần nào của Giấy đề nghị?",
+    "options": {
+      "A": "Phần III",
+      "B": "Phần I",
+      "C": "Phần II",
+      "D": "Không ghi"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 85 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), lý do đề nghị cấp lại ghi trong phần III."
+  },
+  {
+    "id": 170,
+    "question": "Trong Bản thông tin cá nhân, quá trình học tập phải nêu rõ tên trường, tên thành phố, quốc gia nơi trường đặt trụ sở chính và gì?",
+    "options": {
+      "A": "Tên khóa học, thời gian học, tên bằng",
+      "B": "Chỉ tên trường",
+      "C": "Chỉ thời gian học",
+      "D": "Không cần chi tiết"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), nêu rõ tên khóa học, thời gian học, tên bằng liên quan đến chức danh."
+  },
+  {
+    "id": 171,
+    "question": "Quá trình công tác trong Bản thông tin cá nhân phải chi tiết về nghề nghiệp, chức vụ, vị trí công tác đã qua và gì?",
+    "options": {
+      "A": "Kết quả công tác tại từng vị trí/khen thưởng, kỷ luật nếu có",
+      "B": "Chỉ chức vụ",
+      "C": "Chỉ vị trí công tác",
+      "D": "Không cần kết quả"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), chi tiết kết quả công tác, khen thưởng, kỷ luật nếu có."
+  },
+  {
+    "id": 172,
+    "question": "Chức vụ dự kiến trong Bản thông tin cá nhân là chức vụ trong công ty quản lý quỹ đầu tư chứng khoán hoặc gì?",
+    "options": {
+      "A": "Quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán",
+      "B": "Chỉ công ty quản lý quỹ",
+      "C": "Chỉ quỹ đầu tư",
+      "D": "Không cần chức vụ"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), chức vụ dự kiến trong công ty quản lý quỹ hoặc quỹ, công ty đầu tư chứng khoán."
+  },
+  {
+    "id": 173,
+    "question": "Nhân thân người khai trong Bản thông tin cá nhân bao gồm vợ/chồng, bố, mẹ, con và gì?",
+    "options": {
+      "A": "Anh/chị/em ruột",
+      "B": "Chỉ vợ/chồng",
+      "C": "Chỉ bố mẹ",
+      "D": "Không cần nhân thân"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), nhân thân bao gồm vợ/chồng, bố, mẹ, con, anh/chị/em ruột."
+  },
+  {
+    "id": 174,
+    "question": "Trong Danh mục bất động sản góp vào quỹ, tên bất động sản phải cung cấp chi tiết diện tích, vị trí, địa điểm và gì?",
+    "options": {
+      "A": "Đặc điểm khu vực lân cận",
+      "B": "Chỉ diện tích",
+      "C": "Chỉ vị trí",
+      "D": "Không cần chi tiết"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), cung cấp tên bất động sản, diện tích, vị trí, địa điểm và đặc điểm khu vực lân cận."
+  },
+  {
+    "id": 175,
+    "question": "Danh mục chứng khoán cơ cấu bao gồm cổ phiếu niêm yết, trái phiếu và gì?",
+    "options": {
+      "A": "Các loại chứng khoán khác",
+      "B": "Chỉ cổ phiếu niêm yết",
+      "C": "Chỉ trái phiếu",
+      "D": "Không có loại khác"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 104 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), danh mục bao gồm cổ phiếu niêm yết, trái phiếu, các loại chứng khoán khác."
+  },
+  {
+    "id": 176,
+    "question": "Trong Danh sách cổ đông góp vốn, đại diện phần vốn góp phải ghi rõ gì?",
+    "options": {
+      "A": "Chức vụ",
+      "B": "Họ tên",
+      "C": "Số định danh cá nhân",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), đại diện phần vốn góp ghi rõ họ tên, chức vụ, số định danh."
+  },
+  {
+    "id": 177,
+    "question": "Danh sách Hội đồng quản trị phải ghi chức vụ tại các tổ chức kinh tế khác của thành viên nào?",
+    "options": {
+      "A": "Tất cả thành viên",
+      "B": "Chỉ thành viên độc lập",
+      "C": "Chỉ thành viên điều hành",
+      "D": "Không cần ghi"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), ghi chức vụ tại các tổ chức kinh tế khác cho tất cả thành viên HĐQT."
+  },
+  {
+    "id": 178,
+    "question": "Cam kết chịu trách nhiệm về tính chính xác, trung thực trong Danh sách cổ đông, thành viên Hội đồng quản trị là của ai?",
+    "options": {
+      "A": "Đại diện có thẩm quyền của công ty",
+      "B": "Ủy ban Chứng khoán",
+      "C": "Sở giao dịch",
+      "D": "Tổ chức kiểm toán"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), cam kết của đại diện có thẩm quyền của công ty."
+  },
+  {
+    "id": 179,
+    "question": "Trong Danh mục bất động sản, công năng sử dụng và loại bất động sản phải được cung cấp cho bất động sản nào?",
+    "options": {
+      "A": "Nhà, công trình xây dựng đã hoàn thành",
+      "B": "Nhà, công trình xây dựng đang trong quá trình xây dựng",
+      "C": "Cả A và B",
+      "D": "Không cần cung cấp"
+    },
+    "correct": "C",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), cung cấp công năng sử dụng và loại bất động sản cho cả hai trường hợp."
+  },
+  {
+    "id": 180,
+    "question": "Danh sách nhân viên nghiệp vụ, nhân viên thẩm định giá phải ghi vị trí công tác dự kiến và loại gì?",
+    "options": {
+      "A": "Chứng chỉ hành nghề kinh doanh chứng khoán hoặc tương đương",
+      "B": "Chỉ vị trí công tác",
+      "C": "Chỉ chứng chỉ",
+      "D": "Không cần ghi"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), ghi loại CCHN hoặc tương đương và vị trí công tác dự kiến."
+  },
+  {
+    "id": 181,
+    "question": "Tổ chức thẩm định giá bất động sản phải cung cấp chi tiết danh mục bất động sản của nhà đầu tư tham gia góp vốn lập quỹ đầu tư bất động sản nhằm mục đích gì?",
+    "options": {
+      "A": "Góp vào tài sản quỹ/công ty",
+      "B": "Bán bất động sản",
+      "C": "Cho thuê bất động sản",
+      "D": "Không có mục đích"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), nhằm mục đích góp vào tài sản quỹ/công ty."
+  },
+  {
+    "id": 182,
+    "question": "Trong Danh mục chứng khoán cơ cấu, thành viên lập quỹ và nhà đầu tư được phân loại riêng, với thành viên lập quỹ ghi số Giấy đăng ký kinh doanh hoặc gì?",
+    "options": {
+      "A": "Giấy thành lập và hoạt động",
+      "B": "Số định danh cá nhân",
+      "C": "Cả A và B",
+      "D": "Không cần ghi"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 104 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), thành viên lập quỹ ghi số Giấy đăng ký kinh doanh/Giấy thành lập và hoạt động."
+  },
+  {
+    "id": 183,
+    "question": "Tổng giám đốc Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam ký và đóng dấu trong mẫu nào?",
+    "options": {
+      "A": "Mẫu số 104",
+      "B": "Mẫu số 103",
+      "C": "Mẫu số 105",
+      "D": "Mẫu số 85"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 104 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), Tổng giám đốc ký và đóng dấu."
+  },
+  {
+    "id": 184,
+    "question": "Trong Danh sách cổ đông, tỷ lệ cổ phần/vốn điều lệ được tính cho từng cổ đông sắp xếp theo thứ tự nào?",
+    "options": {
+      "A": "Tỷ lệ sở hữu từ cao xuống thấp",
+      "B": "Từ thấp lên cao",
+      "C": "Theo tên alphabet",
+      "D": "Không sắp xếp"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), sắp xếp theo tỷ lệ sở hữu từ cao xuống thấp."
+  },
+  {
+    "id": 185,
+    "question": "Người đăng ký dự thi lại phải ghi rõ phần thi lại trong phần nào của Giấy đăng ký?",
+    "options": {
+      "A": "Phần II",
+      "B": "Phần I",
+      "C": "Phần III",
+      "D": "Không ghi"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 85 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), đăng ký thi lại phần trong phần II."
+  },
+  {
+    "id": 186,
+    "question": "Trong Bản thông tin cá nhân, quốc tịch đối với người nước ngoài là gì?",
+    "options": {
+      "A": "Các quốc tịch hiện có",
+      "B": "Chỉ quốc tịch hiện tại",
+      "C": "Quốc tịch gốc",
+      "D": "Không cần quốc tịch"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), quốc tịch (các quốc tịch hiện có đối với người nước ngoài)."
+  },
+  {
+    "id": 187,
+    "question": "Chức vụ hiện nay tại các tổ chức khác được ghi trong phần nào của Bản thông tin cá nhân?",
+    "options": {
+      "A": "Phần 12",
+      "B": "Phần 11",
+      "C": "Phần 10",
+      "D": "Phần 9"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), chức vụ hiện nay tại các tổ chức khác ở phần 12."
+  },
+  {
+    "id": 188,
+    "question": "Trong Danh mục bất động sản, giá trị và tỷ lệ %/VĐL quỹ được ghi cho từng bất động sản nào?",
+    "options": {
+      "A": "Nhà, công trình xây dựng đã hoàn thành",
+      "B": "Nhà, công trình xây dựng đang trong quá trình xây dựng",
+      "C": "Cả A và B",
+      "D": "Không ghi giá trị"
+    },
+    "correct": "C",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), giá trị và tỷ lệ %/VĐL quỹ cho cả hai trường hợp."
+  },
+  {
+    "id": 189,
+    "question": "Danh mục chứng khoán cơ cấu được cung cấp chi tiết cho thành viên lập quỹ và gì?",
+    "options": {
+      "A": "Nhà đầu tư",
+      "B": "Tổ chức phát hành",
+      "C": "Ngân hàng giám sát",
+      "D": "Ủy ban Chứng khoán"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 104 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), danh mục chứng khoán cơ cấu của thành viên lập quỹ, nhà đầu tư."
+  },
+  {
+    "id": 190,
+    "question": "Trong Danh sách cổ đông sáng lập, công ty A phải ghi đại diện phần vốn góp là ai và gì?",
+    "options": {
+      "A": "Đại diện và chức vụ",
+      "B": "Chỉ đại diện",
+      "C": "Chỉ chức vụ",
+      "D": "Không cần ghi"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), đại diện phần vốn góp là đại diện và chức vụ."
+  },
+  {
+    "id": 191,
+    "question": "Người đăng ký dự thi phải ghi số điện thoại liên lạc trong phần nào?",
+    "options": {
+      "A": "Phần I",
+      "B": "Phần II",
+      "C": "Phần III",
+      "D": "Không ghi"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 85 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), số điện thoại liên lạc ở phần I thông tin cá nhân."
+  },
+  {
+    "id": 192,
+    "question": "Trong Bản thông tin cá nhân, quá trình công tác phải chi tiết về trách nhiệm công việc và gì?",
+    "options": {
+      "A": "Khen thưởng/Kỷ luật",
+      "B": "Chỉ trách nhiệm công việc",
+      "C": "Chỉ khen thưởng",
+      "D": "Không cần chi tiết"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), chi tiết trách nhiệm công việc, khen thưởng/kỷ luật."
+  },
+  {
+    "id": 193,
+    "question": "Tổ chức thẩm định giá ký và đóng dấu trong mẫu nào?",
+    "options": {
+      "A": "Mẫu số 103",
+      "B": "Mẫu số 104",
+      "C": "Mẫu số 105",
+      "D": "Mẫu số 85"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), đại diện có thẩm quyền của tổ chức thẩm định giá ký và đóng dấu."
+  },
+  {
+    "id": 194,
+    "question": "Trong Danh mục bất động sản, các công trình kiến trúc và công năng sử dụng được cung cấp cho gì?",
+    "options": {
+      "A": "Tên bất động sản",
+      "B": "Giá trị",
+      "C": "Tỷ lệ %/VĐL quỹ",
+      "D": "Không cung cấp"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), cung cấp các công trình kiến trúc và công năng sử dụng cho tên bất động sản."
+  },
+  {
+    "id": 195,
+    "question": "Danh sách nhân viên nghiệp vụ phải ghi số định danh cá nhân và vị trí công tác gì?",
+    "options": {
+      "A": "Dự kiến",
+      "B": "Hiện tại",
+      "C": "Quá khứ",
+      "D": "Không ghi vị trí"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), vị trí công tác dự kiến."
+  },
+  {
+    "id": 196,
+    "question": "Trong Mẫu số 104, thông tin về quỹ ETF bao gồm tên quỹ, ngân hàng giám sát và gì?",
+    "options": {
+      "A": "Giấy chứng nhận đăng ký chào bán chứng khoán",
+      "B": "Thời hạn hoạt động của quỹ",
+      "C": "Vốn điều lệ của quỹ",
+      "D": "Tất cả các lựa chọn trên"
+    },
+    "correct": "D",
+    "explanation": "Theo Mẫu số 104 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), bao gồm tên quỹ, ngân hàng giám sát, Giấy chứng nhận, thời hạn, vốn điều lệ."
+  },
+  {
+    "id": 197,
+    "question": "Người khai Bản thông tin cá nhân cam kết chịu trách nhiệm trước pháp luật về nội dung khai gì?",
+    "options": {
+      "A": "Tính chính xác, trung thực",
+      "B": "Chỉ chính xác",
+      "C": "Chỉ trung thực",
+      "D": "Không cam kết"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 91 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), cam kết tính chính xác, trung thực."
+  },
+  {
+    "id": 198,
+    "question": "Trong Danh sách cổ đông, số lượng cổ phần và giá trị cổ phần được ghi cho từng cổ đông nào?",
+    "options": {
+      "A": "Cổ đông sáng lập và cổ đông góp vốn",
+      "B": "Chỉ cổ đông sáng lập",
+      "C": "Chỉ cổ đông góp vốn",
+      "D": "Không ghi số lượng"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 105 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), ghi số lượng và giá trị cổ phần cho cả cổ đông sáng lập và góp vốn."
+  },
+  {
+    "id": 199,
+    "question": "Tổ chức thẩm định giá cung cấp danh mục bất động sản cho quỹ đầu tư bất động sản, công ty đầu tư chứng khoán bất động sản đang được thẩm định giá nhằm mục đích gì?",
+    "options": {
+      "A": "Góp vốn lập quỹ",
+      "B": "Bán quỹ",
+      "C": "Cho thuê quỹ",
+      "D": "Không có mục đích"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 103 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), nhằm mục đích góp vào tài sản quỹ/công ty."
+  },
+  {
+    "id": 200,
+    "question": "Trong Mẫu số 85, loại chứng chỉ hành nghề chứng khoán đề nghị được cấp lại bao gồm Môi giới chứng khoán, Phân tích tài chính và gì?",
+    "options": {
+      "A": "Quản lý quỹ",
+      "B": "Lưu ký chứng khoán",
+      "C": "Bảo lãnh phát hành",
+      "D": "Tư vấn đầu tư"
+    },
+    "correct": "A",
+    "explanation": "Theo Mẫu số 85 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), loại chứng chỉ đề nghị cấp lại bao gồm Môi giới, Phân tích tài chính, Quản lý quỹ."
   }
 ]
