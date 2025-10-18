@@ -1,3 +1,4 @@
+```javascript
 let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
@@ -157,6 +158,7 @@ function loadQuestion() {
     } else {
         const answer = userAnswers[currentQuestionIndex];
         const correct = questionData.correct;
+        const explanation = questionData.explanation || 'Không có giải thích.'; // Fallback nếu không có explanation
         const optionKeys = Object.keys(questionData.options).filter(key => questionData.options[key] !== '');
         optionKeys.forEach(key => {
             const button = document.createElement('button');
@@ -169,13 +171,13 @@ function loadQuestion() {
         });
         const feedback = document.getElementById('feedback');
         if (answer.selected === null) {
-            feedback.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
+            feedback.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${questionData.options[correct]}. Giải thích: ${explanation}`;
             feedback.style.color = 'red';
         } else if (answer.correct) {
-            feedback.innerText = 'Đúng!';
+            feedback.innerText = `Đúng! Giải thích: ${explanation}`;
             feedback.style.color = 'green';
         } else {
-            feedback.innerText = `Sai! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
+            feedback.innerText = `Sai! Đáp án đúng: ${correct}. ${questionData.options[correct]}. Giải thích: ${explanation}`;
             feedback.style.color = 'red';
         }
         document.getElementById('next-btn').disabled = false;
@@ -202,7 +204,9 @@ function startTimer() {
 function selectOption(button, option) {
     if (selectedOption) return;
     selectedOption = option;
-    const correct = selectedQuestions[currentQuestionIndex].correct;
+    const questionData = selectedQuestions[currentQuestionIndex];
+    const correct = questionData.correct;
+    const explanation = questionData.explanation || 'Không có giải thích.'; // Fallback nếu không có explanation
     const feedback = document.getElementById('feedback');
     document.querySelectorAll('.option').forEach(btn => {
         btn.disabled = true;
@@ -211,22 +215,22 @@ function selectOption(button, option) {
         else if (btnKey === option && option !== correct) btn.classList.add('incorrect');
     });
     if (option === null) {
-        feedback.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${selectedQuestions[currentQuestionIndex].options[correct]}`;
+        feedback.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${questionData.options[correct]}. Giải thích: ${explanation}`;
         feedback.style.color = 'red';
-        userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: null, correct: false };
+        userAnswers[currentQuestionIndex] = { id: questionData.id, selected: null, correct: false };
     } else if (option === correct) {
-        feedback.innerText = 'Đúng!';
+        feedback.innerText = `Đúng! Giải thích: ${explanation}`;
         feedback.style.color = 'green';
         score++;
         const scoreValueElement = document.getElementById('score-value');
         if (scoreValueElement) {
             scoreValueElement.textContent = `${score}/${selectedQuestions.length}`;
         }
-        userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: option, correct: true };
+        userAnswers[currentQuestionIndex] = { id: questionData.id, selected: option, correct: true };
     } else {
-        feedback.innerText = `Sai! Đáp án đúng: ${correct}. ${selectedQuestions[currentQuestionIndex].options[correct]}`;
+        feedback.innerText = `Sai! Đáp án đúng: ${correct}. ${questionData.options[correct]}. Giải thích: ${explanation}`;
         feedback.style.color = 'red';
-        userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: option, correct: false };
+        userAnswers[currentQuestionIndex] = { id: questionData.id, selected: option, correct: false };
     }
     const box = document.querySelector(`.question-box[data-index="${currentQuestionIndex}"]`);
     if (box) {
@@ -339,3 +343,4 @@ function restartQuiz() {
     updateNumQuestionsOptions();
     displayPastScores();
 }
+```
