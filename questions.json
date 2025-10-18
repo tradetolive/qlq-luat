@@ -1,727 +1,1188 @@
 [
   {
     "id": 1,
-    "question": "Mức lợi nhuận phi rủi ro hiện là 7%. Mức sinh lời của thị trường là 15%. Một cổ phiếu có hệ số beta = 1.3 nhưng mức sinh lời kỳ vọng thực tế của cổ phiếu được báo là 12%. Theo mô hình CAPM, bạn sẽ:",
+    "question": "Theo Luật Chứng khoán, chứng khoán là tài sản bao gồm các loại nào sau đây, nhưng lưu ý rằng không phải tất cả các loại tài sản đều được coi là chứng khoán?",
     "options": {
-      "A": "Mua cổ phiếu (undervalued).",
-      "B": "Bán khống cổ phiếu (overvalued).",
-      "C": "Giữ/chờ thêm thông tin.",
-      "D": "Mua một phần nhỏ để đánh cược vào phản hồi thị trường.",
-      "E": "Không thao tác."
+      "A": "Cổ phiếu, trái phiếu, chứng chỉ quỹ, chứng quyền, chứng quyền có bảo đảm, quyền mua cổ phần, chứng chỉ lưu ký, chứng khoán phái sinh và các loại khác do Chính phủ quy định.",
+      "B": "Cổ phiếu, trái phiếu, chứng chỉ quỹ, chứng quyền, chứng quyền có bảo đảm, quyền mua cổ phần, chứng chỉ lưu ký, chứng khoán phái sinh, bất động sản và hàng hóa.",
+      "C": "Chỉ cổ phiếu, trái phiếu và chứng khoán phái sinh.",
+      "D": "Cổ phiếu, trái phiếu, chứng chỉ quỹ và các loại tài sản cố định khác.",
+      "E": "Không có quy định cụ thể về loại chứng khoán."
     },
-    "correct": "B",
-    "explanation": "Áp dụng CAPM: E(R) = Rf + beta*(E(Rm)-Rf) = 7% + 1.3*(15%-7%) = 7% + 1.3*8% = 7% + 10.4% = 17.4%. Mức sinh lời báo là 12% < 17.4% → cổ phiếu đang mang lại mức lợi thấp hơn required return theo CAPM → được định giá quá cao so với yêu cầu lợi suất → hành động hợp lý là bán (hoặc bán khống nếu không nắm giữ)."
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng khoán là tài sản bao gồm: a) Cổ phiếu, trái phiếu, chứng chỉ quỹ; b) Chứng quyền, chứng quyền có bảo đảm, quyền mua cổ phần, chứng chỉ lưu ký; c) Chứng khoán phái sinh; d) Các loại chứng khoán khác do Chính phủ quy định. Lựa chọn B là bẫy vì thêm bất động sản và hàng hóa không phải chứng khoán."
   },
   {
     "id": 2,
-    "question": "Trong một danh mục đầu tư được đa dạng hóa tốt:",
+    "question": "Phạm vi điều chỉnh của Luật Chứng khoán không bao gồm hoạt động nào sau đây, mặc dù có thể liên quan gián tiếp đến thị trường chứng khoán?",
     "options": {
-      "A": "Rủi ro thị trường được coi như không đáng kể.",
-      "B": "Rủi ro riêng lẻ được coi như không đáng kể.",
-      "C": "Rủi ro hệ thống được coi như không đáng kể.",
-      "D": "Rủi ro không thể đa dạng hóa được coi như không đáng kể.",
-      "E": "Không có đáp án nào đúng."
+      "A": "Các hoạt động về chứng khoán và thị trường chứng khoán; quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực chứng khoán.",
+      "B": "Tổ chức thị trường chứng khoán; quản lý nhà nước về chứng khoán và thị trường chứng khoán.",
+      "C": "Hoạt động ngân hàng thương mại và cho vay tín dụng.",
+      "D": "Quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực chứng khoán.",
+      "E": "Tất cả các hoạt động liên quan đến tài chính."
     },
-    "correct": "B",
-    "explanation": "Khi danh mục đa dạng hóa tốt, rủi ro riêng lẻ (idiosyncratic risk) có thể được loại bỏ qua việc phân bổ vốn nhiều tài sản; rủi ro hệ thống (market risk) vẫn tồn tại và không thể đa dạng hóa hoàn toàn."
+    "correct": "C",
+    "explanation": "Theo Điều 1 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), phạm vi điều chỉnh là các hoạt động về chứng khoán và thị trường chứng khoán; quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực chứng khoán; tổ chức thị trường chứng khoán; quản lý nhà nước về chứng khoán và thị trường chứng khoán. Lựa chọn C là bẫy vì hoạt động ngân hàng không nằm trong phạm vi trực tiếp, dù có liên quan gián tiếp."
   },
   {
     "id": 3,
-    "question": "Mức sinh lời kỳ vọng của một cổ phiếu có hệ số beta = 0 có nghĩa là:",
+    "question": "Chứng chỉ quỹ xác nhận quyền sở hữu của nhà đầu tư đối với một phần vốn góp của quỹ đầu tư chứng khoán, nhưng quyền này có thể bị hạn chế trong trường hợp nào?",
     "options": {
-      "A": "Bằng lãi suất phi rủi ro (risk-free rate).",
-      "B": "Bằng 0.",
-      "C": "Mang giá trị âm.",
-      "D": "Bằng mức sinh lời của thị trường.",
-      "E": "Không xác định."
+      "A": "Quyền sở hữu một phần nợ của tổ chức phát hành.",
+      "B": "Quyền sở hữu của nhà đầu tư đối với một phần vốn góp của quỹ đầu tư chứng khoán, trừ khi quỹ bị giải thể.",
+      "C": "Quyền mua cổ phiếu phổ thông nhất định.",
+      "D": "Quyền bán chứng khoán cơ sở với tổ chức phát hành.",
+      "E": "Không có quyền sở hữu cụ thể."
     },
-    "correct": "A",
-    "explanation": "Theo CAPM, E(Ri) = Rf + beta*(E(Rm)-Rf). Nếu beta = 0 → E(Ri) = Rf. Do đó mức sinh lời kỳ vọng là lãi suất phi rủi ro."
+    "correct": "B",
+    "explanation": "Theo khoản 4 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng chỉ quỹ là loại chứng khoán xác nhận quyền sở hữu của nhà đầu tư đối với một phần vốn góp của quỹ đầu tư chứng khoán. Lựa chọn B thêm điều kiện 'trừ khi quỹ bị giải thể' làm bẫy, nhưng quyền sở hữu vẫn tồn tại đến khi phân phối tài sản."
   },
   {
     "id": 4,
-    "question": "Giả sử một cổ phiếu được định giá hợp lý và có mức sinh lời kỳ vọng là 13%. Mức sinh lời kỳ vọng của thị trường là 13% và hệ số rủi ro thị trường (E(Rm)-Rf) là 4%. Hệ số beta của cổ phiếu này là:",
+    "question": "Hợp đồng quyền chọn xác nhận quyền của người mua và nghĩa vụ của người bán để thực hiện giao dịch mua hoặc bán tài sản cơ sở, nhưng nghĩa vụ này có thể bị hủy bỏ nếu không thực hiện đúng thời điểm không?",
     "options": {
-      "A": "1,25",
-      "B": "1,7",
-      "C": "1,0",
-      "D": "0,95",
-      "E": "Không xác định"
+      "A": "Mua hoặc bán số lượng tài sản cơ sở nhất định theo mức giá thực hiện đã được xác định tại thời điểm trước hoặc vào ngày đã xác định.",
+      "B": "Chỉ mua tài sản cơ sở mà không có nghĩa vụ bán.",
+      "C": "Chỉ bán tài sản cơ sở mà không có quyền mua.",
+      "D": "Chuyển giao tài sản mà không cần thanh toán tiền.",
+      "E": "Không có quyền thực hiện nếu không muốn."
     },
-    "correct": "C",
-    "explanation": "Nếu E(Ri)=E(Rm)=13% và theo CAPM E(Ri)=Rf + beta*(E(Rm)-Rf). Để hai bên bằng nhau với E(Ri)=E(Rm), điều đó xảy ra khi beta = 1 (khi yêu cầu lợi suất của cổ phiếu bằng lợi suất thị trường)."
+    "correct": "A",
+    "explanation": "Theo điểm a khoản 11 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), hợp đồng quyền chọn xác nhận quyền của người mua và nghĩa vụ của người bán để thực hiện mua hoặc bán số lượng tài sản cơ sở nhất định theo mức giá thực hiện đã được xác định tại thời điểm trước hoặc vào ngày đã xác định. Lựa chọn E là bẫy vì quyền chọn cho người mua quyền không nghĩa vụ, nhưng câu hỏi nhấn mạnh nghĩa vụ của người bán."
   },
   {
     "id": 5,
-    "question": "Xét một danh mục đầu tư gồm 1 triệu USD vào trái phiếu chiết khấu kỳ hạn 5 năm và 4 triệu USD vào trái phiếu chiết khấu kỳ hạn 10 năm. Thời gian đáo hạn bình quân là 9 năm. Giả định trái phiếu rẻ nhất để giao theo hợp đồng tương lai kỳ hạn 3 tháng là trái phiếu kỳ hạn 8 năm. Giá hợp đồng tương lai hiện tại là 90-16 (ví dụ: 90,5), mỗi hợp đồng có mệnh giá 100.000 USD. Để phòng ngừa rủi ro cho danh mục trong 3 tháng tới, nhà đầu tư nên sử dụng:",
+    "question": "Nhà đầu tư chứng khoán chuyên nghiệp bao gồm tổ chức tài chính chuyên nghiệp và cá nhân sở hữu danh mục chứng khoán có giá trị tối thiểu 2 tỷ đồng, nhưng con số này có thể thay đổi theo quy định của Chính phủ không?",
     "options": {
-      "A": "Bán 52 hợp đồng.",
-      "B": "Bán 62 hợp đồng.",
-      "C": "Bán 72 hợp đồng.",
-      "D": "Bán 82 hợp đồng.",
-      "E": "Không đủ thông tin để tính chính xác."
+      "A": "Chỉ cá nhân sở hữu danh mục chứng khoán niêm yết, đăng ký giao dịch có giá trị tối thiểu 2 tỷ đồng Việt Nam.",
+      "B": "Tổ chức tài chính chuyên nghiệp, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, công ty bảo hiểm, ngân hàng, quỹ đầu tư chứng khoán, tổ chức quốc tế, quỹ nhà nước và cá nhân sở hữu danh mục chứng khoán niêm yết, đăng ký giao dịch có giá trị tối thiểu 2 tỷ đồng Việt Nam.",
+      "C": "Chỉ tổ chức quốc tế hoạt động tại Việt Nam mà không bao gồm cá nhân.",
+      "D": "Cá nhân không có tài sản nhưng có kinh nghiệm đầu tư.",
+      "E": "Không có quy định cụ thể về nhà đầu tư chuyên nghiệp."
     },
-    "correct": "E",
-    "explanation": "Để tính số hợp đồng cần bán (hedge ratio) cần công thức N = (Duration_portfolio * Value_portfolio) / (Duration_future * Contract_value) (hoặc công thức tương đương sử dụng giá và quy mô hợp đồng). Dữ liệu thiếu: duration điều chỉnh của hợp đồng tương lai / giá trị thị trường chính xác của HĐTL theo %, và giá hợp đồng cần chuyển sang giá trị (ví dụ 90-16 = 90 + 16/32 = 90.5 nếu đó là biểu diễn 32nds) và duration của 'trái phiếu rẻ nhất để giao'. Vì thiếu thông số duration của hợp đồng tương lai, ta chưa thể khẳng định con số chính xác; do đó chọn E và trong practice cần tính chính xác theo công thức cụ thể."
+    "correct": "B",
+    "explanation": "Theo khoản 12 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), nhà đầu tư chứng khoán chuyên nghiệp bao gồm tổ chức tài chính chuyên nghiệp, công ty chứng khoán, công ty quản lý quỹ, công ty đầu tư chứng khoán, công ty bảo hiểm, ngân hàng, quỹ đầu tư, tổ chức quốc tế, quỹ nhà nước và cá nhân sở hữu danh mục chứng khoán niêm yết, đăng ký giao dịch có giá trị tối thiểu 2 tỷ đồng Việt Nam. Câu hỏi thêm bẫy về 'có thể thay đổi theo quy định Chính phủ', nhưng luật không đề cập thay đổi con số."
   },
   {
     "id": 6,
-    "question": "Nhà đầu tư muốn tạo lập danh mục X gồm quỹ A và B. Mức sinh lời của danh mục X là 16%. Nếu bạn được yêu cầu tính độ lệch chuẩn danh mục X, câu trả lời sẽ là:",
+    "question": "Tổ chức niêm yết chứng khoán phải công bố thông tin định kỳ bao gồm báo cáo tài chính năm đã kiểm toán và báo cáo tài chính bán niên đã soát xét, nhưng báo cáo tài chính quý có cần kiểm toán không?",
     "options": {
-      "A": "15,62%",
-      "B": "24,58%",
-      "C": "20,59%",
-      "D": "Không có câu trả lời nào trên đây là đúng.",
-      "E": "Không đủ dữ liệu để tính chính xác."
+      "A": "Chỉ báo cáo tài chính năm đã kiểm toán.",
+      "B": "Báo cáo tài chính năm đã kiểm toán, báo cáo thường niên, báo cáo tài chính bán niên đã soát xét, báo cáo tài chính quý.",
+      "C": "Không cần công bố thông tin định kỳ nếu không có thay đổi.",
+      "D": "Chỉ báo cáo tài chính quý đã kiểm toán.",
+      "E": "Không đủ thông tin để xác định."
     },
-    "correct": "E",
-    "explanation": "Để tính độ lệch chuẩn của danh mục cần biết: độ lệch chuẩn của từng quỹ A, B và hiệp phương sai (hoặc tương quan) giữa chúng, cùng tỷ trọng đầu tư. Đề bài chỉ cho mức sinh lời 16% mà không cho các thông số rủi ro cần thiết → không thể tính độ lệch chuẩn; do đó đáp án chính xác là cần thêm dữ liệu."
+    "correct": "B",
+    "explanation": "Theo Điều 4 và Điều 5 Thông tư số 96/2020/TT-BTC, tổ chức niêm yết phải công bố định kỳ: báo cáo tài chính năm đã kiểm toán, báo cáo thường niên, báo cáo tài chính bán niên đã soát xét, báo cáo tài chính quý (không cần kiểm toán). Câu hỏi đặt bẫy về việc báo cáo quý có cần kiểm toán, nhưng theo thông tư, không cần."
   },
   {
     "id": 7,
-    "question": "Danh mục đầu tư vào cổ phiếu hàng đầu Thụy Sỹ, giá trị thị trường 3.500.000 EUR. Hợp đồng tương lai theo chỉ số SMI ở mức 5000 (quy mô 50 EUR/point). Để phòng ngừa rủi ro tổng thể, nhà đầu tư cần:",
+    "question": "Công ty chứng khoán phải đáp ứng điều kiện vốn điều lệ, trang thiết bị và nhân sự để được cấp phép hoạt động, nhưng số lượng người hành nghề chứng khoán có thể ít hơn 3 nếu chỉ một nghiệp vụ không?",
     "options": {
-      "A": "Mua 14 hợp đồng tương lai SMI.",
-      "B": "Mua ít hơn 14 hợp đồng tương lai SMI do tương quan thấp với chỉ số.",
-      "C": "Bán 14 hợp đồng tương lai SMI.",
-      "D": "Không phòng ngừa."
+      "A": "Có vốn điều lệ tối thiểu 100 tỷ đồng và có ít nhất 2 người hành nghề chứng khoán.",
+      "B": "Có trụ sở làm việc, trang thiết bị cần thiết cho hoạt động kinh doanh chứng khoán; vốn điều lệ, vốn chủ sở hữu thực góp theo quy định; có ít nhất 03 người hành nghề chứng khoán đối với từng nghiệp vụ kinh doanh được cấp phép.",
+      "C": "Chỉ cần vốn điều lệ mà không cần nhân sự.",
+      "D": "Không cần người hành nghề chứng khoán nếu có hệ thống tự động.",
+      "E": "Không xác định số lượng người hành nghề."
     },
-    "correct": "C",
-    "explanation": "Để phòng ngừa rủi ro thị trường (hedge short market risk) cho danh mục đang nắm giữ cổ phiếu, nhà đầu tư cần bán hợp đồng tương lai (short futures). Số hợp đồng xấp xỉ: N = Value_portfolio / (k * F) = 3,500,000 / (50 * 5000) = 3,500,000 / 250,000 = 14. Vì muốn giảm rủi ro tổng thể, hành động là bán 14 hợp đồng. (Nếu cần điều chỉnh theo beta khác 1 thì nhân thêm beta.)"
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 5 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), điều kiện cấp phép cho công ty chứng khoán bao gồm trụ sở, trang thiết bị; vốn điều lệ theo quy định; ít nhất 03 người hành nghề chứng khoán cho từng nghiệp vụ. Câu hỏi đặt bẫy về 'ít hơn 3 nếu chỉ một nghiệp vụ', nhưng luật yêu cầu ít nhất 3 cho từng nghiệp vụ."
   },
   {
     "id": 8,
-    "question": "Nhà đầu tư dự định đầu tư 100 triệu đồng trong 2,5 năm vào danh mục gồm: trái phiếu chiết khấu A (3 năm) và trái phiếu B (coupon 6%, 2 năm). Lãi suất thị trường 10%. Tỷ trọng đầu tư tối ưu phòng rủi ro lãi suất A và B lần lượt là:",
+    "question": "Tỷ lệ vốn khả dụng của công ty chứng khoán phải duy trì từ 180% trở lên để hoạt động bình thường, nhưng nếu dưới 180% thì có thể tiếp tục hoạt động mà không bị cảnh báo không?",
     "options": {
-      "A": "40% ; 60%",
-      "B": "43% ; 57%",
-      "C": "50% ; 50%",
-      "D": "53% ; 47%",
-      "E": "Không đủ dữ liệu"
+      "A": "Dưới 150% thì bị cảnh báo.",
+      "B": "Từ 180% trở lên để hoạt động bình thường; từ 150% đến dưới 180% bị cảnh báo; từ 120% đến dưới 150% bị kiểm soát.",
+      "C": "Từ 150% đến dưới 180% bị kiểm soát đặc biệt.",
+      "D": "Từ 120% đến dưới 150% bị cảnh báo.",
+      "E": "Không đủ dữ liệu để tính tỷ lệ."
     },
-    "correct": "D",
-    "explanation": "Đề bài đã đưa kết luận từ tài liệu gốc là tỷ trọng tối ưu A: 53% và B: 47% để phòng ngừa rủi ro lãi suất cho mục tiêu kỳ hạn hiệu chỉnh (ví dụ 2.5 năm). Thông thường cần tính duration/macaulay của từng trái phiếu, sau đó giải hệ phương trình WA + WB = 1 và WA*DA + WB*DB = target_duration để tìm WA,WB. Kết quả ở source gốc là 53%/47%."
+    "correct": "B",
+    "explanation": "Theo Điều 4 và Điều 6 Thông tư số 91/2020/TT-BTC, tỷ lệ vốn khả dụng từ 180% trở lên để hoạt động bình thường; dưới 180% bị cảnh báo, dưới 150% bị kiểm soát, dưới 120% bị kiểm soát đặc biệt. Câu hỏi đặt bẫy về 'tiếp tục hoạt động mà không bị cảnh báo' nếu dưới 180%, nhưng thực tế bị cảnh báo."
   },
   {
     "id": 9,
-    "question": "Danh mục 60% cổ phiếu, 40% trái phiếu, giá trị 30 triệu EUR một tuần trước; tuần này cổ phiếu tăng 4% và trái phiếu giảm 0.5%. Sau tái cân bằng (rebalance) để giữ tỷ lệ 60/40, giá trị đầu tư vào cổ phiếu sẽ là:",
+    "question": "Quỹ đầu tư chứng khoán phải tuân thủ hạn chế đầu tư không quá 20% giá trị tài sản ròng vào chứng khoán của một tổ chức phát hành, nhưng hạn chế này có áp dụng cho trái phiếu chính phủ không?",
     "options": {
-      "A": "18,0 triệu EUR",
-      "B": "18,4 triệu EUR",
-      "C": "18,5 triệu EUR",
-      "D": "18,7 triệu EUR",
-      "E": "Không có đáp án nào trên đây là đúng."
+      "A": "Đầu tư không quá 20% giá trị tài sản ròng vào chứng khoán của một tổ chức phát hành.",
+      "B": "Đầu tư không quá 10% tổng giá trị chứng khoán đang lưu hành của một tổ chức phát hành; không quá 20% giá trị tài sản ròng vào chứng khoán của một tổ chức phát hành; không quá 30% giá trị tài sản ròng vào chứng khoán của các công ty trong cùng nhóm công ty.",
+      "C": "Không có hạn chế đầu tư vào bất kỳ chứng khoán nào.",
+      "D": "Chỉ đầu tư vào trái phiếu và không quá 50% NAV.",
+      "E": "Không có đáp án đúng vì hạn chế không áp dụng cho tất cả."
     },
-    "correct": "E",
-    "explanation": "Ban đầu 30 triệu EUR. Sau biến động: cổ phiếu 60% *30 = 18 -> tăng 4% => 18*1.04 = 18.72; trái phiếu 12 -> giảm 0.5% => 12*0.995 = 11.94. Tổng giá trị mới = 18.72 + 11.94 = 30.66. Để tái cân bằng 60% cho cổ phiếu: 0.6 * 30.66 = 18.396 → xấp xỉ 18.396 triệu EUR ≈ 18.396 (không trùng với các lựa chọn 18.0, 18.4, 18.5, 18.7 trừ 18.4 rất gần nhưng làm tròn có thể gây khác biệt). Vì đề soạn gốc cho đáp án E (không có đáp án nào đúng), giữ E."
+    "correct": "B",
+    "explanation": "Theo Điều 24 Thông tư số 98/2020/TT-BTC, quỹ đầu tư chứng khoán phải tuân thủ: không quá 10% tổng giá trị chứng khoán lưu hành của một tổ chức; không quá 20% NAV vào chứng khoán của một tổ chức; không quá 30% NAV vào chứng khoán nhóm công ty. Câu hỏi đặt bẫy về 'áp dụng cho trái phiếu chính phủ', nhưng hạn chế không áp dụng cho trái phiếu chính phủ theo quy định ngoại lệ."
   },
   {
     "id": 10,
-    "question": "Thời gian đáo hạn bình quân điều chỉnh MD = 7 năm, lãi suất yêu cầu 12%. Nếu lãi suất yêu cầu giảm xuống 11%, giá trị danh mục trái phiếu sẽ thay đổi như thế nào (xấp xỉ)?",
+    "question": "Vi phạm công bố thông tin có thể bị xử phạt hành chính với mức phạt tiền từ 50 triệu đến 100 triệu đồng đối với vi phạm công bố thông tin định kỳ, nhưng mức phạt có thể cao hơn nếu vi phạm lặp lại không?",
     "options": {
-      "A": "Tăng 6%",
-      "B": "Giảm 6.5%",
-      "C": "Tăng 7%",
-      "D": "Tăng khoảng 6.25%",
-      "E": "Không thay đổi"
+      "A": "Chỉ cảnh cáo mà không phạt tiền.",
+      "B": "Phạt tiền từ 50 triệu đến 100 triệu đồng đối với vi phạm công bố thông tin định kỳ; cao hơn đối với thông tin bất thường, có thể đình chỉ hoạt động.",
+      "C": "Không xử phạt vi phạm công bố thông tin.",
+      "D": "Chỉ thu hồi chứng khoán mà không phạt tiền.",
+      "E": "Không xác định mức phạt cụ thể."
     },
-    "correct": "D",
-    "explanation": "Sử dụng công thức xấp xỉ: ΔP/P ≈ -MD/(1+y) * Δy. Với MD = 7, y = 0.12, Δy = -0.01 (giảm từ 12%→11%): ΔP/P ≈ -7/(1.12)*(-0.01) = +0.0625 ≈ +6.25% (tăng khoảng 6.25%)."
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 10 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), vi phạm công bố thông tin định kỳ phạt từ 50-100 triệu đồng; thông tin bất thường phạt cao hơn, có thể đình chỉ, thu hồi giấy phép. Câu hỏi đặt bẫy về 'cao hơn nếu vi phạm lặp lại', nhưng mức phạt không tự động tăng mà tùy theo mức độ."
   },
   {
     "id": 11,
-    "question": "Một danh mục gồm 3 tài sản rủi ro, các tài sản không tương quan (rho = 0) và có cùng kỳ vọng lẫn phương sai. Khi không xét độ ưa rủi ro của nhà đầu tư, danh mục nào là tối ưu?",
+    "question": "Công ty quản lý quỹ phải có vốn điều lệ tối thiểu 25 tỷ đồng để quản lý quỹ đại chúng, nhưng con số này có thể giảm nếu chỉ quản lý quỹ thành viên không?",
     "options": {
-      "A": "Danh mục từ một loại tài sản duy nhất.",
-      "B": "Bất kỳ tỷ trọng nào cũng tối ưu.",
-      "C": "Danh mục phân bổ bằng nhau cho ba tài sản.",
-      "D": "Không có đáp án nào trên đây."
+      "A": "Vốn điều lệ tối thiểu 10 tỷ đồng.",
+      "B": "Vốn điều lệ thực góp tối thiểu 25 tỷ đồng cho mọi loại quỹ.",
+      "C": "Vốn điều lệ tối thiểu 50 tỷ đồng.",
+      "D": "Vốn điều lệ tối thiểu 100 tỷ đồng.",
+      "E": "Không có quy định về vốn điều lệ."
     },
     "correct": "B",
-    "explanation": "Khi tất cả tài sản có cùng kỳ vọng và phương sai và không có tương quan, mọi tổ hợp tỷ trọng (với cùng tổng vốn) đều có cùng kỳ vọng và cùng phương sai bình quân theo điều kiện này → về mặt thống kê (không xét rủi ro chủ quan) đều tối ưu. Tuy nhiên trong thực tế nhà đầu tư ưu tiên khác nhau tùy A (mức ngại rủi ro)."
+    "explanation": "Theo khoản 1 Điều 4 Thông tư số 99/2020/TT-BTC, công ty quản lý quỹ phải có vốn điều lệ thực góp tối thiểu 25 tỷ đồng. Câu hỏi đặt bẫy về 'giảm nếu chỉ quản lý quỹ thành viên', nhưng vốn tối thiểu là giống nhau."
   },
   {
     "id": 12,
-    "question": "Quản lý danh mục 50 triệu EUR, beta hiện 0.8, muốn tăng lên 1.2, SMI = 5400, contract size = 50 EUR/point. Hành động:",
+    "question": "Chào bán trái phiếu doanh nghiệp riêng lẻ phải đáp ứng điều kiện báo cáo tài chính năm gần nhất được kiểm toán và không bị lỗ lũy kế, nhưng điều kiện này có áp dụng cho tất cả các đợt chào bán không?",
     "options": {
-      "A": "Bán 74 hợp đồng tương lai SMI.",
-      "B": "Mua 74 hợp đồng tương lai SMI.",
-      "C": "Bán 148 hợp đồng tương lai SMI.",
-      "D": "Mua 148 hợp đồng tương lai SMI.",
-      "E": "Không có đáp án đúng."
+      "A": "Chỉ bán cho nhà đầu tư chuyên nghiệp mà không cần báo cáo tài chính.",
+      "B": "Phải có báo cáo tài chính năm gần nhất được kiểm toán; không bị lỗ lũy kế; có phương án phát hành được phê duyệt.",
+      "C": "Không cần kiểm toán báo cáo tài chính.",
+      "D": "Bán cho mọi nhà đầu tư mà không cần phương án.",
+      "E": "Không đủ thông tin để xác định điều kiện."
     },
     "correct": "B",
-    "explanation": "Muốn tăng beta (tăng độ nhạy đối với chỉ số) phải mua hợp đồng tương lai (long futures). Số hợp đồng xấp xỉ: N = (Δβ * Value_portfolio) / (k * F) với Δβ = 1.2 - 0.8 = 0.4; Value = 50,000,000 EUR; k*F = 50 * 5400 = 270,000. N ≈ 0.4*50,000,000 / 270,000 ≈ 20,000,000 / 270,000 ≈ 74.07 → khoảng 74 hợp đồng mua."
+    "explanation": "Theo khoản 1 Điều 5 Nghị định số 153/2020/NĐ-CP, chào bán trái phiếu riêng lẻ phải có báo cáo tài chính kiểm toán không lỗ lũy kế, phương án phát hành phê duyệt, chỉ bán cho nhà đầu tư chuyên nghiệp. Câu hỏi đặt bẫy về 'áp dụng cho tất cả các đợt', nhưng có ngoại lệ cho một số trường hợp theo nghị định."
   },
   {
     "id": 13,
-    "question": "Danh mục có hệ số tương quan 0.85 với SMI, σ = 22%. Phòng ngừa theo phương pháp phương sai tối thiểu, rủi ro còn lại là:",
+    "question": "Tài sản cơ sở của chứng khoán phái sinh là chứng khoán, chỉ số chứng khoán hoặc tài sản khác theo quy định của Chính phủ, nhưng tài sản cơ sở có thể bao gồm hàng hóa không?",
     "options": {
-      "A": "18.7%",
-      "B": "15.9%",
-      "C": "11.59%",
-      "D": "Không có câu trả lời đúng."
+      "A": "Chỉ cổ phiếu và chỉ số chứng khoán.",
+      "B": "Chứng khoán, chỉ số chứng khoán hoặc tài sản khác theo quy định của Chính phủ.",
+      "C": "Chỉ trái phiếu và chứng chỉ quỹ.",
+      "D": "Bất động sản và hàng hóa cơ bản.",
+      "E": "Không xác định tài sản cơ sở cụ thể."
     },
-    "correct": "C",
-    "explanation": "Rủi ro còn lại sau hedging tối thiểu theo phương pháp phương sai: σ_res = σ * sqrt(1 - rho^2) = 0.22 * sqrt(1 - 0.85^2) = 0.22 * sqrt(1 - 0.7225) = 0.22 * sqrt(0.2775) ≈ 0.22 * 0.5268 ≈ 0.1159 = 11.59%."
+    "correct": "B",
+    "explanation": "Theo khoản 10 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), tài sản cơ sở là chứng khoán, chỉ số chứng khoán hoặc tài sản khác theo quy định của Chính phủ. Lựa chọn D là bẫy vì hàng hóa không được đề cập trực tiếp, trừ khi Chính phủ quy định."
   },
   {
     "id": 14,
-    "question": "Khách bán 20 triệu USD trái phiếu kho bạc, muốn phòng rủi ro tăng lãi suất trong 6 tháng (sẽ mua lại số trái phiếu sau). Hợp đồng phái sinh phù hợp là:",
+    "question": "Công ty đại chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước trong thời hạn 90 ngày sau khi trở thành công ty đại chúng, nhưng thời hạn này có thể kéo dài nếu có lý do chính đáng không?",
     "options": {
-      "A": "Mua hợp đồng tương lai tín phiếu kho bạc.",
-      "B": "Mua hợp đồng tương lai trái phiếu kho bạc.",
-      "C": "Bán hợp đồng tương lai tín phiếu kho bạc.",
-      "D": "Bán hợp đồng tương lai trái phiếu kho bạc.",
-      "E": "FRA (thỏa thuận kỳ hạn lãi suất).",
-      "F": "Hợp đồng kỳ hạn trái phiếu."
+      "A": "Trong thời hạn 30 ngày.",
+      "B": "Trong thời hạn 90 ngày kể từ ngày trở thành công ty đại chúng.",
+      "C": "Trong thời hạn 60 ngày.",
+      "D": "Trong thời hạn 120 ngày.",
+      "E": "Không cần đăng ký nếu không niêm yết."
     },
     "correct": "B",
-    "explanation": "Khách đã bán trái phiếu hiện tại và sẽ mua lại sau; để phòng rủi ro lãi suất tăng (làm phí mua lại cao hơn), cần mua hợp đồng tương lai trái phiếu (long futures) để khóa giá/hạn chế tổn thất do lãi suất tăng. Vì hành động mua lại sau là vị thế mua thực; tương ứng với long futures là bảo vệ chi phí mua lại."
+    "explanation": "Theo khoản 1 Điều 32 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), công ty đại chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước trong thời hạn 90 ngày kể từ ngày trở thành công ty đại chúng. Câu hỏi đặt bẫy về 'kéo dài nếu có lý do', nhưng luật không cho phép kéo dài."
   },
   {
     "id": 15,
-    "question": "Mức sinh lời đầy đủ và hoàn hảo (fully diversified) phải bằng:",
+    "question": "Quản lý nhà nước về chứng khoán thuộc Chính phủ thống nhất quản lý, Bộ Tài chính chịu trách nhiệm trước Chính phủ, Ủy ban Chứng khoán Nhà nước thực hiện quản lý trực tiếp, nhưng Ủy ban Chứng khoán có phải là cơ quan độc lập không?",
     "options": {
-      "A": "0",
-      "B": "Lãi suất phi rủi ro",
-      "C": "Mức sinh lời kỳ vọng của danh mục thị trường",
-      "D": "Không có câu trả lời nào trên đây là đúng",
-      "E": "Phụ thuộc vào mô hình định giá"
+      "A": "Chính phủ thống nhất quản lý; Bộ Tài chính chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về chứng khoán; Ủy ban Chứng khoán Nhà nước thực hiện chức năng quản lý nhà nước trực tiếp về chứng khoán.",
+      "B": "Chỉ Bộ Tài chính quản lý trực tiếp mà không cần Ủy ban Chứng khoán.",
+      "C": "Chỉ Ủy ban Chứng khoán Nhà nước quản lý mà không cần Bộ Tài chính.",
+      "D": "Ngân hàng Nhà nước Việt Nam quản lý chứng khoán.",
+      "E": "Không có cơ quan quản lý nhà nước cụ thể."
     },
-    "correct": "C",
-    "explanation": "Khái niệm 'mức sinh lời đầy đủ và hoàn hảo' thường hiểu là mức sinh lời của danh mục thị trường (market portfolio) trong bối cảnh lý thuyết định giá tài sản vốn — danh mục thị trường phản ánh tất cả tài sản rủi ro và có mức lợi suất kỳ vọng thị trường."
+    "correct": "A",
+    "explanation": "Theo Điều 6 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), Chính phủ thống nhất quản lý; Bộ Tài chính chịu trách nhiệm trước Chính phủ; Ủy ban Chứng khoán Nhà nước thực hiện quản lý trực tiếp. Câu hỏi đặt bẫy về 'cơ quan độc lập', nhưng Ủy ban Chứng khoán thuộc Bộ Tài chính."
   },
   {
     "id": 16,
-    "question": "Một nhà đầu cơ mua 10 quyền chọn bán (put) trên GBP, strike 1.5 USD, premium 0.02 USD/quyền, ban đầu spot = 1.55 USD, ngay trước đáo hạn spot = 1.48 USD; hợp đồng có quy mô 31,250 GBP. Lãi/lỗ từ giao dịch là:",
+    "question": "Cổ đông lớn là cổ đông sở hữu từ 5% trở lên số cổ phiếu có quyền biểu quyết của công ty đại chúng, nhưng tỷ lệ này có áp dụng cho chứng chỉ quỹ đóng không?",
     "options": {
-      "A": "0 USD",
-      "B": "Lãi 6,250 USD",
-      "C": "Lỗ 3,125 USD",
-      "D": "Lãi 6,875 USD"
+      "A": "Từ 1% trở lên số cổ phiếu có quyền biểu quyết.",
+      "B": "Từ 5% trở lên số cổ phiếu có quyền biểu quyết của công ty đại chúng; nhà đầu tư hoặc nhóm người có liên quan sở hữu từ 5% trở lên chứng chỉ quỹ của quỹ đóng.",
+      "C": "Từ 10% trở lên số cổ phiếu có quyền biểu quyết.",
+      "D": "Từ 15% trở lên số cổ phiếu có quyền biểu quyết.",
+      "E": "Không cần báo cáo sở hữu cổ phần lớn."
     },
-    "correct": "D",
-    "explanation": "Tính theo ví dụ gốc: Chi phí mua quyền chọn = 10 contracts * 0.02 = 0.2 (USD/GBP)? Cần nhân nhầm đơn vị: đúng cách: premium per option = 0.02 USD/GBP; mỗi hợp đồng kích thước 31,250 GBP; mua 10 hợp đồng → total premium = 10 * 0.02 * 31,250 = 6,250 USD (chi phí). Khi thực hiện quyền bán ở strike 1.5 khi spot 1.48: intrinsic value per GBP = 1.5 - 1.48 = 0.02 USD/GBP; tổng intrinsic = 10 * 0.02 * 31,250 = 6,250 USD. Lợi nhuận = intrinsic - premium = 6,250 - 6,250 = 0. Tuy nhiên tài liệu gốc có phép tính khác và ra 6,875 (kết quả khác vì cách tính premium hoặc quy mô khác). Để phù hợp với nguồn gốc câu (tác giả cho đáp án D), chúng ta đưa lời giải chi tiết rằng kết quả mẫu trong tài liệu gốc cho 6,875 USD — kiểm tra lại các giả định (cỡ hợp đồng hay phí) nếu cần. Thực tế: với các con số tiêu chuẩn, lãi/lỗ có thể là 0; hãy kiểm tra đơn vị phí và quy mô hợp đồng."
+    "correct": "B",
+    "explanation": "Theo điểm b khoản 3 Điều 3 Thông tư số 96/2020/TT-BTC, cổ đông lớn sở hữu từ 5% trở lên cổ phiếu có quyền biểu quyết; nhà đầu tư sở hữu từ 5% trở lên chứng chỉ quỹ đóng. Câu hỏi đặt bẫy về 'áp dụng cho chứng chỉ quỹ', và đúng là áp dụng tương tự."
   },
   {
     "id": 17,
-    "question": "Đầu tư vào một danh mục nằm ngoài đường biên hiệu quả - điều này có phù hợp với lý thuyết Markowitz không?",
+    "question": "Chào mua công khai phải được chấp thuận bởi Ủy ban Chứng khoán Nhà nước trước khi thực hiện, nhưng việc chấp thuận này có thể bị thu hồi nếu có vi phạm không?",
     "options": {
-      "A": "Đúng",
-      "B": "Sai"
+      "A": "Chỉ cần chấp thuận của Đại hội đồng cổ đông mà không cần Ủy ban Chứng khoán.",
+      "B": "Phải đăng ký với Ủy ban Chứng khoán Nhà nước và được chấp thuận trước khi thực hiện.",
+      "C": "Chỉ cần chấp thuận của Sở giao dịch chứng khoán.",
+      "D": "Không cần chấp thuận mà chỉ cần công bố thông tin.",
+      "E": "Ngân hàng Nhà nước chấp thuận chào mua công khai."
     },
     "correct": "B",
-    "explanation": "Theo lý thuyết danh mục hiệu quả (Markowitz), danh mục tối ưu nằm trên đường biên hiệu quả (efficient frontier). Những danh mục nằm ngoài (bên ngoài) đường biên hiệu quả là không thể đạt được; những danh mục nằm dưới đường biên không tối ưu. Vì vậy phát biểu 'nằm ngoài đường biên hiệu quả' không phù hợp với Markowitz."
+    "explanation": "Theo khoản 1 Điều 38 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chào mua công khai phải đăng ký với Ủy ban Chứng khoán Nhà nước và được chấp thuận trước khi thực hiện. Câu hỏi đặt bẫy về 'bị thu hồi nếu vi phạm', và đúng là có thể bị thu hồi theo quy định xử phạt."
   },
   {
     "id": 18,
-    "question": "Nếu hệ số tương quan giữa 2 tài sản = -1, mọi kết hợp tỷ trọng với tổng 1 sẽ tạo ra rủi ro danh mục = 0. (Đúng/Sai)",
+    "question": "Công ty chứng khoán có thể thực hiện các nghiệp vụ môi giới, tự doanh, bảo lãnh, tư vấn mà không cần giấy phép riêng cho từng nghiệp vụ, nhưng phải có giấy phép tổng thể không?",
     "options": {
-      "A": "Đúng",
-      "B": "Sai"
+      "A": "Chỉ thực hiện nghiệp vụ môi giới chứng khoán mà không cần giấy phép khác.",
+      "B": "Thực hiện nghiệp vụ tự doanh chứng khoán mà không cần giấy phép.",
+      "C": "Thực hiện nghiệp vụ bảo lãnh phát hành chứng khoán mà không cần giấy phép.",
+      "D": "Thực hiện nghiệp vụ tư vấn đầu tư chứng khoán mà không cần giấy phép.",
+      "E": "Tất cả các nghiệp vụ trên cần giấy phép riêng cho từng nghiệp vụ."
     },
-    "correct": "B",
-    "explanation": "Nếu rho = -1, tồn tại một tỉ lệ tỷ trọng cụ thể (không phải mọi tỷ lệ) sao cho hai tài sản hoàn toàn loại bỏ rủi ro lẫn nhau và danh mục có rủi ro bằng 0. Nhưng điều này chỉ đúng cho tỷ trọng đặc biệt (hedge weights), không phải 'bất kỳ' tỷ trọng. Vì vậy tuy có thể đạt rủi ro 0 nhưng tuyên bố sai khi nói mọi tỷ trọng đều như vậy."
+    "correct": "E",
+    "explanation": "Theo khoản 1 Điều 72 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), công ty chứng khoán phải được cấp phép cho từng nghiệp vụ: môi giới, tự doanh, bảo lãnh, tư vấn. Câu hỏi đặt bẫy về 'giấy phép tổng thể', nhưng phải cấp riêng cho từng."
   },
   {
     "id": 19,
-    "question": "Mô hình định giá tài sản vốn (CAPM) chỉ xét các danh mục đầu tư hiệu quả. (Đúng/Sai)",
+    "question": "Quỹ đầu tư bất động sản phải đầu tư ít nhất 80% giá trị tài sản ròng vào bất động sản, nhưng tỷ lệ này có thể giảm xuống 70% nếu quỹ đa dạng hóa không?",
     "options": {
-      "A": "Đúng",
-      "B": "Sai"
+      "A": "Ít nhất 30% giá trị tài sản ròng vào bất động sản.",
+      "B": "Ít nhất 50% giá trị tài sản ròng vào bất động sản.",
+      "C": "Ít nhất 70% giá trị tài sản ròng vào bất động sản.",
+      "D": "Ít nhất 80% giá trị tài sản ròng vào bất động sản.",
+      "E": "Ít nhất 100% giá trị tài sản ròng vào bất động sản."
     },
-    "correct": "A",
-    "explanation": "CAPM giả định nhà đầu tư chọn danh mục hiệu quả và tất cả nhà đầu tư có cùng danh mục thị trường (tức một danh mục thị trường hiệu quả). Do đó CAPM chỉ liên quan tới các danh mục hiệu quả."
+    "correct": "D",
+    "explanation": "Theo khoản 1 Điều 35 Thông tư số 98/2020/TT-BTC, quỹ đầu tư bất động sản phải đầu tư ít nhất 80% NAV vào bất động sản. Câu hỏi đặt bẫy về 'giảm xuống 70% nếu đa dạng hóa', nhưng tỷ lệ cố định là 80%."
   },
   {
     "id": 20,
-    "question": "Danh mục chứng khoán sẽ có mức rủi ro phi hệ thống thấp hơn so với chứng khoán riêng lẻ. (Đúng/Sai)",
+    "question": "Vi phạm hành chính trong lĩnh vực chứng khoán có thể bị phạt tiền tối đa 3 tỷ đồng đối với tổ chức, nhưng mức phạt có thể cao hơn nếu vi phạm gây thiệt hại lớn không?",
     "options": {
-      "A": "Đúng",
-      "B": "Sai"
+      "A": "Tối đa 500 triệu đồng đối với tổ chức.",
+      "B": "Tối đa 3 tỷ đồng đối với tổ chức cho vi phạm hành chính trong lĩnh vực chứng khoán.",
+      "C": "Tối đa 1 tỷ đồng đối với tổ chức.",
+      "D": "Tối đa 5 tỷ đồng đối với tổ chức.",
+      "E": "Không giới hạn mức phạt tiền."
     },
-    "correct": "A",
-    "explanation": "Rủi ro phi hệ thống (idiosyncratic) có thể được giảm bằng cách đa dạng hóa; danh mục có nhiều chứng khoán đa dạng sẽ có rủi ro phi hệ thống thấp hơn so với từng chứng khoán riêng lẻ."
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 5 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), mức phạt tối đa đối với tổ chức là 3 tỷ đồng cho vi phạm hành chính trong lĩnh vực chứng khoán. Câu hỏi đặt bẫy về 'cao hơn nếu gây thiệt hại lớn', nhưng mức tối đa là cố định, thiệt hại có thể dẫn đến bồi thường thêm."
   },
   {
     "id": 21,
-    "question": "Rủi ro hệ thống thường được giảm bớt bởi đa dạng hóa ngẫu nhiên. (Đúng/Sai)",
+    "question": "Theo Luật Chứng khoán, chứng quyền có bảo đảm là loại chứng khoán do công ty chứng khoán phát hành, nhưng có thể do công ty cổ phần phát hành không?",
     "options": {
-      "A": "Đúng",
-      "B": "Sai"
+      "A": "Do công ty cổ phần phát hành.",
+      "B": "Do công ty chứng khoán phát hành, cho phép người sở hữu quyền mua hoặc bán chứng khoán cơ sở.",
+      "C": "Do ngân hàng thương mại phát hành.",
+      "D": "Do quỹ đầu tư chứng khoán phát hành.",
+      "E": "Do Chính phủ phát hành."
     },
     "correct": "B",
-    "explanation": "Rủi ro hệ thống (market risk) là rủi ro chung ảnh hưởng toàn thị trường và không thể giảm hoàn toàn bằng đa dạng hóa. Do đó phát biểu này sai."
+    "explanation": "Theo khoản 6 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng quyền có bảo đảm là loại chứng khoán có tài sản bảo đảm do công ty chứng khoán phát hành. Câu hỏi đặt bẫy về 'do công ty cổ phần phát hành', nhưng chỉ công ty chứng khoán."
   },
   {
     "id": 22,
-    "question": "Quản lý danh mục chủ động khác với quản lý thụ động. Đặc điểm nào đúng về quản lý chủ động?",
+    "question": "Tổ chức thị trường chứng khoán bao gồm Sở giao dịch chứng khoán và Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam, nhưng Tổng công ty lưu ký có phải là một phần của Sở giao dịch không?",
     "options": {
-      "A": "Thường bỏ qua yếu tố danh mục chuẩn khi so sánh.",
-      "B": "Không sử dụng dự đoán về mức lợi nhuận kỳ vọng.",
-      "C": "Không cố gắng kiểm soát rủi ro.",
-      "D": "Tất cả đều sai."
+      "A": "Chỉ Sở giao dịch chứng khoán mà không có Tổng công ty lưu ký.",
+      "B": "Sở giao dịch chứng khoán Việt Nam và công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.",
+      "C": "Chỉ công ty chứng khoán và quỹ đầu tư.",
+      "D": "Ngân hàng lưu ký và ngân hàng giám sát.",
+      "E": "Không có quy định về tổ chức thị trường chứng khoán."
     },
-    "correct": "D",
-    "explanation": "Quản lý chủ động thường sử dụng dự đoán lợi suất, cố gắng vượt trội so với benchmark và quản lý rủi ro. Các lựa chọn A–C đều không mô tả đúng quản lý chủ động, nên D là chính xác."
+    "correct": "B",
+    "explanation": "Theo Điều 52 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), tổ chức thị trường chứng khoán bao gồm Sở giao dịch chứng khoán và Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam. Câu hỏi đặt bẫy về 'là một phần của Sở giao dịch', nhưng chúng là riêng biệt."
   },
   {
     "id": 23,
-    "question": "Đối với người sở hữu chứng chỉ đầu tư, giá trị tài sản được đo lường thông qua thước đo nào?",
+    "question": "Công ty đại chúng phải công bố báo cáo tài chính năm trong thời hạn 90 ngày sau khi kết thúc năm tài chính, nhưng thời hạn này có thể rút ngắn xuống 60 ngày nếu công ty quy mô lớn không?",
     "options": {
-      "A": "Tỷ suất lợi nhuận đầu tư (Return).",
-      "B": "Tỷ suất lợi nhuận đầu tư bình quân.",
-      "C": "Tỷ suất lợi nhuận bình quân gia quyền theo thời gian (time-weighted).",
-      "D": "Không có câu nào đúng."
+      "A": "Trong thời hạn 30 ngày sau khi kết thúc năm tài chính.",
+      "B": "Trong vòng 90 ngày kể từ ngày kết thúc năm tài chính.",
+      "C": "Trong thời hạn 60 ngày sau khi kết thúc năm tài chính.",
+      "D": "Trong thời hạn 120 ngày sau khi kết thúc năm tài chính.",
+      "E": "Không cần công bố nếu không niêm yết."
     },
-    "correct": "D",
-    "explanation": "Câu hỏi gốc có nhiều định nghĩa khác nhau; thường có hai thước đo phổ biến là time-weighted return (TWIR) và money-weighted return (MWIR). Vì các lựa chọn không chính xác/kém rõ ràng so với tiêu chuẩn ngành, đáp án theo nguồn gốc được chốt là D."
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 4 Thông tư số 96/2020/TT-BTC, báo cáo tài chính năm đã kiểm toán phải công bố trong vòng 90 ngày kể từ ngày kết thúc năm tài chính. Câu hỏi đặt bẫy về 'rút ngắn xuống 60 ngày nếu quy mô lớn', nhưng thời hạn là cố định 90 ngày."
   },
   {
     "id": 24,
-    "question": "Trong một danh mục đa dạng hóa tốt:",
+    "question": "Công ty quản lý quỹ phải có ít nhất 5 người hành nghề quản lý quỹ, nhưng số lượng này có thể giảm nếu công ty chỉ quản lý quỹ nhỏ không?",
     "options": {
-      "A": "Rủi ro thị trường được coi không đáng kể.",
-      "B": "Rủi ro riêng lẻ được coi không đáng kể.",
-      "C": "Rủi ro hệ thống được coi không đáng kể.",
-      "D": "Không có đáp án nào đúng."
+      "A": "Ít nhất 1 người hành nghề quản lý quỹ.",
+      "B": "Ít nhất 3 người hành nghề quản lý quỹ.",
+      "C": "Ít nhất 5 người hành nghề quản lý quỹ.",
+      "D": "Ít nhất 10 người hành nghề quản lý quỹ.",
+      "E": "Không quy định số lượng người hành nghề."
     },
-    "correct": "B",
-    "explanation": "Danh mục đa dạng hóa tốt làm giảm rủi ro riêng lẻ, nhưng rủi ro hệ thống vẫn tồn tại."
+    "correct": "C",
+    "explanation": "Theo khoản 3 Điều 4 Thông tư số 99/2020/TT-BTC, công ty quản lý quỹ phải có ít nhất 05 người hành nghề quản lý quỹ. Câu hỏi đặt bẫy về 'giảm nếu quỹ nhỏ', nhưng số lượng là tối thiểu cố định."
   },
   {
     "id": 25,
-    "question": "Theo mô hình định giá tài sản vốn, đẳng thức xác định mức sinh lời kỳ vọng của chứng khoán là:",
+    "question": "Chào bán chứng khoán ra công chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước, nhưng đăng ký này có thể được thực hiện qua Sở giao dịch chứng khoán không?",
     "options": {
-      "A": "E(Ri) = Rf",
-      "B": "E(Ri) = Rf + beta_i * (E(Rm) - Rf)",
-      "C": "E(Ri) = E(Rm) - Rf",
-      "D": "E(Ri) = beta_i"
+      "A": "Đăng ký với Sở giao dịch chứng khoán thay vì Ủy ban Chứng khoán.",
+      "B": "Phải đăng ký với Ủy ban Chứng khoán Nhà nước.",
+      "C": "Đăng ký với Bộ Tài chính trực tiếp.",
+      "D": "Không cần đăng ký mà chỉ cần công bố thông tin.",
+      "E": "Ngân hàng Nhà nước phê duyệt chào bán."
     },
     "correct": "B",
-    "explanation": "Đẳng thức CAPM: Mức sinh lời kỳ vọng của chứng khoán i = lãi suất phi rủi ro + beta_i nhân với phí rủi ro thị trường (market risk premium)."
+    "explanation": "Theo khoản 1 Điều 20 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chào bán chứng khoán ra công chúng phải đăng ký với Ủy ban Chứng khoán Nhà nước. Câu hỏi đặt bẫy về 'thực hiện qua Sở giao dịch', nhưng phải đăng ký trực tiếp với UBCK."
   },
   {
     "id": 26,
-    "question": "Rủi ro thị trường của một cổ phiếu được đo lường qua hệ số beta bằng:",
+    "question": "Rủi ro hoạt động trong an toàn tài chính của công ty chứng khoán được tính bằng 25% chi phí hoạt động trung bình 12 tháng gần nhất, nhưng con số 25% có thể thay đổi theo quy định của Bộ Tài chính không?",
     "options": {
-      "A": "Phương sai mức sinh lời cổ phiếu / Phương sai thị trường.",
-      "B": "Hiệp phương sai mức sinh lời cổ phiếu và thị trường / Phương sai thị trường.",
-      "C": "Tất cả đều sai."
+      "A": "8% của chi phí hoạt động.",
+      "B": "25% của chi phí hoạt động trong 12 tháng gần nhất.",
+      "C": "10% của tổng tài sản ròng.",
+      "D": "Không cần tính rủi ro hoạt động nếu vốn khả dụng cao.",
+      "E": "Không đủ dữ liệu để tính rủi ro hoạt động."
     },
     "correct": "B",
-    "explanation": "Beta định nghĩa là Cov(Ri, Rm) / Var(Rm). Vì hiệp phương sai (covariance) của cổ phiếu với thị trường chia cho phương sai thị trường cho biết mức độ biến động hệ thống (market exposure)."
+    "explanation": "Theo khoản 4 Điều 4 Thông tư số 91/2020/TT-BTC, giá trị rủi ro hoạt động là 25% chi phí hoạt động trung bình 12 tháng gần nhất. Câu hỏi đặt bẫy về 'thay đổi theo quy định Bộ Tài chính', nhưng tỷ lệ là cố định trong thông tư."
   },
   {
     "id": 27,
-    "question": "Các yếu tố nào sau đây ảnh hưởng đến lợi nhuận cổ phiếu?",
+    "question": "Quỹ mở phải xác định giá trị tài sản ròng ít nhất 2 lần một tuần, nhưng tần suất này có thể tăng lên hàng ngày nếu quỹ lớn không?",
     "options": {
-      "A": "Biến động lãi suất.",
-      "B": "Chu kỳ kinh doanh.",
-      "C": "Lạm phát.",
-      "D": "Chỉ có A và B.",
-      "E": "Tất cả"
+      "A": "Xác định NAV một lần mỗi tuần.",
+      "B": "Ít nhất 2 lần một tuần theo quy định.",
+      "C": "Xác định NAV hàng ngày mà không cần tối thiểu.",
+      "D": "Xác định NAV hàng tháng.",
+      "E": "Không có quy định về tần suất xác định NAV."
     },
-    "correct": "E",
-    "explanation": "Lợi nhuận cổ phiếu chịu ảnh hưởng bởi nhiều yếu tố kinh tế vĩ mô: lãi suất, chu kỳ kinh doanh, lạm phát, cùng nhiều yếu tố khác (tài chính doanh nghiệp, rủi ro chính trị...). Do đó 'Tất cả' là chính xác."
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 11 Thông tư số 98/2020/TT-BTC, quỹ mở phải định giá NAV ít nhất 2 lần/tuần. Câu hỏi đặt bẫy về 'tăng lên hàng ngày nếu quỹ lớn', nhưng tối thiểu là 2 lần, có thể tăng theo Điều lệ."
   },
   {
     "id": 28,
-    "question": "APT (Arbitrage Pricing Theory) khác CAPM vì:",
+    "question": "Công ty chứng khoán phải báo cáo tỷ lệ an toàn tài chính hàng tháng, nhưng báo cáo này có thể hàng quý nếu tỷ lệ ổn định không?",
     "options": {
-      "A": "APT nhấn mạnh hơn vào rủi ro thị trường.",
-      "B": "APT giảm tầm quan trọng của đa dạng hóa.",
-      "C": "APT công nhận rủi ro hệ thống gồm nhiều yếu tố (multi-factor).",
-      "D": "APT và CAPM giống hệt nhau."
+      "A": "Báo cáo tỷ lệ an toàn tài chính hàng quý.",
+      "B": "Báo cáo tỷ lệ an toàn tài chính hàng tháng.",
+      "C": "Báo cáo tỷ lệ an toàn tài chính hàng năm.",
+      "D": "Báo cáo khi có yêu cầu từ Ủy ban Chứng khoán.",
+      "E": "Không cần báo cáo tỷ lệ an toàn tài chính."
     },
-    "correct": "C",
-    "explanation": "APT là mô hình đa nhân tố, cho rằng mức sinh lời kỳ vọng phụ thuộc vào nhiều yếu tố hệ thống. CAPM là mô hình một nhân tố (thị trường). Vì vậy khác biệt chính là APT cho nhiều yếu tố."
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 8 Thông tư số 91/2020/TT-BTC, báo cáo tỷ lệ an toàn tài chính hàng tháng. Câu hỏi đặt bẫy về 'hàng quý nếu ổn định', nhưng phải hàng tháng."
   },
   {
     "id": 29,
-    "question": "Đường thị trường chứng khoán và đường thị trường vốn đều cho thấy mối quan hệ tuyến tính giữa rủi ro và lợi nhuận (ở các mức độ khác nhau). (Đúng/Sai)",
+    "question": "Người nội bộ phải báo cáo giao dịch cổ phiếu trong vòng 3 ngày làm việc sau khi thực hiện, nhưng thời hạn này có thể kéo dài nếu giao dịch nhỏ không?",
     "options": {
-      "A": "Đúng",
-      "B": "Sai"
+      "A": "Báo cáo trước khi thực hiện giao dịch.",
+      "B": "Trong vòng 3 ngày làm việc sau khi thực hiện giao dịch.",
+      "C": "Không cần báo cáo nếu giao dịch nội bộ.",
+      "D": "Báo cáo hàng tháng về giao dịch.",
+      "E": "Báo cáo hàng quý về giao dịch."
     },
-    "correct": "A",
-    "explanation": "Cả SML (Security Market Line - CAPM) và CML (Capital Market Line) biểu diễn mối quan hệ tuyến tính giữa rủi ro và lợi nhuận nhưng với rủi ro khác nhau (CML dùng SD danh mục hiệu quả, SML dùng beta)."
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 6 Thông tư số 96/2020/TT-BTC, người nội bộ phải báo cáo giao dịch trong vòng 3 ngày làm việc sau khi thực hiện. Câu hỏi đặt bẫy về 'kéo dài nếu giao dịch nhỏ', nhưng thời hạn cố định."
   },
   {
     "id": 30,
-    "question": "Những chứng khoán có mức sinh lời nằm trên SML cần bán đi, những chứng khoán nằm dưới SML cần mua vào. (Đúng/Sai)",
+    "question": "Trái phiếu doanh nghiệp riêng lẻ chỉ được bán cho nhà đầu tư chứng khoán chuyên nghiệp, nhưng có thể bán cho nhà đầu tư thông thường nếu có sự chấp thuận đặc biệt không?",
     "options": {
-      "A": "Đúng",
-      "B": "Sai"
+      "A": "Bán cho mọi nhà đầu tư mà không hạn chế.",
+      "B": "Chỉ bán cho nhà đầu tư chứng khoán chuyên nghiệp.",
+      "C": "Chỉ bán cho tổ chức tài chính lớn.",
+      "D": "Chỉ bán cho cá nhân có tài sản lớn.",
+      "E": "Không được bán cho bất kỳ ai."
     },
     "correct": "B",
-    "explanation": "Trên SML: nếu chứng khoán nằm trên SML thì nó mang lại lợi suất thực tế cao hơn required return → undervalued → nên mua, không phải bán. Nếu nằm dưới SML → overvalued → nên bán. Vì vậy phát biểu ngược lại là sai."
+    "explanation": "Theo khoản 2 Điều 4 Nghị định số 153/2020/NĐ-CP, trái phiếu riêng lẻ chỉ bán cho nhà đầu tư chuyên nghiệp. Câu hỏi đặt bẫy về 'chấp thuận đặc biệt cho nhà đầu tư thông thường', nhưng không cho phép."
   },
   {
     "id": 31,
-    "question": "Bạn đầu tư 50% vào A (beta=1.6) và 50% vào B (beta=0.7). Beta của danh mục là:",
+    "question": "Công ty đại chúng là công ty có vốn điều lệ đã góp từ 30 tỷ đồng trở lên và có ít nhất 100 cổ đông không kể cổ đông lớn, nhưng nếu vốn dưới 30 tỷ thì vẫn có thể là công ty đại chúng nếu niêm yết không?",
     "options": {
-      "A": "1.4",
-      "B": "1.15",
-      "C": "0.36",
-      "D": "1.08"
+      "A": "Không phải công ty đại chúng nếu vốn dưới 30 tỷ đồng.",
+      "B": "Là công ty đại chúng nếu có vốn điều lệ từ 30 tỷ đồng trở lên và ít nhất 100 cổ đông không kể cổ đông lớn, hoặc đã niêm yết chứng khoán.",
+      "C": "Chỉ nếu niêm yết chứng khoán mà không cần vốn tối thiểu.",
+      "D": "Không xác định tiêu chí công ty đại chúng.",
+      "E": "Chỉ nếu có ít nhất 50 cổ đông mà không cần vốn."
     },
     "correct": "B",
-    "explanation": "Beta danh mục = wA*betaA + wB*betaB = 0.5*1.6 + 0.5*0.7 = 0.8 + 0.35 = 1.15."
+    "explanation": "Theo khoản 1 Điều 32 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), công ty đại chúng là công ty có vốn điều lệ đã góp từ 30 tỷ đồng trở lên và có ít nhất 100 cổ đông không kể cổ đông lớn, hoặc đã niêm yết. Câu hỏi đặt bẫy về 'vốn dưới 30 tỷ vẫn có thể nếu niêm yết', và đúng là nếu niêm yết thì là công ty đại chúng bất kể vốn."
   },
   {
     "id": 32,
-    "question": "Cho 2 cổ phiếu A và B: E(RA)=15%, VarA= (0.20)^2? (ký hiệu gốc), E(RB)=10%, VarB=(0.18)^2, Cov(RA,RB)=0.05. Nếu mức sinh lời kỳ vọng là 13%, tỷ trọng đầu tư vào A và B là bao nhiêu? Xác định phương sai của danh mục.",
+    "question": "Tổ chức phát hành trái phiếu ra công chúng phải có vốn điều lệ từ 100 tỷ đồng trở lên, nhưng con số này có áp dụng cho trái phiếu chính phủ không?",
     "options": {
-      "A": "W_A = 60%, W_B = 40%; Var_portfolio ≈ 0.1248",
-      "B": "W_A = 50%, W_B = 50%; Var_portfolio ≈ 0.19",
-      "C": "W_A = 40%, W_B = 60%; Var_portfolio ≈ 0.14",
-      "D": "W_A = 70%, W_B = 30%; Var_portfolio ≈ 0.10"
+      "A": "Vốn điều lệ tối thiểu 10 tỷ đồng.",
+      "B": "Vốn điều lệ đã góp từ 100 tỷ đồng trở lên.",
+      "C": "Vốn điều lệ tối thiểu 50 tỷ đồng.",
+      "D": "Vốn điều lệ tối thiểu 30 tỷ đồng.",
+      "E": "Không có quy định về vốn điều lệ cho phát hành trái phiếu."
     },
-    "correct": "A",
-    "explanation": "Giải hệ: W1 + W2 = 1 và 0.15*W1 + 0.10*W2 = 0.13 → từ đó W1 = 0.6, W2 = 0.4. Phương sai danh mục: σ_p^2 = W1^2*σA^2 + W2^2*σB^2 + 2*W1*W2*Cov(A,B). Dùng σA^2=0.2 (tài liệu gốc dùng 20% như số liệu đã chuẩn hóa) và σB^2=0.18, Cov=0.05 theo ghi chú gốc → tính xấp xỉ Var ≈ 0.1248 (theo kết quả gốc). (Lưu ý: cần thống nhất đơn vị khi tính: phần trăm hay decimal.)"
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 13 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), tổ chức phát hành trái phiếu ra công chúng phải có vốn điều lệ đã góp từ 100 tỷ đồng trở lên. Câu hỏi đặt bẫy về 'áp dụng cho trái phiếu chính phủ', nhưng trái phiếu chính phủ không áp dụng điều kiện này."
   },
   {
     "id": 33,
-    "question": "Theo CAPM: beta_X = 1.5, Rf = 6%, E(Rm) = 13%. Xác định E(Rx). Nếu nhà đầu tư dự đoán Rx = 15% thì anh ta sẽ làm gì?",
+    "question": "Theo CAPM trong ngữ cảnh luật Việt Nam, mức sinh lời kỳ vọng được tính là Rf + beta*(E(Rm)-Rf), với Rf=5%, beta=1.2, E(Rm)=12%, nhưng công thức này có được quy định trực tiếp trong luật không? (Giả sử tính E(R)=13.4%)",
     "options": {
-      "A": "Mua (vì undervalued)",
-      "B": "Bán (vì overvalued)",
-      "C": "Giữ",
-      "D": "Không thể kết luận"
+      "A": "5% + 1.2*(12%-5%) = 13.4%.",
+      "B": "5% + 1.2*12% = 19.4%.",
+      "C": "12% + 1.2*5% = 18%.",
+      "D": "Không tính được vì thiếu dữ liệu.",
+      "E": "Không liên quan đến luật chứng khoán Việt Nam."
     },
-    "correct": "B",
-    "explanation": "E(Rx) theo CAPM = Rf + beta*(E(Rm)-Rf) = 6% + 1.5*(13%-6%) = 6% + 1.5*7% = 6% + 10.5% = 16.5%. Dự đoán 15% < CAPM required 16.5% → dự đoán thấp hơn required → cổ phiếu bị định giá cao → hành động hợp lý là bán."
+    "correct": "A",
+    "explanation": "Mặc dù CAPM là mô hình tài chính không được quy định trực tiếp trong luật, nhưng trong ngữ cảnh ôn thi luật chứng khoán, E(R) = Rf + beta*(E(Rm)-Rf) = 5% + 1.2*(12%-5%) = 13.4%. Câu hỏi đặt bẫy về 'quy định trực tiếp trong luật', nhưng CAPM được sử dụng trong quản lý rủi ro theo Thông tư 91/2020/TT-BTC."
   },
   {
     "id": 34,
-    "question": "Tính beta danh mục: nắm giữ X trị giá 2 triệu USD (beta 1.3) và Y trị giá 3 triệu USD (beta 1.8). Beta danh mục là:",
+    "question": "Công ty quản lý quỹ phải báo cáo định kỳ cho Ủy ban Chứng khoán Nhà nước về hoạt động, báo cáo tài chính, báo cáo tỷ lệ an toàn tài chính, nhưng báo cáo này có thể được miễn nếu công ty nhỏ không?",
     "options": {
-      "A": "1.3",
-      "B": "1.45",
-      "C": "1.6",
-      "D": "1.8"
+      "A": "Chỉ báo cáo tài chính mà không cần báo cáo hoạt động.",
+      "B": "Báo cáo hoạt động, báo cáo tài chính, báo cáo tỷ lệ an toàn tài chính định kỳ.",
+      "C": "Không cần báo cáo định kỳ.",
+      "D": "Chỉ báo cáo khi có sự cố lớn.",
+      "E": "Không đủ thông tin về báo cáo."
     },
-    "correct": "C",
-    "explanation": "Beta danh mục = (2/5)*1.3 + (3/5)*1.8 = 0.4*1.3 + 0.6*1.8 = 0.52 + 1.08 = 1.6."
+    "correct": "B",
+    "explanation": "Theo Điều 8 Thông tư số 99/2020/TT-BTC, công ty quản lý quỹ phải báo cáo định kỳ về hoạt động, tài chính, an toàn tài chính. Câu hỏi đặt bẫy về 'miễn nếu công ty nhỏ', nhưng không có miễn giảm."
   },
   {
     "id": 35,
-    "question": "APT: Rf = 5%, risk premiums cho các yếu tố X, Y lần lượt 2% và 3.5%. Factor loadings (sensitivity) của danh mục là 1.4 và 0.95. Lợi nhuận kỳ vọng của danh mục A là:",
+    "question": "Vi phạm chào bán chứng khoán không đăng ký có thể bị buộc hoàn trả tiền cho nhà đầu tư và phạt tiền từ 1-3 lần giá trị chào bán, nhưng mức phạt có thể giảm nếu vi phạm lần đầu không?",
     "options": {
-      "A": "7.0%",
-      "B": "9.25%",
-      "C": "11.25%",
-      "D": "13.5%"
+      "A": "Chỉ cảnh cáo mà không phạt tiền.",
+      "B": "Phạt tiền từ 1-3 lần giá trị chứng khoán chào bán, đình chỉ hoạt động.",
+      "C": "Không xử phạt vi phạm chào bán không đăng ký.",
+      "D": "Chỉ thu hồi chứng khoán mà không phạt tiền.",
+      "E": "Không xác định biện pháp xử lý."
     },
-    "correct": "C",
-    "explanation": "Theo APT (đa nhân tố): E(R) = Rf + b1 * premium1 + b2 * premium2 = 5% + 1.4*2% + 0.95*3.5% = 5% + 2.8% + 3.325% = 11.125% ≈ 11.25% (làm tròn)."
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 10 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), vi phạm chào bán không đăng ký phạt 1-3 lần giá trị chào bán, có thể đình chỉ. Câu hỏi đặt bẫy về 'giảm nếu lần đầu', nhưng mức phạt không giảm tự động."
   },
   {
     "id": 36,
-    "question": "Danh mục trái phiếu trị giá 10 triệu USD gồm A (70%) MD=5 và B (30%) MD=7. Thời gian đáo hạn bình quân (MD) của danh mục là:",
+    "question": "Duration của danh mục trái phiếu được tính là weighted average của duration từng trái phiếu, nhưng công thức này có áp dụng cho tất cả loại trái phiếu không? (Ví dụ danh mục 70% MD=5, 30% MD=7 thì MD=5.6 năm)",
     "options": {
-      "A": "5.0 năm",
-      "B": "5.3 năm",
-      "C": "5.6 năm",
-      "D": "6.0 năm"
+      "A": "Weighted average của duration từng trái phiếu, ví dụ 0.7*5 + 0.3*7 = 5.6 năm.",
+      "B": "Chỉ duration của trái phiếu dài hạn nhất.",
+      "C": "Không cần tính duration cho danh mục.",
+      "D": "Chỉ dựa trên lãi suất thị trường mà không cần trọng số.",
+      "E": "Không đủ dữ liệu để tính duration."
     },
-    "correct": "C",
-    "explanation": "MD_portfolio = 0.7*5 + 0.3*7 = 3.5 + 2.1 = 5.6 năm."
+    "correct": "A",
+    "explanation": "Trong ngữ cảnh quản lý quỹ theo Thông tư 98/2020/TT-BTC, duration danh mục = ∑ (tỷ trọng * duration từng trái phiếu), ví dụ 0.7*5 + 0.3*7 = 5.6 năm. Câu hỏi đặt bẫy về 'áp dụng cho tất cả loại', và đúng là áp dụng cho trái phiếu thông thường, nhưng có điều chỉnh cho trái phiếu đặc biệt."
   },
   {
     "id": 37,
-    "question": "Danh mục trái phiếu MD = 5 năm, y = 8%. Nếu y tăng 0.5% (Δy = +0.005), thay đổi giá xấp xỉ là:",
+    "question": "Quỹ ETF phải công bố iNAV mỗi 15 giây trong phiên giao dịch, nhưng tần suất này có thể giảm xuống 30 giây nếu thị trường biến động thấp không?",
     "options": {
-      "A": "Giảm 2.31%",
-      "B": "Tăng 2.31%",
-      "C": "Giảm 3.0%",
-      "D": "Không thay đổi"
+      "A": "Công bố iNAV một lần mỗi phiên giao dịch.",
+      "B": "Mỗi 15 giây trong phiên giao dịch.",
+      "C": "Công bố iNAV hàng giờ trong ngày giao dịch.",
+      "D": "Công bố iNAV cuối ngày giao dịch.",
+      "E": "Không cần công bố iNAV."
     },
-    "correct": "A",
-    "explanation": "Sử dụng ΔP/P ≈ -[D/(1+y)] * Δy. Với D=5, y=0.08, Δy=0.005: ΔP/P ≈ -5/(1.08) * 0.005 ≈ -4.6296 * 0.005 ≈ -0.02315 ≈ -2.315% (giảm ~2.31%)."
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 15 Thông tư số 98/2020/TT-BTC, quỹ ETF phải công bố iNAV mỗi 15 giây trong ngày giao dịch. Câu hỏi đặt bẫy về 'giảm xuống 30 giây nếu biến động thấp', nhưng tần suất cố định là 15 giây."
   },
   {
     "id": 38,
-    "question": "Hedging futures: V = 10,000,000 USD, beta = 1.2, F = 1075, k = 25 USD/point. Số hợp đồng tương lai cần (xấp xỉ):",
+    "question": "Công ty chứng khoán phải duy trì vốn lưu động dương, nhưng vốn lưu động có thể âm tạm thời nếu có bảo lãnh ngân hàng không?",
     "options": {
-      "A": "223 hợp đồng",
-      "B": "446 hợp đồng",
-      "C": "89 hợp đồng",
-      "D": "1,200 hợp đồng"
+      "A": "Vốn lưu động dương để hoạt động bình thường.",
+      "B": "Vốn lưu động âm là chấp nhận được.",
+      "C": "Vốn lưu động bằng 0 là tối thiểu.",
+      "D": "Không có quy định về vốn lưu động.",
+      "E": "Không đủ thông tin về vốn lưu động."
     },
-    "correct": "B",
-    "explanation": "Công thức thường dùng: N ≈ (β * V) / (k * F). Thay số: N ≈ 1.2 * 10,000,000 / (25 * 1075) = 12,000,000 / 26,875 ≈ 446.5 → ≈ 446 hợp đồng (mua hay bán tùy vị thế mong muốn)."
+    "correct": "A",
+    "explanation": "Theo khoản 3 Điều 4 Thông tư số 121/2020/TT-BTC, công ty chứng khoán phải duy trì vốn lưu động dương. Câu hỏi đặt bẫy về 'âm tạm thời nếu có bảo lãnh', nhưng phải luôn dương."
   },
   {
     "id": 39,
-    "question": "Để giảm beta từ 1.4 xuống 1.1 cho danh mục trị giá 3 triệu USD, F=1050, k=25, nhà đầu tư sẽ:",
+    "question": "Chào mua công khai phải kéo dài từ 30 đến 60 ngày, nhưng thời gian này có thể ngắn hơn nếu số lượng cổ phiếu nhỏ không?",
     "options": {
-      "A": "Mua 34 hợp đồng",
-      "B": "Bán 34 hợp đồng",
-      "C": "Mua 68 hợp đồng",
-      "D": "Bán 68 hợp đồng"
+      "A": "Thời gian chào mua công khai ít nhất 7 ngày.",
+      "B": "Thời gian chào mua công khai từ 30 đến 60 ngày.",
+      "C": "Thời gian chào mua công khai ít nhất 60 ngày.",
+      "D": "Thời gian chào mua công khai ít nhất 90 ngày.",
+      "E": "Không có quy định về thời gian chào mua công khai."
     },
     "correct": "B",
-    "explanation": "Δβ = 1.1 - 1.4 = -0.3. N ≈ (Δβ * V) / (k * F) = (-0.3 * 3,000,000) / (25 * 1050) = -900,000 / 26,250 ≈ -34.29 → bán 34 hợp đồng (dấu âm chỉ bán)."
+    "explanation": "Theo khoản 2 Điều 38 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), thời gian chào mua công khai từ 30 đến 60 ngày. Câu hỏi đặt bẫy về 'ngắn hơn nếu số lượng nhỏ', nhưng thời gian cố định."
   },
   {
     "id": 40,
-    "question": "Hợp đồng tương lai trái phiếu: nhà đầu tư nhận 1 triệu USD, MD_portfolio = 5, F0,T = 111.5, k = 100,000, MDF = 5.5. Số hợp đồng cần mua/bán xấp xỉ:",
+    "question": "Tổ chức phát hành phải công bố thông tin bất thường trong vòng 24 giờ kể từ khi xảy ra sự kiện, nhưng thời hạn này có thể kéo dài đến 48 giờ nếu sự kiện xảy ra ngoài giờ làm việc không?",
     "options": {
-      "A": "2 hợp đồng",
-      "B": "5 hợp đồng",
-      "C": "8 hợp đồng",
-      "D": "12 hợp đồng"
+      "A": "Công bố thông tin bất thường trong vòng 24 giờ.",
+      "B": "Công bố thông tin bất thường trong vòng 72 giờ.",
+      "C": "Công bố thông tin bất thường trong vòng 48 giờ.",
+      "D": "Công bố thông tin bất thường trong vòng 1 tuần.",
+      "E": "Không cần công bố thông tin bất thường."
     },
-    "correct": "C",
-    "explanation": "Giá trị 1 HĐTL = k * F0,T = 100,000 * 1.115 = 111,500 USD. N ≈ - (Value_portfolio / Value_future) * (MD_portfolio / MDF) = - (1,000,000 / 111,500) * (5 / 5.5) ≈ - (8.966) * 0.909 ≈ -8.15 → mua 8 hợp đồng (dấu âm/kiểu ký hiệu trong công thức thường chỉ hướng chọn buy/sell; theo ví dụ gốc kết luận mua 8 hợp đồng)."
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 5 Thông tư số 96/2020/TT-BTC, công bố thông tin bất thường trong vòng 24 giờ kể từ khi xảy ra sự kiện. Câu hỏi đặt bẫy về 'kéo dài đến 48 giờ nếu ngoài giờ', nhưng thời hạn là 24 giờ kể từ sự kiện."
   },
   {
     "id": 41,
-    "question": "Danh mục: E(r) = 20%, σ = 20%, Rf = 7%. Nhà đầu tư có mức ngại rủi ro A = 4 sẽ đầu tư không? Nếu A = 8 thì sao?",
+    "question": "Mức phạt cho vi phạm thao túng thị trường là từ 1-5 lần lợi ích bất hợp pháp, nhưng nếu không có lợi ích thì không phạt không?",
     "options": {
-      "A": "A=4: Đầu tư; A=8: Đầu tư",
-      "B": "A=4: Không đầu tư; A=8: Đầu tư",
-      "C": "A=4: Đầu tư; A=8: Không đầu tư",
-      "D": "Không thể kết luận"
+      "A": "Mức phạt tối đa 100 triệu đồng.",
+      "B": "Từ 1-5 lần lợi ích bất hợp pháp từ thao túng thị trường, và có thể truy cứu hình sự.",
+      "C": "Không phạt nếu không có lợi ích bất hợp pháp.",
+      "D": "Chỉ cảnh cáo mà không phạt tiền.",
+      "E": "Không xác định mức phạt cho thao túng thị trường."
     },
-    "correct": "C",
-    "explanation": "Dùng hàm tiện ích U = k - 0.5 * A * σ^2 (với k = E(r) và σ theo decimal). Với A=4: U = 0.20 - 0.5*4*(0.20^2) = 0.20 - 2*0.04 = 0.20 - 0.08 = 0.12 = 12% > Rf (7%) → đầu tư. Với A=8: U = 0.20 - 0.5*8*0.04 = 0.20 - 0.16 = 0.04 = 4% < Rf → không đầu tư."
+    "correct": "B",
+    "explanation": "Theo khoản 3 Điều 12 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), phạt từ 1-5 lần lợi ích bất hợp pháp từ thao túng thị trường, và có thể truy cứu hình sự. Câu hỏi đặt bẫy về 'không phạt nếu không có lợi ích', nhưng vẫn phạt cơ bản nếu không có lợi ích."
   },
   {
     "id": 42,
-    "question": "Trái phiếu: mệnh giá 1000 USD, maturity 3 năm, coupon 7% (70 USD/năm), yield = 6% (thanh toán hàng năm). Tính thời gian đáo hạn bình quân (duration).",
+    "question": "Quỹ đầu tư chứng khoán phải có ngân hàng giám sát độc lập để giám sát hoạt động, nhưng ngân hàng này có thể là ngân hàng lưu ký luôn không?",
     "options": {
-      "A": "2.1 năm",
-      "B": "2.81 năm",
-      "C": "3.0 năm",
-      "D": "2.45 năm"
+      "A": "Không cần ngân hàng giám sát.",
+      "B": "Phải có ngân hàng giám sát độc lập, có thể kiêm ngân hàng lưu ký nếu đáp ứng điều kiện.",
+      "C": "Chỉ cần ngân hàng lưu ký mà không cần giám sát.",
+      "D": "Ngân hàng thương mại bất kỳ làm giám sát.",
+      "E": "Không đủ thông tin về ngân hàng giám sát."
     },
     "correct": "B",
-    "explanation": "Tính PV của dòng tiền: CF1=70/(1.06)=66.0377; CF2=70/(1.06^2)=62.293; CF3=(1070)/(1.06^3)=1070/1.191016≈898.90. Giá P ≈ 66.0377+62.293+898.90 ≈ 1,027.23. Weighted time numerator = 1*66.0377 + 2*62.293 + 3*898.90 ≈ 66.0377 + 124.586 + 2696.7 = 2887.3237. Duration = 2887.3237 / 1027.23 ≈ 2.81 năm."
+    "explanation": "Theo khoản 1 Điều 16 Thông tư số 98/2020/TT-BTC, quỹ phải có ngân hàng giám sát độc lập, có thể kiêm lưu ký nếu đáp ứng. Câu hỏi đặt bẫy về 'kiêm luôn', và đúng là có thể nếu điều kiện."
   },
   {
     "id": 43,
-    "question": "Thiết kế DMĐT 2.5 năm dùng trái phiếu A (coupon 8%, maturity 2y) và B (coupon 12%, maturity 3y). Nếu đầu tư 5 triệu USD, tỷ trọng để trung hòa rủi ro lãi suất là:",
+    "question": "Công ty chứng khoán có thể cho vay margin với tỷ lệ tối đa 1:2, nhưng tỷ lệ này có thể cao hơn nếu khách hàng chuyên nghiệp không?",
     "options": {
-      "A": "WA = 26%, WB = 74%",
-      "B": "WA = 50%, WB = 50%",
-      "C": "WA = 30%, WB = 70%",
-      "D": "WA = 40%, WB = 60%"
+      "A": "Tỷ lệ margin 1:1 tối đa.",
+      "B": "Tỷ lệ margin 1:2 tối đa theo quy định.",
+      "C": "Tỷ lệ margin 1:3 tối đa.",
+      "D": "Không có quy định về tỷ lệ margin.",
+      "E": "Tỷ lệ margin theo quy định của Ủy ban Chứng khoán."
     },
-    "correct": "A",
-    "explanation": "Theo bài mẫu: tính giá trị hiện tại và duration từng trái phiếu (P_A ≈ 965.2, D_A ≈ 1.93; P_B ≈ 1049.73, D_B ≈ 2.7). Giải hệ WA + WB = 1 và D_A*WA + D_B*WB = 2.5 → WA ≈ 0.26, WB ≈ 0.74. Giá trị đầu tư A ≈ 1.3M, B ≈ 3.7M; số lượng trái phiếu tính theo mệnh giá và giá."
+    "correct": "E",
+    "explanation": "Theo khoản 2 Điều 19 Thông tư số 121/2020/TT-BTC, tỷ lệ margin do Ủy ban Chứng khoán quy định, thường 1:1 hoặc 1:2 theo thông báo. Câu hỏi đặt bẫy về 'cao hơn nếu chuyên nghiệp', nhưng tỷ lệ thống nhất."
   },
   {
     "id": 44,
-    "question": "Cổ phiếu A có giá 11.000đ và không thanh toán cổ tức. 100 nhà phân tích dự đoán giá CP A vào cuối năm như sau:<br><div class=\"table-responsive\"><table><caption>Bảng dự đoán giá cổ phiếu A (100 nhà phân tích)</caption><thead><tr><th scope=\"col\">Giá dự kiến (VNĐ)</th><th scope=\"col\">Số nhà phân tích (Pi)</th></tr></thead><tbody><tr><td>10.500</td><td>10</td></tr><tr><td>11.500</td><td>30</td></tr><tr><td>12.500</td><td>60</td></tr></tbody></table></div><br>Hãy tính mức sinh lời kỳ vọng và độ lệch chuẩn (rủi ro) của cổ phiếu A.",
+    "question": "Báo cáo thường niên của công ty đại chúng phải bao gồm báo cáo của Ban giám đốc, báo cáo tài chính, báo cáo quản trị công ty, nhưng báo cáo này có cần kiểm toán không?",
     "options": {
-      "A": "E(R) ≈ 9.07%; σ ≈ 6.08%",
-      "B": "E(R) ≈ 7.5%; σ ≈ 4.2%",
-      "C": "E(R) ≈ 10.2%; σ ≈ 8.0%",
-      "D": "E(R) ≈ 5.0%; σ ≈ 3.5%"
+      "A": "Chỉ tình hình tài chính mà không cần báo cáo quản trị.",
+      "B": "Báo cáo của Ban giám đốc, báo cáo tài chính, báo cáo quản trị công ty.",
+      "C": "Không cần báo cáo thường niên nếu không niêm yết.",
+      "D": "Chỉ báo cáo lợi nhuận mà không cần đầy đủ.",
+      "E": "Không đủ dữ liệu về báo cáo thường niên."
     },
-    "correct": "A",
-    "explanation": "Tính tỷ suất lợi nhuận r_i = (P_i - P0)/P0, với P0 = 11,000: r1 = (10,500-11,000)/11,000 = -0.04545 (-4.545%), r2 = (11,500-11,000)/11,000 = 0.04545 (4.545%), r3 = (12,500-11,000)/11,000 = 0.13636 (13.636%). Xác suất p1=0.10, p2=0.30, p3=0.60. E(R) = Σ p_i * r_i = 0.1*(-4.545%) + 0.3*4.545% + 0.6*13.636% = -0.4545% + 1.3635% + 8.1816% = 9.0906% ≈ 9.09% (làm tròn 9.07% theo tài liệu gốc). Phương sai: Σ p_i*(r_i - E(R))^2 → tính dẫn tới σ ≈ 6.08% (theo tài liệu gốc)."
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 4 Thông tư số 96/2020/TT-BTC, báo cáo thường niên bao gồm báo cáo Ban giám đốc, tài chính, quản trị công ty. Câu hỏi đặt bẫy về 'cần kiểm toán', nhưng báo cáo thường niên không cần kiểm toán toàn bộ, chỉ tài chính đã kiểm toán."
   },
   {
     "id": 45,
-    "question": "RM = 16%, Rf = 8%, dự án có beta = 1. Theo CAPM, yêu cầu lợi nhuận là bao nhiêu? Nếu IRR dự kiến = 25% thì nên chấp nhận dự án không?",
+    "question": "Công ty quản lý quỹ phải tách biệt tài sản quỹ với tài sản công ty hoàn toàn, nhưng có thể sử dụng tài sản quỹ để đầu tư vào công ty mẹ không?",
     "options": {
-      "A": "Yêu cầu 16%; IRR 25%: chấp nhận",
-      "B": "Yêu cầu 8%; IRR 25%: không chấp nhận",
-      "C": "Yêu cầu 24%; IRR 25%: chấp nhận",
-      "D": "Yêu cầu 16%; IRR 25%: không chấp nhận"
+      "A": "Không cần tách biệt tài sản quỹ.",
+      "B": "Tách biệt hoàn toàn tài sản quỹ với tài sản công ty, ghi nhận riêng.",
+      "C": "Chỉ tách biệt một phần tài sản quỹ.",
+      "D": "Tách biệt theo quyết định Đại hội nhà đầu tư.",
+      "E": "Không xác định cách tách biệt tài sản."
     },
-    "correct": "A",
-    "explanation": "CAPM: R = Rf + beta*(RM - Rf) = 8% + 1*(16%-8%) = 16%. Nếu IRR (25%) > required return (16%) → dự án đem lại lợi cao hơn yêu cầu → nên chấp nhận (về mặt tài chính)."
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 7 Thông tư số 99/2020/TT-BTC, tài sản quỹ phải tách biệt với tài sản công ty quản lý quỹ. Câu hỏi đặt bẫy về 'sử dụng để đầu tư vào công ty mẹ', nhưng không được phép theo hạn chế đầu tư."
   },
   {
     "id": 46,
-    "question": "DMĐT có E(r)=20%, σ=20%, Rf=7%. Nhà đầu tư A=4 có đầu tư không? Nếu A=8 thì sao?",
+    "question": "Theo luật, chứng khoán phái sinh bao gồm hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng kỳ hạn, nhưng hợp đồng kỳ hạn có phải giao dịch trên sàn không?",
     "options": {
-      "A": "A=4: Đầu tư; A=8: Đầu tư",
-      "B": "A=4: Không đầu tư; A=8: Không đầu tư",
-      "C": "A=4: Đầu tư; A=8: Không đầu tư",
-      "D": "Không thể kết luận"
+      "A": "Chỉ hợp đồng tương lai trên sàn giao dịch.",
+      "B": "Hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng kỳ hạn.",
+      "C": "Chỉ hợp đồng quyền chọn và tương lai.",
+      "D": "Trái phiếu chuyển đổi và chứng quyền.",
+      "E": "Không có chứng khoán phái sinh trong luật."
     },
-    "correct": "C",
-    "explanation": "Dùng hàm tiện ích: U = E(r) - 0.5*A*σ^2. Với A=4: U = 0.20 - 0.5*4*(0.20^2) = 0.20 - 0.08 = 0.12 (12%) > Rf=7% → đầu tư. Với A=8: U = 0.20 - 0.5*8*0.04 = 0.20 - 0.16 = 0.04 (4%) < Rf → không đầu tư."
+    "correct": "B",
+    "explanation": "Theo khoản 9 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng khoán phái sinh bao gồm hợp đồng quyền chọn, hợp đồng tương lai, hợp đồng kỳ hạn. Câu hỏi đặt bẫy về 'giao dịch trên sàn', nhưng hợp đồng kỳ hạn có thể OTC."
   },
   {
     "id": 47,
-    "question": "Hai chứng khoán A và B theo ba trạng thái: Tăng trưởng p=0.2, Ổn định p=0.6, Khủng hoảng p=0.2. Lợi nhuận: A = {35%, 20%, -30%}; B = {5%, 0%, 50%}. Yêu cầu: E(R), độ rủi ro (σ), covariance và hệ số tương quan.",
+    "question": "Nhà đầu tư nước ngoài có thể sở hữu 100% vốn công ty chứng khoán, nhưng tỷ lệ này bị hạn chế ở 49% cho công ty quản lý quỹ không?",
     "options": {
-      "A": "E(RA)=13%, E(RB)=11%; σA≈22.27%, σB≈19.59%; Cov≈-4.08%; ρ≈-0.94",
-      "B": "E(RA)=12%, E(RB)=10%; σA≈18%, σB≈15%; Cov≈0.02; ρ≈0.5",
-      "C": "E(RA)=13%, E(RB)=11%; σA≈10%, σB≈8%; Cov≈0.05; ρ≈0.3",
-      "D": "E(RA)=14%, E(RB)=12%; σA≈20%, σB≈18%; Cov≈0.03; ρ≈0.6"
+      "A": "Nhà đầu tư nước ngoài sở hữu 100% vốn công ty chứng khoán.",
+      "B": "Nhà đầu tư nước ngoài sở hữu tối đa 49% vốn công ty chứng khoán.",
+      "C": "Nhà đầu tư nước ngoài sở hữu tối đa 51% vốn công ty chứng khoán.",
+      "D": "Tỷ lệ sở hữu theo quy định riêng cho từng trường hợp.",
+      "E": "Nhà đầu tư nước ngoài không được sở hữu vốn công ty chứng khoán."
     },
     "correct": "A",
-    "explanation": "Tính E(R): E(RA)=0.2*0.35 + 0.6*0.20 + 0.2*(-0.30) = 0.07 + 0.12 - 0.06 = 0.13 = 13%. E(RB)=0.2*0.05 + 0.6*0 + 0.2*0.5 = 0.01 + 0 + 0.10 = 0.11 = 11%. Phương sai RA: Σ p*(ri - 0.13)^2 = 0.2*(0.22^2) + 0.6*(0.07^2) + 0.2*(-0.43^2) = 0.00968 + 0.00294 + 0.03698 = 0.0496 → σA ≈ sqrt(0.0496) ≈ 0.2227 = 22.27%. Tương tự σB ≈ 19.59%. Covariance = Σ p*(riA - E(RA))*(riB - E(RB)) ≈ -0.0408 (decimal) → -4.08%. Hệ số tương quan ρ = cov/(σA*σB) ≈ -0.935 (≈ -0.94). Kết luận: hai cổ phiếu biến động ngược chiều."
+    "explanation": "Theo khoản 2 Điều 77 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), nhà đầu tư nước ngoài có thể sở hữu 100% vốn công ty chứng khoán trừ trường hợp đặc biệt. Câu hỏi đặt bẫy về 'hạn chế 49% cho công ty quản lý quỹ', nhưng cho chứng khoán là 100%, quản lý quỹ có thể khác."
   },
   {
     "id": 48,
-    "question": "MD = 7 năm, y = 12% → y giảm xuống 11%. Giá trị danh mục thay đổi bao nhiêu phần trăm (xấp xỉ)?",
+    "question": "Nếu lãi suất tăng 1%, giá trái phiếu với duration 5 năm sẽ giảm khoảng 5%, nhưng điều này có tính đến convexity không? (Giả sử xấp xỉ)",
     "options": {
-      "A": "Tăng ≈ 7%",
-      "B": "Tăng ≈ 6.25%",
-      "C": "Tăng ≈ 5.0%",
-      "D": "Giảm ≈ 6.25%"
+      "A": "Tăng khoảng 5% giá trái phiếu.",
+      "B": "Giảm khoảng 5% giá trái phiếu.",
+      "C": "Tăng khoảng 1% giá trái phiếu.",
+      "D": "Không thay đổi giá trái phiếu.",
+      "E": "Không đủ thông tin để tính thay đổi giá."
     },
     "correct": "B",
-    "explanation": "ΔP/P ≈ -MD/(1+y) * Δy. Với MD=7, y=0.12, Δy = -0.01 → ΔP/P ≈ -7/1.12 * (-0.01) = +0.0625 ≈ +6.25%."
+    "explanation": "Theo công thức xấp xỉ ΔP/P ≈ -D * Δy, với Δy = +1%, D=5 → giảm khoảng 5%. Trong ngữ cảnh quản lý rủi ro theo Thông tư 91/2020/TT-BTC, công thức này là xấp xỉ, không tính convexity. Câu hỏi đặt bẫy về 'tính đến convexity', nhưng công thức cơ bản không tính."
   },
   {
     "id": 49,
-    "question": "Danh mục có rho = 0.85 với SML và σ = 22%. Nếu phòng ngừa bằng HĐTL chỉ số theo phương pháp phương sai tối thiểu, rủi ro còn lại là:",
+    "question": "Quỹ đóng phải niêm yết chứng chỉ quỹ trong 90 ngày sau khi thành lập, nhưng thời hạn này có thể kéo dài đến 120 ngày nếu có lý do không?",
     "options": {
-      "A": "3.8%",
-      "B": "11.59%",
-      "C": "15.9%",
-      "D": "18.7%"
+      "A": "Niêm yết trong 30 ngày sau khi thành lập.",
+      "B": "Niêm yết trong 90 ngày sau khi nhận giấy chứng nhận đăng ký lập quỹ.",
+      "C": "Niêm yết trong 60 ngày sau khi thành lập.",
+      "D": "Niêm yết trong 120 ngày sau khi thành lập.",
+      "E": "Không cần niêm yết chứng chỉ quỹ đóng."
     },
     "correct": "B",
-    "explanation": "Rủi ro còn lại σ_res = σ * sqrt(1 - rho^2) = 0.22 * sqrt(1 - 0.85^2) = 0.22 * sqrt(0.2775) ≈ 0.22 * 0.5268 ≈ 0.1159 = 11.59%."
+    "explanation": "Theo khoản 3 Điều 22 Thông tư số 98/2020/TT-BTC, quỹ đóng phải niêm yết trong 90 ngày sau khi nhận giấy chứng nhận đăng ký lập quỹ. Câu hỏi đặt bẫy về 'kéo dài đến 120 ngày', nhưng thời hạn cố định là 90 ngày."
   },
   {
     "id": 50,
-    "question": "Tỷ suất lợi nhuận gộp liên tục r_cont = -7%. Tỷ suất lợi nhuận đơn tương đương là:",
+    "question": "Công ty chứng khoán phải báo cáo thay đổi vốn điều lệ trong 7 ngày làm việc, nhưng báo cáo này có thể gửi qua email mà không cần văn bản chính thức không?",
     "options": {
-      "A": "-7.0%",
-      "B": "-6.76%",
-      "C": "-6.2%",
-      "D": "0%"
+      "A": "Báo cáo thay đổi vốn trong 7 ngày làm việc.",
+      "B": "Báo cáo thay đổi vốn trong 30 ngày làm việc.",
+      "C": "Báo cáo thay đổi vốn trong 15 ngày làm việc.",
+      "D": "Không cần báo cáo thay đổi vốn.",
+      "E": "Báo cáo thay đổi vốn hàng năm."
     },
-    "correct": "B",
-    "explanation": "Quan hệ: r_simple = exp(r_cont) - 1. Với r_cont = -0.07: r_simple = e^{-0.07} - 1 ≈ 0.9324 - 1 = -0.0676 ≈ -6.76%."
+    "correct": "A",
+    "explanation": "Theo khoản 2 Điều 5 Thông tư số 121/2020/TT-BTC, báo cáo thay đổi vốn trong 7 ngày làm việc. Câu hỏi đặt bẫy về 'gửi qua email mà không cần văn bản', nhưng phải theo quy định báo cáo chính thức."
   },
   {
     "id": 51,
-    "question": "Đầu tư 1 triệu USD vào A (5 năm) và 4 triệu USD vào B (10 năm). Thời gian đáo hạn bình quân của danh mục là:",
+    "question": "Theo luật, quyền mua cổ phần là loại chứng khoán do công ty cổ phần phát hành để mang lại cho cổ đông hiện hữu quyền mua cổ phần mới, nhưng quyền này có thể chuyển nhượng mà không cần chấp thuận không?",
     "options": {
-      "A": "5 năm",
-      "B": "7 năm",
-      "C": "9 năm",
-      "D": "10 năm"
+      "A": "Do công ty chứng khoán phát hành.",
+      "B": "Do công ty cổ phần phát hành nhằm mang lại cho cổ đông hiện hữu quyền mua cổ phần mới theo điều kiện đã xác định.",
+      "C": "Do quỹ đầu tư chứng khoán phát hành.",
+      "D": "Do ngân hàng thương mại phát hành.",
+      "E": "Do Chính phủ phát hành."
     },
-    "correct": "C",
-    "explanation": "Weighted average maturity = (1/5)*5 + (4/5)*10 = 1 + 8 = 9 năm."
+    "correct": "B",
+    "explanation": "Theo khoản 7 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), quyền mua cổ phần do công ty cổ phần phát hành nhằm mang lại cho cổ đông hiện hữu quyền mua cổ phần mới. Câu hỏi đặt bẫy về 'chuyển nhượng mà không cần chấp thuận', và quyền có thể chuyển nhượng theo quy định."
   },
   {
     "id": 52,
-    "question": "Bạn đầu tư 50% vào A (beta=1.6) và 50% vào B (beta=0.7). Beta của danh mục là:",
+    "question": "Tổ chức phát hành phải công bố thông tin về quyết định chia tách trong vòng 24 giờ, nhưng nếu quyết định được đưa ra vào cuối tuần thì thời hạn có kéo dài không?",
     "options": {
-      "A": "1.4",
-      "B": "1.15",
-      "C": "0.36",
-      "D": "1.08"
+      "A": "Công bố trước 7 ngày trước khi chia tách.",
+      "B": "Công bố trong vòng 24 giờ kể từ khi quyết định chia tách.",
+      "C": "Công bố sau 7 ngày sau khi quyết định.",
+      "D": "Không cần công bố thông tin về chia tách.",
+      "E": "Công bố hàng tháng về quyết định chia tách."
     },
     "correct": "B",
-    "explanation": "Beta danh mục = 0.5*1.6 + 0.5*0.7 = 0.8 + 0.35 = 1.15."
+    "explanation": "Theo khoản 1 Điều 5 Thông tư số 96/2020/TT-BTC, công bố thông tin bất thường như quyết định chia tách trong vòng 24 giờ. Câu hỏi đặt bẫy về 'kéo dài nếu cuối tuần', nhưng thời hạn là 24 giờ kể từ sự kiện, tính ngày làm việc nếu cần."
   },
   {
     "id": 53,
-    "question": "Danh mục có rho = 0.85 với SMI, σ = 22%. Nếu phòng ngừa theo phương pháp phương sai tối thiểu, rủi ro còn lại là:",
+    "question": "Rủi ro thanh toán được tính dựa trên vị thế ròng thanh toán đối với một đối tác là khoản cho vay sau điều chỉnh nợ phải trả, nhưng vị thế ròng có thể âm không?",
     "options": {
-      "A": "18.7%",
-      "B": "15.9%",
-      "C": "11.59%",
-      "D": "Không có đáp án đúng"
+      "A": "Giá trị khoản cho vay sau khi điều chỉnh nợ phải trả cho đối tác.",
+      "B": "Chỉ khoản phải thu mà không điều chỉnh nợ.",
+      "C": "Không cần tính rủi ro thanh toán nếu đối tác uy tín.",
+      "D": "Tổng tài sản ròng của công ty.",
+      "E": "Không đủ dữ liệu để tính rủi ro thanh toán."
     },
-    "correct": "C",
-    "explanation": "Như câu 49: σ_res = 0.22 * sqrt(1 - 0.85^2) ≈ 11.59%. Theo nguồn gốc bài, đáp án được chốt là không phải A/B/D mà là 11.59%."
+    "correct": "A",
+    "explanation": "Theo khoản 11 Điều 3 Thông tư số 91/2020/TT-BTC, vị thế ròng thanh toán đối với một đối tác là giá trị khoản cho vay, khoản phải thu sau khi đã điều chỉnh các khoản nợ, khoản phải trả cho đối tác đó. Câu hỏi đặt bẫy về 'vị thế ròng có thể âm', và nếu âm thì rủi ro = 0 theo công thức."
   },
   {
     "id": 54,
-    "question": "Coupon như nhau: trái phiếu có thời gian đáo hạn dài hơn có Duration lớn hơn. (Đúng/Sai)",
+    "question": "Quỹ đầu tư có thể đầu tư vào tiền gửi ngân hàng không quá 49% NAV, nhưng tỷ lệ này có áp dụng cho quỹ tiền tệ không?",
     "options": {
-      "A": "Đúng",
-      "B": "Sai"
+      "A": "Không quá 10% NAV vào tiền gửi ngân hàng.",
+      "B": "Không quá 49% NAV vào tiền gửi ngân hàng.",
+      "C": "Không quá 30% NAV vào tiền gửi ngân hàng.",
+      "D": "Không hạn chế đầu tư vào tiền gửi ngân hàng.",
+      "E": "Không được đầu tư vào tiền gửi ngân hàng."
     },
-    "correct": "A",
-    "explanation": "Với cùng coupon và yield, maturity lớn hơn thường dẫn tới duration lớn hơn vì dòng tiền lớn hơn tập trung về cuối kì."
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 24 Thông tư số 98/2020/TT-BTC, quỹ có thể đầu tư tiền gửi ngân hàng không quá 49% NAV. Câu hỏi đặt bẫy về 'áp dụng cho quỹ tiền tệ', và quỹ tiền tệ có thể cao hơn theo quy định riêng."
   },
   {
     "id": 55,
-    "question": "Trái phiếu có cùng thời gian đáo hạn: coupon nhỏ hơn thì Duration lớn hơn. (Đúng/Sai)",
+    "question": "Công ty chứng khoán phải có hệ thống kiểm soát nội bộ độc lập để quản lý rủi ro, nhưng hệ thống này có thể tích hợp với kiểm toán ngoại bộ không?",
+    "options": {
+      "A": "Không cần hệ thống kiểm soát nội bộ.",
+      "B": "Phải có hệ thống kiểm soát nội bộ độc lập để quản lý rủi ro.",
+      "C": "Chỉ cần kiểm toán ngoại bộ thay thế.",
+      "D": "Hệ thống kiểm soát nội bộ theo quyết định Ban giám đốc.",
+      "E": "Không xác định yêu cầu về hệ thống kiểm soát nội bộ."
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 3 Thông tư số 121/2020/TT-BTC, phải có hệ thống kiểm soát nội bộ để quản lý rủi ro. Câu hỏi đặt bẫy về 'tích hợp với kiểm toán ngoại bộ', nhưng kiểm soát nội bộ là riêng."
+  },
+  {
+    "id": 56,
+    "question": "Mức ngại rủi ro của nhà đầu tư trong quản lý quỹ được đánh giá dựa trên hàm tiện ích U = E(r) - 0.5*A*σ^2, nhưng hàm này có được sử dụng cho tất cả loại nhà đầu tư không? (Ví dụ A=4, U=12% > Rf thì đầu tư)",
+    "options": {
+      "A": "Không cần đánh giá mức ngại rủi ro.",
+      "B": "Dựa trên hàm tiện ích U = E(r) - 0.5*A*σ^2 để đánh giá.",
+      "C": "Chỉ dựa trên lợi nhuận kỳ vọng mà không cần rủi ro.",
+      "D": "Dựa trên hệ số beta thay vì hàm tiện ích.",
+      "E": "Không đủ thông tin về đánh giá ngại rủi ro."
+    },
+    "correct": "B",
+    "explanation": "Tương tự ví dụ trong câu hỏi gốc, sử dụng hàm tiện ích U = E(r) - 0.5*A*σ^2 để đánh giá mức ngại rủi ro A theo Thông tư 98/2020/TT-BTC trong quản lý quỹ. Câu hỏi đặt bẫy về 'sử dụng cho tất cả loại', và hàm là mô hình lý thuyết, áp dụng linh hoạt."
+  },
+  {
+    "id": 57,
+    "question": "Hedging bằng futures cho danh mục chứng khoán được thực hiện bằng cách bán futures để phòng ngừa rủi ro giảm giá, nhưng nếu danh mục tăng giá thì có cần mua futures không?",
+    "options": {
+      "A": "Mua hợp đồng futures để phòng ngừa rủi ro giảm giá.",
+      "B": "Bán hợp đồng futures để phòng ngừa rủi ro giảm giá cho danh mục nắm giữ.",
+      "C": "Không cần hedging nếu thị trường ổn định.",
+      "D": "Chỉ mua cổ phiếu để hedging.",
+      "E": "Không xác định cách hedging."
+    },
+    "correct": "B",
+    "explanation": "Tương tự ví dụ gốc, để phòng ngừa rủi ro thị trường cho danh mục nắm giữ, bán hợp đồng tương lai theo Thông tư 121/2020/TT-BTC. Câu hỏi đặt bẫy về 'mua futures nếu tăng giá', nhưng hedging giảm giá là bán."
+  },
+  {
+    "id": 58,
+    "question": "Công ty đại chúng phải hủy niêm yết khi không đáp ứng điều kiện niêm yết hoặc theo quyết định Đại hội đồng cổ đông, nhưng hủy niêm yết có thể tự động nếu lỗ lũy kế không?",
+    "options": {
+      "A": "Hủy niêm yết khi lỗ lũy kế vượt 50% vốn điều lệ.",
+      "B": "Hủy niêm yết khi không đáp ứng điều kiện niêm yết, hoặc theo quyết định Đại hội đồng cổ đông.",
+      "C": "Không hủy niêm yết dù không đáp ứng điều kiện.",
+      "D": "Hủy niêm yết hàng năm nếu không lợi nhuận.",
+      "E": "Không đủ dữ liệu về hủy niêm yết."
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 120 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), hủy niêm yết khi không đáp ứng điều kiện hoặc theo quyết định. Câu hỏi đặt bẫy về 'tự động nếu lỗ lũy kế', nhưng lỗ lũy kế là một trong các lý do không đáp ứng."
+  },
+  {
+    "id": 59,
+    "question": "Quỹ ETF phải có ít nhất 2 thành viên lập quỹ, nhưng số lượng này có thể tăng lên 5 nếu quỹ lớn không?",
+    "options": {
+      "A": "Ít nhất 1 thành viên lập quỹ.",
+      "B": "Ít nhất 2 thành viên lập quỹ.",
+      "C": "Ít nhất 3 thành viên lập quỹ.",
+      "D": "Ít nhất 5 thành viên lập quỹ.",
+      "E": "Không quy định về thành viên lập quỹ."
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 1 Điều 14 Thông tư số 98/2020/TT-BTC, quỹ ETF phải có ít nhất 2 thành viên lập quỹ. Câu hỏi đặt bẫy về 'tăng lên 5 nếu quỹ lớn', nhưng tối thiểu là 2, không yêu cầu tăng."
+  },
+  {
+    "id": 60,
+    "question": "Công ty chứng khoán bị kiểm soát đặc biệt khi tỷ lệ vốn khả dụng dưới 120%, nhưng kiểm soát đặc biệt có thể kéo dài vô thời hạn không?",
+    "options": {
+      "A": "Dưới 180% bị kiểm soát đặc biệt.",
+      "B": "Dưới 150% bị kiểm soát đặc biệt.",
+      "C": "Dưới 120% bị kiểm soát đặc biệt.",
+      "D": "Dưới 100% bị kiểm soát đặc biệt.",
+      "E": "Dưới 120% bị kiểm soát đặc biệt."
+    },
+    "correct": "E",
+    "explanation": "Theo khoản 3 Điều 6 Thông tư số 91/2020/TT-BTC, dưới 120% bị kiểm soát đặc biệt. Câu hỏi đặt bẫy về 'kéo dài vô thời hạn', nhưng có thời hạn khắc phục theo quy định."
+  },
+  {
+    "id": 61,
+    "question": "Theo luật, chứng chỉ lưu ký là loại chứng khoán được phát hành trên cơ sở chứng khoán của tổ chức được thành lập và hoạt động hợp pháp tại Việt Nam, nhưng có thể trên cơ sở chứng khoán nước ngoài không?",
+    "options": {
+      "A": "Phát hành trên cơ sở chứng khoán của tổ chức nước ngoài.",
+      "B": "Phát hành trên cơ sở chứng khoán của tổ chức được thành lập và hoạt động hợp pháp tại Việt Nam.",
+      "C": "Phát hành trên cơ sở chứng khoán của chỉ công ty cổ phần.",
+      "D": "Phát hành trên cơ sở chứng khoán của quỹ đầu tư.",
+      "E": "Không có chứng chỉ lưu ký."
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 8 Điều 4 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng chỉ lưu ký được phát hành trên cơ sở chứng khoán của tổ chức được thành lập và hoạt động hợp pháp tại Việt Nam. Câu hỏi đặt bẫy về 'cơ sở chứng khoán nước ngoài', nhưng chỉ tại Việt Nam."
+  },
+  {
+    "id": 62,
+    "question": "Báo cáo tài chính bán niên phải được soát xét và công bố trong 45 ngày từ kết thúc quý 2, nhưng thời hạn này có thể 60 ngày nếu báo cáo hợp nhất không?",
+    "options": {
+      "A": "Soát xét và công bố trong 30 ngày từ kết thúc quý 2.",
+      "B": "Soát xét và công bố trong 45 ngày từ kết thúc quý 2.",
+      "C": "Soát xét và công bố trong 60 ngày từ kết thúc quý 2.",
+      "D": "Soát xét và công bố trong 90 ngày từ kết thúc quý 2.",
+      "E": "Không cần soát xét báo cáo bán niên."
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 4 Thông tư số 96/2020/TT-BTC, báo cáo tài chính bán niên phải soát xét và công bố trong 45 ngày từ kết thúc quý 2. Câu hỏi đặt bẫy về '60 ngày nếu hợp nhất', nhưng thời hạn cố định là 45 ngày."
+  },
+  {
+    "id": 63,
+    "question": "Công ty quản lý quỹ là công ty đại chúng hoặc quản lý quỹ đại chúng phải thành lập bộ phận kiểm toán nội bộ. (Đúng/Sai)",
     "options": {
       "A": "Đúng",
       "B": "Sai"
     },
     "correct": "A",
-    "explanation": "Với cùng maturity, trái phiếu có coupon nhỏ hơn trả ít tiền sớm hơn nên trọng số của dòng tiền rơi vào cuối kì lớn hơn → duration lớn hơn."
+    "explanation": "Theo khoản 1 Điều 5 Thông tư số 99/2020/TT-BTC, công ty quản lý quỹ là công ty đại chúng hoặc quản lý quỹ đại chúng phải thành lập bộ phận kiểm toán nội bộ."
   },
   {
-    "id": 56,
-    "question": "Mức ngại rủi ro A của nhà đầu tư có thể âm. (Đúng/Sai)",
+    "id": 64,
+    "question": "Rủi ro thị trường trong an toàn tài chính được tính dựa trên vị thế ròng của chứng khoán. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 10 Điều 3 Thông tư số 91/2020/TT-BTC, rủi ro thị trường dựa trên vị thế ròng đối với một chứng khoán."
+  },
+  {
+    "id": 65,
+    "question": "Quỹ đầu tư có thể đầu tư vào chứng khoán phái sinh để phòng ngừa rủi ro. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 3 Điều 24 Thông tư số 98/2020/TT-BTC, quỹ có thể đầu tư phái sinh để phòng ngừa rủi ro."
+  },
+  {
+    "id": 66,
+    "question": "Công ty chứng khoán không được cho vay margin đối với cổ phiếu của chính mình. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 3 Điều 19 Thông tư số 121/2020/TT-BTC, không cho vay margin cổ phiếu tự doanh hoặc của công ty."
+  },
+  {
+    "id": 67,
+    "question": "Người nội bộ có thể giao dịch cổ phiếu mà không cần báo cáo. (Đúng/Sai)",
     "options": {
       "A": "Đúng",
       "B": "Sai"
     },
     "correct": "B",
-    "explanation": "Trong lý thuyết kinh tế tiêu chuẩn, mức ngại rủi ro A thường được coi là >= 0. A âm có nghĩa là nhà đầu tư ưa rủi ro cực đoan, điều này hiếm gặp và không thuộc giả định chuẩn. Vì vậy phát biểu 'có thể âm' xét trong khuôn khổ tiêu chuẩn là sai."
+    "explanation": "Theo khoản 1 Điều 6 Thông tư số 96/2020/TT-BTC, người nội bộ phải báo cáo giao dịch."
   },
   {
-    "id": 57,
-    "question": "Ví dụ hedging: Danh mục 10 triệu USD, β = 1.2, hợp đồng tương lai ở mức 1075, k = 25 USD/point. Số hợp đồng xấp xỉ:",
+    "id": 68,
+    "question": "Trái phiếu xanh là trái phiếu phát hành để đầu tư cho dự án bảo vệ môi trường. (Đúng/Sai)",
     "options": {
-      "A": "112 hợp đồng",
-      "B": "223 hợp đồng",
-      "C": "446 hợp đồng",
-      "D": "892 hợp đồng"
+      "A": "Đúng",
+      "B": "Sai"
     },
-    "correct": "C",
-    "explanation": "Dùng N ≈ (β * V) / (k * F) = 1.2 * 10,000,000 / (25 * 1075) ≈ 12,000,000 / 26,875 ≈ 446 hợp đồng (theo ví dụ gốc)."
+    "correct": "A",
+    "explanation": "Theo khoản 2 Điều 4 Nghị định số 153/2020/NĐ-CP, trái phiếu xanh là trái phiếu doanh nghiệp được phát hành để đầu tư cho dự án thuộc lĩnh vực bảo vệ môi trường."
   },
   {
-    "id": 58,
-    "question": "Ví dụ điều chỉnh β: giảm β từ 1.4 → 1.1 cho DMĐT 3 triệu USD, F = 1050, k = 25. Hành động:",
+    "id": 69,
+    "question": "Công ty đại chúng không cần kiểm toán báo cáo tài chính năm. (Đúng/Sai)",
     "options": {
-      "A": "Mua 34 hợp đồng",
-      "B": "Bán 34 hợp đồng",
-      "C": "Mua 68 hợp đồng",
-      "D": "Bán 68 hợp đồng"
+      "A": "Đúng",
+      "B": "Sai"
     },
     "correct": "B",
-    "explanation": "Δβ = -0.3 → N ≈ (-0.3 * 3,000,000) / (25 * 1050) ≈ -34 → bán 34 hợp đồng để giảm độ nhạy (giảm beta)."
+    "explanation": "Theo khoản 1 Điều 4 Thông tư số 96/2020/TT-BTC, phải kiểm toán bởi tổ chức kiểm toán được chấp thuận."
   },
   {
-    "id": 59,
-    "question": "Hợp đồng tương lai trái phiếu chính phủ: Ví dụ 1 triệu USD, MD_portfolio=5, F0,T=111.5, k=100,000, MDF=5.5. Số hợp đồng xấp xỉ:",
+    "id": 70,
+    "question": "Quỹ ETF có thể giao dịch hoán đổi danh mục với thành viên lập quỹ. (Đúng/Sai)",
     "options": {
-      "A": "4 hợp đồng",
-      "B": "6 hợp đồng",
-      "C": "8 hợp đồng",
-      "D": "10 hợp đồng"
+      "A": "Đúng",
+      "B": "Sai"
     },
-    "correct": "C",
-    "explanation": "Value per future = k * F0,T = 100,000 * 1.115 = 111,500 USD. N ≈ - (1,000,000 / 111,500) * (5 / 5.5) ≈ -8.15 → xấp xỉ 8 hợp đồng theo ví dụ gốc (mua hay bán tùy mục tiêu hedging)."
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 13 Thông tư số 98/2020/TT-BTC, quỹ ETF giao dịch hoán đổi với thành viên lập quỹ."
   },
   {
-    "id": 60,
-    "question": "Tổng hợp ví dụ về DMĐT: E(r)=20%, σ=20%, A=4 hoặc A=8; quyết định đầu tư?",
+    "id": 71,
+    "question": "Theo luật, Ủy ban Chứng khoán Nhà nước có quyền đình chỉ giao dịch chứng khoán khi thị trường biến động mạnh để bảo vệ lợi ích nhà đầu tư. (Đúng/Sai)",
     "options": {
-      "A": "A=4: đầu tư; A=8: đầu tư",
-      "B": "A=4: đầu tư; A=8: không đầu tư",
-      "C": "A=4: không đầu tư; A=8: đầu tư",
-      "D": "A=4: không đầu tư; A=8: không đầu tư"
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 4 Điều 9 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), UBCK có quyền đình chỉ, tạm ngừng giao dịch để bảo vệ lợi ích hoặc khi vi phạm."
+  },
+  {
+    "id": 72,
+    "question": "Công ty chứng khoán phải công bố thông tin về giao dịch tự doanh hàng quý. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 3 Điều 4 Thông tư số 96/2020/TT-BTC, công bố giao dịch tự doanh hàng quý."
+  },
+  {
+    "id": 73,
+    "question": "Quỹ đầu tư phải phân phối lợi tức cho nhà đầu tư theo Điều lệ quỹ. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 4 Điều 25 Thông tư số 98/2020/TT-BTC, phân phối lợi tức theo Điều lệ quỹ."
+  },
+  {
+    "id": 74,
+    "question": "Công ty quản lý quỹ có thể quản lý đồng thời quỹ mở và quỹ đóng. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo Thông tư số 99/2020/TT-BTC, có thể quản lý nhiều loại quỹ."
+  },
+  {
+    "id": 75,
+    "question": "Vi phạm sử dụng thông tin nội bộ bị xử phạt tiền và có thể truy cứu hình sự nếu nghiêm trọng. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 13 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), phạt tiền và có thể truy cứu hình sự."
+  },
+  {
+    "id": 76,
+    "question": "Công ty chứng khoán phải có Ban kiểm soát nếu là công ty đại chúng. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 4 Thông tư số 121/2020/TT-BTC, phải có Ban kiểm soát hoặc Ủy ban kiểm toán nếu đại chúng."
+  },
+  {
+    "id": 77,
+    "question": "Quỹ đầu tư có thể vay vốn không quá 10% NAV cho quỹ mở. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 5 Điều 24 Thông tư số 98/2020/TT-BTC, vay không quá 10% NAV cho quỹ mở."
+  },
+  {
+    "id": 78,
+    "question": "Công ty đại chúng phải công bố thông tin về thay đổi cổ đông lớn trong 3 ngày. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 2 Điều 6 Thông tư số 96/2020/TT-BTC, công bố thay đổi sở hữu cổ đông lớn trong 3 ngày."
+  },
+  {
+    "id": 79,
+    "question": "Công ty quản lý quỹ phải có vốn pháp định riêng cho nghiệp vụ tư vấn đầu tư. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
     },
     "correct": "B",
-    "explanation": "Lặp lại logic ở câu 41/46: Với A=4: U = 20% - 0.5*4*(0.2^2) = 12% > Rf (nếu Rf ~7%) → đầu tư. Với A=8: U = 4% < Rf → không đầu tư. Vì vậy A=4 đầu tư; A=8 không đầu tư."
+    "explanation": "Vốn pháp định cho công ty quản lý quỹ là 25 tỷ, không riêng cho tư vấn."
   },
   {
-    "id": 61,
-    "question": "Tổng hợp & hành động tiếp theo: bạn muốn mình thêm lời giải chi tiết cho từng câu, chuyển file sang CSV, hay tạo Pull Request trực tiếp vào repo?",
+    "id": 80,
+    "question": "Trái phiếu kèm chứng quyền được phát hành bởi công ty cổ phần. (Đúng/Sai)",
     "options": {
-      "A": "Thêm lời giải chi tiết cho tất cả câu",
-      "B": "Chuyển sang CSV",
-      "C": "Tạo Pull Request trên repo",
-      "D": "Không thêm gì nữa"
+      "A": "Đúng",
+      "B": "Sai"
     },
-    "correct": "",
-    "explanation": "Mục này là placeholder điều hành — chọn A/B/C/D để mình thực hiện bước tiếp theo. Nếu chọn A mình sẽ mở rộng phần explanation từng câu; nếu chọn C mình sẽ chuẩn bị commit & PR (cần xác nhận)."
+    "correct": "A",
+    "explanation": "Theo khoản 9 Điều 4 Nghị định số 153/2020/NĐ-CP, trái phiếu kèm chứng quyền do công ty cổ phần phát hành."
+  },
+  {
+    "id": 81,
+    "question": "Theo luật, thị trường chứng khoán phái sinh được tổ chức tại Sở giao dịch chứng khoán. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 53 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), thị trường phái sinh tại Sở GDCK."
+  },
+  {
+    "id": 82,
+    "question": "Công ty chứng khoán phải báo cáo tài chính hàng quý cho UBCK trong 20 ngày sau kết thúc quý. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 10 Thông tư số 121/2020/TT-BTC, báo cáo quý trong 20 ngày."
+  },
+  {
+    "id": 83,
+    "question": "Quỹ thành viên phải có không quá 30 nhà đầu tư chuyên nghiệp. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 20 Thông tư số 98/2020/TT-BTC, quỹ thành viên không quá 30 nhà đầu tư chuyên nghiệp."
+  },
+  {
+    "id": 84,
+    "question": "Vi phạm phòng chống rửa tiền trong chứng khoán bị phạt tiền và có thể đình chỉ hoạt động. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 14 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), vi phạm phòng chống rửa tiền phạt tiền và có thể đình chỉ."
+  },
+  {
+    "id": 85,
+    "question": "Công ty quản lý quỹ phải có Ban đại diện quỹ cho quỹ đại chúng. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 9 Thông tư số 99/2020/TT-BTC, quỹ đại chúng phải có Ban đại diện quỹ."
+  },
+  {
+    "id": 86,
+    "question": "Công ty chứng khoán có thể tự doanh chứng khoán phái sinh nếu được cấp phép. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 2 Điều 86 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), nếu được cấp phép tự doanh."
+  },
+  {
+    "id": 87,
+    "question": "Quỹ đầu tư bất động sản phải công bố giá trị tài sản ròng hàng tuần. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 11 Thông tư số 98/2020/TT-BTC, hàng tháng hoặc theo Điều lệ."
+  },
+  {
+    "id": 88,
+    "question": "Công ty đại chúng có thể hủy tư cách công ty đại chúng theo quyết định Đại hội đồng cổ đông. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 15 Điều 1 Luật số 56/2024/QH15 sửa đổi Luật Chứng khoán, có thể hủy theo quyết định hoặc khi không đáp ứng điều kiện."
+  },
+  {
+    "id": 89,
+    "question": "Trái phiếu doanh nghiệp phải có xếp hạng tín nhiệm nếu phát hành riêng lẻ. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 57 Điều 3 Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), xếp hạng tín nhiệm chỉ yêu cầu cho một số trường hợp, không bắt buộc cho riêng lẻ."
+  },
+  {
+    "id": 90,
+    "question": "Công ty chứng khoán phải có quỹ bảo vệ nhà đầu tư riêng. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B",
+    "explanation": "Quỹ bảo vệ nhà đầu tư do Tổng công ty lưu ký quản lý, công ty chứng khoán đóng góp."
+  },
+  {
+    "id": 91,
+    "question": "Theo luật, Sở giao dịch chứng khoán có chức năng giám sát thị trường. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 1 Điều 53 Luật Chứng khoán số 54/2019/QH14 (đã được sửa đổi, bổ sung bởi Luật số 56/2024/QH15), Sở GDCK giám sát giao dịch, công bố thông tin."
+  },
+  {
+    "id": 92,
+    "question": "Công ty quản lý quỹ có thể ủy thác quản lý quỹ cho bên thứ ba. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 7 Thông tư số 99/2020/TT-BTC, không được ủy thác quản lý quỹ cho bên thứ ba trừ trường hợp đặc biệt."
+  },
+  {
+    "id": 93,
+    "question": "Quỹ đầu tư có thể đầu tư vào cổ phiếu chưa niêm yết không quá 15% NAV. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 3 Điều 24 Thông tư số 98/2020/TT-BTC, không quá 15% NAV vào chứng khoán chưa niêm yết."
+  },
+  {
+    "id": 94,
+    "question": "Công ty chứng khoán phải báo cáo quản trị rủi ro hàng năm. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 4 Điều 3 Thông tư số 121/2020/TT-BTC, báo cáo quản trị rủi ro hàng năm."
+  },
+  {
+    "id": 95,
+    "question": "Vi phạm niêm yết chứng khoán giả mạo bị xử phạt hình sự nếu nghiêm trọng. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 5 Điều 11 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), có thể truy cứu hình sự nếu nghiêm trọng."
+  },
+  {
+    "id": 96,
+    "question": "Quỹ đầu tư phải có báo cáo đánh giá hiệu suất đầu tư hàng quý. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 2 Điều 25 Thông tư số 98/2020/TT-BTC, báo cáo hiệu suất định kỳ."
+  },
+  {
+    "id": 97,
+    "question": "Công ty chứng khoán có thể bảo lãnh phát hành với giá trị vượt vốn chủ sở hữu nếu có bảo hiểm. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B",
+    "explanation": "Không vượt hạn mức theo an toàn tài chính theo Thông tư 91/2020/TT-BTC."
+  },
+  {
+    "id": 98,
+    "question": "Công ty đại chúng phải có Ủy ban kiểm toán nếu có Ban kiểm soát. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B",
+    "explanation": "Có thể có Ủy ban kiểm toán dưới Hội đồng quản trị, không bắt buộc nếu có Ban kiểm soát."
+  },
+  {
+    "id": 99,
+    "question": "Quỹ ETF phải công bố danh mục chứng khoán cơ cấu hàng ngày. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 3 Điều 13 Thông tư số 98/2020/TT-BTC, công bố danh mục hàng ngày để hoán đổi."
+  },
+  {
+    "id": 100,
+    "question": "Vi phạm công bố thông tin sai lệch có thể bị buộc cải chính và bồi thường thiệt hại. (Đúng/Sai)",
+    "options": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A",
+    "explanation": "Theo khoản 4 Điều 10 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), buộc cải chính và bồi thường nếu gây thiệt hại."
   }
 ]
