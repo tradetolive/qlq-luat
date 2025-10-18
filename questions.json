@@ -3422,5 +3422,1207 @@
     },
     "correct": "A",
     "explanation": " 410 Nghị định số 156/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 128/2021/NĐ-CP), buộc cải chính và bồi thường nếu gây thiệt hại."
+  },
+
+  
+  {
+    "id": 1,
+    "question": "Theo Luật Chứng khoán, chứng quyền có bảo đảm là loại chứng khoán do công ty chứng khoán phát hành, nhưng trong trường hợp nào sau đây, người sở hữu chứng quyền có quyền nhận khoản tiền chênh lệch giữa giá thực hiện và giá chứng khoán cơ sở?",
+    "options": {
+      "A": "Chỉ khi chứng khoán cơ sở tăng giá vượt giá thực hiện",
+      "B": "Tại thời điểm thực hiện, tùy thuộc vào loại chứng quyền mua hoặc bán",
+      "C": "Chỉ áp dụng cho chứng quyền bán",
+      "D": "Không bao giờ nhận tiền chênh lệch, chỉ mua hoặc bán chứng khoán cơ sở"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 6 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng quyền có bảo đảm cho phép nhận khoản tiền chênh lệch giữa giá thực hiện và giá chứng khoán cơ sở tại thời điểm thực hiện, tùy thuộc vào chứng quyền mua hoặc bán."
+  },
+  {
+    "id": 2,
+    "question": "Trong định nghĩa hợp đồng tương lai theo Luật Chứng khoán, cam kết giữa các bên bao gồm thanh toán khoản chênh lệch, nhưng nếu tài sản cơ sở là chỉ số chứng khoán thì hình thức thanh toán nào là bắt buộc?",
+    "options": {
+      "A": "Chuyển giao tài sản cơ sở",
+      "B": "Thanh toán khoản chênh lệch bằng tiền",
+      "C": "Tùy chọn giữa chuyển giao và thanh toán tiền",
+      "D": "Không áp dụng cho chỉ số chứng khoán"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 12 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), hợp đồng tương lai xác nhận cam kết thanh toán khoản chênh lệch, đặc biệt bắt buộc thanh toán tiền cho tài sản cơ sở là chỉ số chứng khoán."
+  },
+  {
+    "id": 3,
+    "question": "Luật Chứng khoán quy định nhà đầu tư chiến lược phải cam kết hợp tác ít nhất 03 năm, nhưng nếu nhà đầu tư là tổ chức tài chính quốc tế thì thời hạn này có thể được điều chỉnh như thế nào?",
+    "options": {
+      "A": "Giảm xuống 01 năm",
+      "B": "Tăng lên 05 năm",
+      "C": "Không thay đổi, vẫn 03 năm",
+      "D": "Miễn cam kết nếu được Chính phủ phê duyệt"
+    },
+    "correct": "C",
+    "explanation": "Điều 4 khoản 17 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), nhà đầu tư chiến lược phải cam kết hợp tác ít nhất 03 năm, không có ngoại lệ cho tổ chức tài chính quốc tế."
+  },
+  {
+    "id": 4,
+    "question": "Chào bán chứng khoán riêng lẻ được định nghĩa là chào bán cho dưới 100 nhà đầu tư không kể nhà đầu tư chứng khoán chuyên nghiệp, nhưng nếu chào bán chỉ cho nhà đầu tư chứng khoán chuyên nghiệp thì số lượng tối đa là bao nhiêu?",
+    "options": {
+      "A": "Không giới hạn số lượng",
+      "B": "Tối đa 99 nhà đầu tư",
+      "C": "Tối đa 150 nhà đầu tư",
+      "D": "Tối đa 200 nhà đầu tư"
+    },
+    "correct": "A",
+    "explanation": "Điều 4 khoản 20 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chào bán riêng lẻ cho nhà đầu tư chứng khoán chuyên nghiệp không giới hạn số lượng."
+  },
+  {
+    "id": 5,
+    "question": "Theo Luật Chứng khoán, thao túng thị trường bao gồm liên tục mua bán chứng khoán nhằm tạo cung cầu giả tạo, nhưng nếu hành vi này kết hợp với tung tin đồn sai sự thật thì thuộc khoản nào?",
+    "options": {
+      "A": "Khoản a Điều 4",
+      "B": "Khoản d Điều 4",
+      "C": "Khoản e Điều 4",
+      "D": "Khoản g Điều 4"
+    },
+    "correct": "C",
+    "explanation": "Điều 4 khoản 49 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), hành vi kết hợp tung tin đồn sai sự thật để thao túng giá chứng khoán thuộc điểm e."
+  },
+  {
+    "id": 6,
+    "question": "Biện pháp bảo đảm an ninh thị trường chứng khoán bao gồm tạm ngừng giao dịch một số chứng khoán, nhưng ai có thẩm quyền áp dụng biện pháp phong tỏa tài khoản chứng khoán liên quan đến vi phạm?",
+    "options": {
+      "A": "Chính phủ",
+      "B": "Bộ Tài chính",
+      "C": "Ủy ban Chứng khoán Nhà nước",
+      "D": "Sở Giao dịch Chứng khoán"
+    },
+    "correct": "C",
+    "explanation": "Điều 7 khoản 1 điểm g Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), Ủy ban Chứng khoán Nhà nước có thẩm quyền phong tỏa tài khoản chứng khoán."
+  },
+  {
+    "id": 7,
+    "question": "Ủy ban Chứng khoán Nhà nước có nhiệm vụ chấp thuận hệ thống giao dịch chứng khoán mới, nhưng trong trường hợp biến động lớn ảnh hưởng đến an toàn thị trường, Ủy ban phải báo cáo cho ai đồng thời với Bộ Tài chính?",
+    "options": {
+      "A": "Quốc hội",
+      "B": "Chính phủ và Thủ tướng Chính phủ",
+      "C": "Ngân hàng Nhà nước",
+      "D": "Tổng công ty Lưu ký và Bù trừ"
+    },
+    "correct": "B",
+    "explanation": "Điều 9 khoản 1 điểm h Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), báo cáo Chính phủ, Thủ tướng Chính phủ đồng thời với Bộ Tài chính."
+  },
+  {
+    "id": 8,
+    "question": "Luật Chứng khoán quy định nhà đầu tư chứng khoán chuyên nghiệp bao gồm tổ chức tài chính, nhưng nếu là cá nhân thì phải đáp ứng điều kiện nào sau đây để được công nhận?",
+    "options": {
+      "A": "Có thu nhập chịu thuế ít nhất 500 triệu đồng/năm",
+      "B": "Có danh mục chứng khoán niêm yết tối thiểu 2 tỷ đồng",
+      "C": "Có chứng chỉ hành nghề chứng khoán và thu nhập 1 tỷ đồng/năm",
+      "D": "Có chứng chỉ hành nghề và danh mục chứng khoán 1 tỷ đồng"
+    },
+    "correct": "C",
+    "explanation": "Khoản 3 Điều 1 Luật số 56/2024/QH15 sửa đổi Luật Chứng khoán, cá nhân là nhà đầu tư chuyên nghiệp phải có chứng chỉ hành nghề và thu nhập chịu thuế từ 1 tỷ đồng/năm trở lên."
+  },
+  {
+    "id": 9,
+    "question": "Trong chào bán trái phiếu doanh nghiệp riêng lẻ, tổ chức phát hành phải có vốn chủ sở hữu tối thiểu bao nhiêu theo báo cáo tài chính gần nhất được kiểm toán?",
+    "options": {
+      "A": "10 tỷ đồng",
+      "B": "30 tỷ đồng",
+      "C": "50 tỷ đồng",
+      "D": "100 tỷ đồng"
+    },
+    "correct": "B",
+    "explanation": "Khoản 11 Điều 1 Luật số 56/2024/QH15 sửa đổi Luật Chứng khoán, vốn chủ sở hữu tối thiểu 30 tỷ đồng cho chào bán trái phiếu riêng lẻ."
+  },
+  {
+    "id": 10,
+    "question": "Công ty đại chúng phải đáp ứng vốn điều lệ đã góp tối thiểu 30 tỷ đồng để niêm yết, nhưng nếu là công ty đại chúng theo quy định chuyển tiếp thì thời hạn đáp ứng là đến ngày nào?",
+    "options": {
+      "A": "01/01/2025",
+      "B": "01/01/2026",
+      "C": "01/01/2027",
+      "D": "Không có thời hạn chuyển tiếp"
+    },
+    "correct": "B",
+    "explanation": "Khoản 11 Điều 1 Luật số 56/2024/QH15 và quy định chuyển tiếp tại Điều 11 Luật số 56/2024/QH15, công ty đại chúng trước 01/01/2021 phải đáp ứng đến 01/01/2026 hoặc bị hủy tư cách."
+  },
+  {
+    "id": 11,
+    "question": "Theo sửa đổi Luật Chứng khoán 2024, trái phiếu doanh nghiệp riêng lẻ chỉ được giao dịch giữa nhà đầu tư chứng khoán chuyên nghiệp, nhưng quy định này có hiệu lực từ ngày nào?",
+    "options": {
+      "A": "01/01/2025",
+      "B": "01/01/2026",
+      "C": "29/11/2024",
+      "D": "26/02/2025"
+    },
+    "correct": "B",
+    "explanation": "Khoản 3 và khoản 9 Điều 1 Luật số 56/2024/QH15, quy định về nhà đầu tư chuyên nghiệp tham gia giao dịch trái phiếu riêng lẻ có hiệu lực từ 01/01/2026."
+  },
+  {
+    "id": 12,
+    "question": "Tổ chức phát hành trái phiếu riêng lẻ trước 01/01/2026 mà chưa hoàn thành phân phối thì tiếp tục theo luật cũ, nhưng sau khi hoàn thành thì áp dụng luật nào?",
+    "options": {
+      "A": "Tiếp tục luật cũ đến khi thanh toán hết",
+      "B": "Chuyển sang luật mới ngay lập tức",
+      "C": "Áp dụng luật mới sau khi hoàn thành phân phối",
+      "D": "Không áp dụng luật mới cho trái phiếu cũ"
+    },
+    "correct": "C",
+    "explanation": "Điểm b khoản 1 Điều 11 Luật số 56/2024/QH15, sau khi hoàn thành phân phối thì thực hiện theo luật mới."
+  },
+  {
+    "id": 13,
+    "question": "Luật Chứng khoán quy định Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam và công ty con phải được bổ sung vào biện pháp bảo đảm an ninh thị trường ở khoản nào?",
+    "options": {
+      "A": "Khoản 1 Điều 7",
+      "B": "Khoản 20 Điều 1 Luật số 56/2024/QH15",
+      "C": "Khoản 1 Điều 9",
+      "D": "Khoản 3 Điều 4"
+    },
+    "correct": "B",
+    "explanation": "Điểm b khoản 20 Điều 1 Luật số 56/2024/QH15 bổ sung cụm từ 'và công ty con' vào biện pháp tạm ngừng hoạt động của Tổng công ty lưu ký."
+  },
+  {
+    "id": 14,
+    "question": "Trong định nghĩa người nội bộ của quỹ đại chúng, thành viên Ban đại diện quỹ được liệt kê, nhưng người nội bộ của công ty quản lý quỹ bao gồm những ai?",
+    "options": {
+      "A": "Chỉ thành viên Hội đồng quản trị",
+      "B": "Thành viên Hội đồng quản trị, người điều hành quỹ, người nội bộ của công ty quản lý quỹ",
+      "C": "Chỉ người điều hành quỹ đại chúng",
+      "D": "Thành viên Ban kiểm soát quỹ"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 45 điểm b Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), người nội bộ bao gồm thành viên Ban đại diện, Hội đồng quản trị, người điều hành, và người nội bộ công ty quản lý quỹ."
+  },
+  {
+    "id": 15,
+    "question": "Theo sửa đổi, hồ sơ đăng ký chào bán chứng khoán ra công chúng nộp trước ngày luật mới có hiệu lực thì tiếp tục theo luật cũ, nhưng nếu hồ sơ hợp nhất thì sao?",
+    "options": {
+      "A": "Áp dụng luật mới ngay",
+      "B": "Tiếp tục luật cũ bất kể hợp nhất",
+      "C": "Chỉ áp dụng cho hồ sơ không hợp nhất",
+      "D": "Hủy hồ sơ và nộp lại"
+    },
+    "correct": "B",
+    "explanation": "Điểm c khoản 1 Điều 11 Luật số 56/2024/QH15, hồ sơ đã nộp đầy đủ hợp lệ trước hiệu lực thì tiếp tục theo luật cũ, bao gồm cả hợp nhất."
+  },
+  {
+    "id": 16,
+    "question": "Luật Chứng khoán bổ sung quy định về quỹ hoán đổi danh mục là quỹ mở hình thành từ việc hoán đổi danh mục chứng khoán cơ cấu, nhưng chứng chỉ quỹ này được giao dịch như thế nào?",
+    "options": {
+      "A": "Giao dịch riêng lẻ giữa nhà đầu tư",
+      "B": "Niêm yết và giao dịch trên hệ thống niêm yết",
+      "C": "Chỉ hoán đổi với công ty quản lý quỹ",
+      "D": "Không được giao dịch sau niêm yết"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 42 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng chỉ quỹ hoán đổi danh mục được niêm yết và giao dịch trên hệ thống giao dịch chứng khoán niêm yết."
+  },
+  {
+    "id": 17,
+    "question": "Trong biện pháp bảo đảm an toàn thị trường, cấm đảm nhiệm chức vụ tại công ty chứng khoán có thời hạn hoặc vĩnh viễn do vi phạm, nhưng áp dụng cho chi nhánh công ty nước ngoài như thế nào?",
+    "options": {
+      "A": "Không áp dụng cho chi nhánh nước ngoài",
+      "B": "Áp dụng tương tự như công ty trong nước",
+      "C": "Chỉ áp dụng thời hạn tối đa 5 năm",
+      "D": "Chỉ áp dụng cho vi phạm nghiêm trọng"
+    },
+    "correct": "B",
+    "explanation": "Điều 7 khoản 1 điểm e Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), áp dụng cho công ty chứng khoán, quản lý quỹ, bao gồm chi nhánh nước ngoài tại Việt Nam."
+  },
+  {
+    "id": 18,
+    "question": "Theo Luật, tổ chức kiểm toán được chấp thuận phải thuộc danh sách của Ủy ban Chứng khoán, nhưng nếu kiểm toán cho quỹ đại chúng thì yêu cầu thêm gì?",
+    "options": {
+      "A": "Phải có ít nhất 5 kiểm toán viên",
+      "B": "Phải kiểm toán độc lập theo pháp luật kiểm toán",
+      "C": "Phải có vốn điều lệ tối thiểu 50 tỷ đồng",
+      "D": "Không yêu cầu thêm"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 22 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), tổ chức kiểm toán được chấp thuận phải theo pháp luật kiểm toán độc lập."
+  },
+  {
+    "id": 19,
+    "question": "Luật Chứng khoán quy định hệ thống giao dịch chứng khoán do Sở Giao dịch Chứng khoán Việt Nam và công ty con vận hành, nhưng nếu tạm ngừng hoạt động thì ai chỉ đạo khôi phục?",
+    "options": {
+      "A": "Bộ Tài chính",
+      "B": "Ủy ban Chứng khoán Nhà nước",
+      "C": "Chính phủ",
+      "D": "Tổng công ty Lưu ký"
+    },
+    "correct": "B",
+    "explanation": "Điều 7 khoản 1 điểm d Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), Ủy ban Chứng khoán chỉ đạo khôi phục hoạt động."
+  },
+  {
+    "id": 20,
+    "question": "Người có liên quan theo Luật Chứng khoán bao gồm quan hệ gia đình, nhưng nếu là quan hệ hợp đồng đại diện thì thuộc điểm nào?",
+    "options": {
+      "A": "Điểm a khoản 46",
+      "B": "Điểm d khoản 46",
+      "C": "Điểm e khoản 46",
+      "D": "Điểm g khoản 46"
+    },
+    "correct": "C",
+    "explanation": "Điều 4 khoản 46 điểm e Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), quan hệ hợp đồng đại diện thuộc điểm e."
+  },
+  {
+    "id": 21,
+    "question": "Trong chào bán chứng khoán ra công chúng, bản cáo bạch phải công khai thông tin trung thực, nhưng nếu chào bán trái phiếu chính phủ thì có cần bản cáo bạch không?",
+    "options": {
+      "A": "Cần bản cáo bạch đầy đủ",
+      "B": "Không cần bản cáo bạch",
+      "C": "Chỉ cần bản cáo bạch tóm tắt",
+      "D": "Tùy theo quyết định của Bộ Tài chính"
+    },
+    "correct": "B",
+    "explanation": "Điều 23 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chào bán công cụ nợ của Chính phủ không yêu cầu bản cáo bạch như chào bán thông thường."
+  },
+  {
+    "id": 22,
+    "question": "Tổ chức phát hành chào bán cổ phiếu ra công chúng phải có vốn điều lệ đã góp tối thiểu 30 tỷ đồng, nhưng nếu là chào bán để hoán đổi thì điều kiện vốn có thay đổi không?",
+    "options": {
+      "A": "Giảm xuống 10 tỷ đồng",
+      "B": "Tăng lên 50 tỷ đồng",
+      "C": "Không thay đổi",
+      "D": "Miễn điều kiện vốn"
+    },
+    "correct": "C",
+    "explanation": "Điều 15 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), điều kiện vốn 30 tỷ đồng áp dụng chung cho chào bán cổ phiếu ra công chúng, bao gồm hoán đổi."
+  },
+  {
+    "id": 23,
+    "question": "Theo sửa đổi, chào bán trái phiếu riêng lẻ của doanh nghiệp phải có xếp hạng tín nhiệm nếu tổng dư nợ trái phiếu vượt bao nhiêu % vốn chủ sở hữu?",
+    "options": {
+      "A": "50%",
+      "B": "100%",
+      "C": "200%",
+      "D": "Không yêu cầu xếp hạng"
+    },
+    "correct": "B",
+    "explanation": "Khoản 9 Điều 1 Luật số 56/2024/QH15, yêu cầu xếp hạng tín nhiệm nếu tổng dư nợ trái phiếu vượt 100% vốn chủ sở hữu."
+  },
+  {
+    "id": 24,
+    "question": "Hồ sơ đăng ký chào bán chứng khoán ra công chúng phải nộp cho Ủy ban Chứng khoán, nhưng thời hạn xử lý hồ sơ là bao nhiêu ngày làm việc nếu hồ sơ đầy đủ?",
+    "options": {
+      "A": "15 ngày",
+      "B": "30 ngày",
+      "C": "45 ngày",
+      "D": "60 ngày"
+    },
+    "correct": "B",
+    "explanation": "Điều 20 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), Ủy ban Chứng khoán xử lý trong 30 ngày làm việc nếu hồ sơ đầy đủ."
+  },
+  {
+    "id": 25,
+    "question": "Chào bán chứng khoán riêng lẻ của công ty cổ phần phải báo cáo kết quả cho Ủy ban Chứng khoán trong bao nhiêu ngày sau khi hoàn tất?",
+    "options": {
+      "A": "5 ngày",
+      "B": "7 ngày",
+      "C": "10 ngày",
+      "D": "15 ngày"
+    },
+    "correct": "C",
+    "explanation": "Điều 30 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), báo cáo kết quả chào bán riêng lẻ trong 10 ngày sau hoàn tất."
+  },
+  {
+    "id": 26,
+    "question": "Nếu tổ chức phát hành vi phạm cam kết trong chào bán riêng lẻ, Ủy ban Chứng khoán có thể đình chỉ chào bán tiếp theo trong thời gian bao lâu?",
+    "options": {
+      "A": "6 tháng",
+      "B": "12 tháng",
+      "C": "18 tháng",
+      "D": "24 tháng"
+    },
+    "correct": "B",
+    "explanation": "Điều 31 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), đình chỉ chào bán tiếp theo trong 12 tháng nếu vi phạm."
+  },
+  {
+    "id": 27,
+    "question": "Chào bán chứng quyền có bảo đảm ra công chúng phải đáp ứng điều kiện vốn chủ sở hữu của công ty chứng khoán phát hành tối thiểu bao nhiêu?",
+    "options": {
+      "A": "100 tỷ đồng",
+      "B": "500 tỷ đồng",
+      "C": "1.000 tỷ đồng",
+      "D": "Không quy định"
+    },
+    "correct": "C",
+    "explanation": "Điều 16 Nghị định số 155/2020/NĐ-CP (liên quan đến Luật Chứng khoán), công ty chứng khoán phát hành chứng quyền phải có vốn chủ sở hữu tối thiểu 1.000 tỷ đồng."
+  },
+  {
+    "id": 28,
+    "question": "Trong chào bán trái phiếu riêng lẻ, thời hạn hạn chế chuyển nhượng là 1 năm, nhưng đối với nhà đầu tư chứng khoán chuyên nghiệp thì thời hạn này là bao lâu?",
+    "options": {
+      "A": "6 tháng",
+      "B": "Không hạn chế",
+      "C": "1 năm",
+      "D": "2 năm"
+    },
+    "correct": "B",
+    "explanation": "Khoản 9 Điều 1 Luật số 56/2024/QH15, trái phiếu riêng lẻ chỉ giao dịch giữa nhà đầu tư chuyên nghiệp, không hạn chế chuyển nhượng giữa họ từ 01/01/2026."
+  },
+  {
+    "id": 29,
+    "question": "Tổ chức phát hành phải công bố thông tin trước đợt chào bán riêng lẻ ít nhất bao nhiêu ngày?",
+    "options": {
+      "A": "3 ngày",
+      "B": "5 ngày",
+      "C": "7 ngày",
+      "D": "10 ngày"
+    },
+    "correct": "A",
+    "explanation": "Điều 29 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), công bố thông tin trước đợt chào bán riêng lẻ ít nhất 3 ngày."
+  },
+  {
+    "id": 30,
+    "question": "Nếu chào bán chứng khoán ra công chúng bị hủy do phát hiện thông tin sai lệch trong bản cáo bạch, tổ chức phát hành phải hoàn trả tiền cho nhà đầu tư trong thời hạn bao nhiêu ngày?",
+    "options": {
+      "A": "7 ngày",
+      "B": "15 ngày",
+      "C": "30 ngày",
+      "D": "45 ngày"
+    },
+    "correct": "B",
+    "explanation": "Điều 21 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), hoàn trả tiền trong 15 ngày nếu hủy đăng ký chào bán."
+  },
+  {
+    "id": 31,
+    "question": "Niêm yết chứng khoán trên hệ thống giao dịch niêm yết yêu cầu công ty có lãi trong 2 năm gần nhất, nhưng nếu niêm yết trái phiếu thì điều kiện này có áp dụng không?",
+    "options": {
+      "A": "Áp dụng tương tự",
+      "B": "Không áp dụng cho trái phiếu",
+      "C": "Chỉ áp dụng nếu trái phiếu chuyển đổi",
+      "D": "Áp dụng nếu trái phiếu có lãi suất cố định"
+    },
+    "correct": "B",
+    "explanation": "Điều 120 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), điều kiện niêm yết cổ phiếu yêu cầu lãi, nhưng không áp dụng cho trái phiếu."
+  },
+  {
+    "id": 32,
+    "question": "Chứng khoán bị hủy niêm yết nếu lỗ lũy kế vượt vốn điều lệ, nhưng theo sửa đổi 2024, ngưỡng lỗ lũy kế là bao nhiêu % vốn chủ sở hữu?",
+    "options": {
+      "A": "50%",
+      "B": "100%",
+      "C": "150%",
+      "D": "Không thay đổi, vẫn theo luật cũ"
+    },
+    "correct": "B",
+    "explanation": "Khoản 15 Điều 1 Luật số 56/2024/QH15, hủy niêm yết nếu lỗ lũy kế vượt 100% vốn chủ sở hữu."
+  },
+  {
+    "id": 33,
+    "question": "Sở Giao dịch Chứng khoán có quyền đình chỉ giao dịch chứng khoán nếu phát hiện vi phạm công bố thông tin, nhưng thời hạn đình chỉ tối đa là bao nhiêu ngày?",
+    "options": {
+      "A": "30 ngày",
+      "B": "60 ngày",
+      "C": "90 ngày",
+      "D": "120 ngày"
+    },
+    "correct": "B",
+    "explanation": "Điều 119 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), đình chỉ giao dịch tối đa 60 ngày."
+  },
+  {
+    "id": 34,
+    "question": "Giao dịch chứng khoán phái sinh phải qua Sở Giao dịch Chứng khoán, nhưng hợp đồng kỳ hạn giao dịch thỏa thuận thì có phải niêm yết không?",
+    "options": {
+      "A": "Phải niêm yết",
+      "B": "Không niêm yết, giao dịch OTC",
+      "C": "Niêm yết nếu giá trị lớn",
+      "D": "Niêm yết theo quyết định Ủy ban"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 13 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), hợp đồng kỳ hạn là phái sinh giao dịch thỏa thuận, không niêm yết."
+  },
+  {
+    "id": 35,
+    "question": "Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam quản lý đăng ký biện pháp bảo đảm cho chứng khoán, nhưng nếu chứng khoán bị hủy đăng ký tập trung thì biện pháp bảo đảm được xóa như thế nào?",
+    "options": {
+      "A": "Tự động xóa",
+      "B": "Thông báo cho thành viên lưu ký để xóa",
+      "C": "Xóa theo yêu cầu bên nhận bảo đảm",
+      "D": "Không xóa, vẫn giữ nguyên"
+    },
+    "correct": "B",
+    "explanation": "Điều 44 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), thông báo cho thành viên lưu ký để các bên xóa đăng ký biện pháp bảo đảm."
+  },
+  {
+    "id": 36,
+    "question": "Trong bù trừ thanh toán chứng khoán, nếu thành viên bù trừ vi phạm, Tổng công ty có quyền sử dụng quỹ bù trừ để thanh toán, nhưng quỹ này được hình thành từ nguồn nào?",
+    "options": {
+      "A": "Chỉ từ đóng góp thành viên",
+      "B": "Từ đóng góp thành viên và ngân sách nhà nước",
+      "C": "Từ phí giao dịch",
+      "D": "Từ lợi nhuận của Tổng công ty"
+    },
+    "correct": "A",
+    "explanation": "Điều 48 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), quỹ bù trừ hình thành từ đóng góp của thành viên bù trừ."
+  },
+  {
+    "id": 37,
+    "question": "Sở Giao dịch Chứng khoán Việt Nam tổ chức thị trường giao dịch chứng khoán niêm yết, nhưng theo sửa đổi, công ty con của Sở có thể vận hành hệ thống nào?",
+    "options": {
+      "A": "Chỉ hệ thống niêm yết",
+      "B": "Hệ thống niêm yết và chưa niêm yết",
+      "C": "Chỉ hệ thống chưa niêm yết",
+      "D": "Hệ thống phái sinh riêng"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 26 và khoản 20 Điều 1 Luật số 56/2024/QH15, công ty con của Sở Giao dịch vận hành hệ thống giao dịch niêm yết và chưa niêm yết."
+  },
+  {
+    "id": 38,
+    "question": "Thành viên giao dịch của Sở Giao dịch phải là công ty chứng khoán có giấy phép kinh doanh chứng khoán, nhưng nếu là chi nhánh nước ngoài thì chỉ được thực hiện nghiệp vụ nào?",
+    "options": {
+      "A": "Môi giới và tự doanh",
+      "B": "Chỉ tư vấn đầu tư",
+      "C": "Bảo lãnh phát hành",
+      "D": "Quản lý danh mục"
+    },
+    "correct": "B",
+    "explanation": "Điều 81 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chi nhánh công ty chứng khoán nước ngoài chỉ được tư vấn đầu tư."
+  },
+  {
+    "id": 39,
+    "question": "Giao dịch chứng khoán phải tuân thủ nguyên tắc công khai, nhưng nếu là giao dịch lớn thì phải báo cáo trước bao nhiêu ngày?",
+    "options": {
+      "A": "1 ngày",
+      "B": "3 ngày",
+      "C": "5 ngày",
+      "D": "Không cần báo cáo trước"
+    },
+    "correct": "D",
+    "explanation": "Điều 126 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), giao dịch lớn phải báo cáo sau giao dịch, không cần trước."
+  },
+  {
+    "id": 40,
+    "question": "Theo Luật, thị trường chứng khoán phái sinh chỉ giao dịch hợp đồng tương lai niêm yết, nhưng hợp đồng quyền chọn có thể giao dịch thỏa thuận nếu được phê duyệt?",
+    "options": {
+      "A": "Có, nếu Ủy ban phê duyệt",
+      "B": "Không, chỉ niêm yết",
+      "C": "Chỉ hợp đồng kỳ hạn thỏa thuận",
+      "D": "Tất cả phái sinh phải niêm yết"
+    },
+    "correct": "A",
+    "explanation": "Điều 4 khoản 11 và Điều 9 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), hợp đồng quyền chọn có thể được phê duyệt giao dịch, bao gồm thỏa thuận nếu quy định."
+  },
+  {
+    "id": 41,
+    "question": "Công ty chứng khoán phải có vốn điều lệ tối thiểu 50 tỷ đồng cho nghiệp vụ môi giới, nhưng nếu kết hợp tự doanh thì vốn tối thiểu là bao nhiêu?",
+    "options": {
+      "A": "100 tỷ đồng",
+      "B": "150 tỷ đồng",
+      "C": "200 tỷ đồng",
+      "D": "250 tỷ đồng"
+    },
+    "correct": "A",
+    "explanation": "Điều 87 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), vốn tối thiểu 50 tỷ cho môi giới, 100 tỷ nếu kết hợp tự doanh."
+  },
+  {
+    "id": 42,
+    "question": "Công ty quản lý quỹ đầu tư chứng khoán phải có vốn điều lệ tối thiểu 25 tỷ đồng, nhưng nếu quản lý quỹ bất động sản thì vốn tăng lên bao nhiêu?",
+    "options": {
+      "A": "50 tỷ đồng",
+      "B": "100 tỷ đồng",
+      "C": "Không tăng, vẫn 25 tỷ",
+      "D": "150 tỷ đồng"
+    },
+    "correct": "C",
+    "explanation": "Điều 97 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), vốn tối thiểu 25 tỷ đồng cho công ty quản lý quỹ, không phân biệt loại quỹ."
+  },
+  {
+    "id": 43,
+    "question": "Tổng giám đốc công ty chứng khoán phải có chứng chỉ hành nghề phân tích tài chính hoặc quản lý quỹ, nhưng nếu là chi nhánh nước ngoài thì yêu cầu chứng chỉ có khác không?",
+    "options": {
+      "A": "Yêu cầu chứng chỉ quốc tế tương đương",
+      "B": "Không yêu cầu chứng chỉ",
+      "C": "Yêu cầu chứng chỉ hành nghề Việt Nam",
+      "D": "Yêu cầu thêm chứng chỉ môi giới"
+    },
+    "correct": "C",
+    "explanation": "Điều 80 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), người quản lý chi nhánh nước ngoài phải có chứng chỉ hành nghề chứng khoán Việt Nam."
+  },
+  {
+    "id": 44,
+    "question": "Công ty chứng khoán nước ngoài được lập tối đa 1 chi nhánh tại Việt Nam, nhưng văn phòng đại diện thì số lượng tối đa là bao nhiêu?",
+    "options": {
+      "A": "1 văn phòng",
+      "B": "2 văn phòng",
+      "C": "Không giới hạn",
+      "D": "3 văn phòng"
+    },
+    "correct": "C",
+    "explanation": "Điều 182 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chi nhánh tối đa 1, nhưng văn phòng đại diện không giới hạn số lượng."
+  },
+  {
+    "id": 45,
+    "question": "Nhà đầu tư nước ngoài cá nhân được sở hữu tối đa 49% vốn của công ty chứng khoán, nhưng nếu là tổ chức thì tỷ lệ sở hữu tối đa là bao nhiêu?",
+    "options": {
+      "A": "49%",
+      "B": "51%",
+      "C": "100%",
+      "D": "Không giới hạn nếu tổ chức tài chính"
+    },
+    "correct": "C",
+    "explanation": "Điều 77 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), tổ chức nước ngoài có thể sở hữu 100% vốn công ty chứng khoán."
+  },
+  {
+    "id": 46,
+    "question": "Văn phòng đại diện công ty chứng khoán nước ngoài không được kinh doanh chứng khoán, nhưng có thể thực hiện hoạt động nào sau đây?",
+    "options": {
+      "A": "Môi giới chứng khoán",
+      "B": "Nghiên cứu thị trường và xúc tiến dự án",
+      "C": "Tư vấn đầu tư trực tiếp",
+      "D": "Quản lý quỹ"
+    },
+    "correct": "B",
+    "explanation": "Điều 182 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), văn phòng đại diện chỉ nghiên cứu thị trường, xúc tiến dự án, không kinh doanh."
+  },
+  {
+    "id": 47,
+    "question": "Để cung cấp dịch vụ cho vay chứng khoán, công ty chứng khoán phải có tỷ lệ vốn khả dụng tối thiểu bao nhiêu % trong 6 tháng gần nhất?",
+    "options": {
+      "A": "150%",
+      "B": "180%",
+      "C": "220%",
+      "D": "240%"
+    },
+    "correct": "B",
+    "explanation": "Điều 86 Luật Chứng khoán số 54/2019/QH14 và Nghị định 155/2020/NĐ-CP (sửa đổi bởi 245/2025/NĐ-CP), tỷ lệ vốn khả dụng 180% cho vay chứng khoán."
+  },
+  {
+    "id": 48,
+    "question": "Công ty chứng khoán được chào bán sản phẩm tài chính nếu vốn chủ sở hữu tối thiểu 1.000 tỷ đồng, nhưng sản phẩm này bao gồm gì?",
+    "options": {
+      "A": "Chỉ chứng quyền có bảo đảm",
+      "B": "Chứng khoán cấu trúc, sản phẩm phái sinh phức tạp",
+      "C": "Trái phiếu chuyển đổi",
+      "D": "Cổ phiếu ưu đãi"
+    },
+    "correct": "B",
+    "explanation": "Nghị định 155/2020/NĐ-CP (sửa đổi bởi 245/2025/NĐ-CP), chào bán sản phẩm tài chính phức tạp yêu cầu vốn 1.000 tỷ đồng."
+  },
+  {
+    "id": 49,
+    "question": "Người hành nghề chứng khoán phải có chứng chỉ do Ủy ban Chứng khoán cấp, nhưng chứng chỉ này có thời hạn bao lâu?",
+    "options": {
+      "A": "Vĩnh viễn",
+      "B": "5 năm",
+      "C": "10 năm",
+      "D": "Cần gia hạn hàng năm"
+    },
+    "correct": "A",
+    "explanation": "Điều 135 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng chỉ hành nghề chứng khoán là vĩnh viễn, không cần gia hạn."
+  },
+  {
+    "id": 50,
+    "question": "Tỷ lệ tổng nợ trên vốn chủ sở hữu của công ty chứng khoán không vượt 5 lần, nhưng nếu vượt thì biện pháp xử lý là gì?",
+    "options": {
+      "A": "Cảnh báo",
+      "B": "Kiểm soát đặc biệt",
+      "C": "Đình chỉ hoạt động",
+      "D": "Thu hồi giấy phép"
+    },
+    "correct": "B",
+    "explanation": "Điều 130 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), vượt tỷ lệ nợ dẫn đến kiểm soát đặc biệt theo chỉ tiêu an toàn tài chính."
+  },
+  {
+    "id": 51,
+    "question": "Công ty chứng khoán không được đầu tư vào cổ phiếu vượt 70% vốn chủ sở hữu, nhưng nếu là đầu tư vào trái phiếu doanh nghiệp thì tỷ lệ là bao nhiêu?",
+    "options": {
+      "A": "50%",
+      "B": "70%",
+      "C": "100%",
+      "D": "Không giới hạn"
+    },
+    "correct": "B",
+    "explanation": "Điều 130 khoản c Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), đầu tư trái phiếu doanh nghiệp không vượt 70% vốn chủ sở hữu."
+  },
+  {
+    "id": 52,
+    "question": "Công ty chứng khoán là công ty cổ phần phải họp Đại hội đồng cổ đông thường niên trong 4 tháng sau kết thúc năm tài chính, nhưng nếu trì hoãn thì phải xin phép ai?",
+    "options": {
+      "A": "Ủy ban Chứng khoán",
+      "B": "Bộ Tài chính",
+      "C": "Không cần xin phép",
+      "D": "Sở Kế hoạch Đầu tư"
+    },
+    "correct": "A",
+    "explanation": "Điều 136 Luật Doanh nghiệp áp dụng, nhưng theo Thông tư 121/2020/TT-BTC liên quan Luật Chứng khoán, trì hoãn phải báo cáo Ủy ban Chứng khoán."
+  },
+  {
+    "id": 53,
+    "question": "Rủi ro hoạt động của công ty chứng khoán là giá trị lớn nhất giữa 25% chi phí duy trì hoạt động 12 tháng và 20% vốn lệ tối thiểu, nhưng nếu chi phí âm thì tính như thế nào?",
+    "options": {
+      "A": "Lấy giá trị 0",
+      "B": "Sử dụng chi phí năm trước",
+      "C": "Chỉ lấy 20% vốn lệ",
+      "D": "Không tính rủi ro hoạt động"
+    },
+    "correct": "C",
+    "explanation": "Thông tư 91/2020/TT-BTC, rủi ro hoạt động lấy giá trị lớn nhất, nếu chi phí thấp thì lấy 20% vốn lệ tối thiểu."
+  },
+  {
+    "id": 54,
+    "question": "Nếu tỷ lệ vốn khả dụng từ 150% đến dưới 180%, công ty chứng khoán bị đặt vào tình trạng cảnh báo, nhưng phải báo cáo khắc phục trong bao nhiêu ngày?",
+    "options": {
+      "A": "7 ngày",
+      "B": "15 ngày",
+      "C": "30 ngày",
+      "D": "Không cần báo cáo"
+    },
+    "correct": "B",
+    "explanation": "Điều 16 Thông tư 91/2020/TT-BTC, bị cảnh báo và phải báo cáo kế hoạch khắc phục trong 15 ngày."
+  },
+  {
+    "id": 55,
+    "question": "Khi mua lại cổ phiếu theo yêu cầu cổ đông, công ty chứng khoán phải giảm vốn điều lệ, nhưng nếu mua lại cổ phiếu lô lẻ thì có giảm không?",
+    "options": {
+      "A": "Giảm vốn trong mọi trường hợp",
+      "B": "Không giảm nếu mua lại lô lẻ",
+      "C": "Giảm nếu vượt 10% vốn",
+      "D": "Không giảm nếu dưới 5%"
+    },
+    "correct": "B",
+    "explanation": "Nghị định 155/2020/NĐ-CP, mua lại cổ phiếu lô lẻ hoặc sửa lỗi giao dịch không giảm vốn điều lệ."
+  },
+  {
+    "id": 56,
+    "question": "Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam không chấp thuận thành viên nếu thành viên không đáp ứng vốn khả dụng, nhưng tỷ lệ vốn khả dụng tối thiểu cho thành viên bù trừ là bao nhiêu?",
+    "options": {
+      "A": "150%",
+      "B": "180%",
+      "C": "220%",
+      "D": "300%"
+    },
+    "correct": "B",
+    "explanation": "Điều 48 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), thành viên bù trừ phải duy trì vốn khả dụng tối thiểu 180%."
+  },
+  {
+    "id": 57,
+    "question": "Chứng khoán phải niêm yết nếu là cổ phiếu công ty đại chúng, nhưng nếu là chứng chỉ quỹ đóng thì bắt buộc niêm yết hay đăng ký giao dịch?",
+    "options": {
+      "A": "Bắt buộc niêm yết",
+      "B": "Bắt buộc đăng ký giao dịch",
+      "C": "Tùy chọn",
+      "D": "Không bắt buộc"
+    },
+    "correct": "B",
+    "explanation": "Điều 119 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng chỉ quỹ đóng phải đăng ký giao dịch trên hệ thống chưa niêm yết."
+  },
+  {
+    "id": 58,
+    "question": "Chứng khoán bị hủy đăng ký giao dịch nếu tổ chức chấm dứt tồn tại, nhưng nếu do quyết định Đại hội đồng cổ đông thì áp dụng cho niêm yết hay đăng ký giao dịch?",
+    "options": {
+      "A": "Chỉ niêm yết",
+      "B": "Chỉ đăng ký giao dịch",
+      "C": "Cả hai",
+      "D": "Không áp dụng"
+    },
+    "correct": "A",
+    "explanation": "Điều 122 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), hủy niêm yết theo quyết định Đại hội, nhưng hủy đăng ký giao dịch không có lý do này."
+  },
+  {
+    "id": 59,
+    "question": "Khi chứng khoán đăng ký biện pháp bảo đảm bị hủy, Tổng công ty Lưu ký thông báo cho thành viên lưu ký, nhưng các bên phải làm thủ tục xóa trong bao nhiêu ngày?",
+    "options": {
+      "A": "7 ngày",
+      "B": "15 ngày",
+      "C": "30 ngày",
+      "D": "Không quy định thời hạn"
+    },
+    "correct": "D",
+    "explanation": "Điều 44 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), thông báo để các bên xóa, không quy định thời hạn cụ thể."
+  },
+  {
+    "id": 60,
+    "question": "Thông tin về chứng khoán đăng ký biện pháp bảo đảm do Tổng công ty Lưu ký cung cấp bao gồm thời điểm đăng ký, nhưng không bao gồm thông tin xử lý tài sản nếu chưa xử lý?",
+    "options": {
+      "A": "Bao gồm thông tin xử lý",
+      "B": "Không bao gồm thông tin xử lý",
+      "C": "Chỉ bao gồm nếu yêu cầu",
+      "D": "Bao gồm tất cả thông tin"
+    },
+    "correct": "B",
+    "explanation": "Điều 44 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), cung cấp bên bảo đảm, mã chứng khoán, thời điểm đăng ký, không bao gồm xử lý tài sản."
+  },
+  {
+    "id": 61,
+    "question": "Người sở hữu chứng khoán lưu ký nhận quyền qua Tổng công ty Lưu ký và thành viên lưu ký, nhưng nếu quyền là cổ tức bằng cổ phiếu thì chứng khoán mới được lưu ký như thế nào?",
+    "options": {
+      "A": "Tự động lưu ký",
+      "B": "Phải đăng ký mới",
+      "C": "Không lưu ký nếu dưới lô",
+      "D": "Tùy chọn nhà đầu tư"
+    },
+    "correct": "A",
+    "explanation": "Điều 45 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng khoán phát sinh từ quyền được tự động lưu ký."
+  },
+  {
+    "id": 62,
+    "question": "Quỹ đầu tư chứng khoán là quỹ hình thành từ vốn góp, nhà đầu tư không kiểm soát hàng ngày, nhưng nếu là quỹ thành viên thì số thành viên tối đa là bao nhiêu?",
+    "options": {
+      "A": "50",
+      "B": "99",
+      "C": "100",
+      "D": "150"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 41 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), quỹ thành viên có từ 2 đến 99 thành viên, chỉ nhà đầu tư chuyên nghiệp."
+  },
+  {
+    "id": 63,
+    "question": "Quỹ mở phải mua lại chứng chỉ quỹ theo yêu cầu nhà đầu tư, nhưng tần suất mua lại tối thiểu là bao nhiêu?",
+    "options": {
+      "A": "Hàng ngày",
+      "B": "Hàng tuần",
+      "C": "Hàng tháng",
+      "D": "Hàng quý"
+    },
+    "correct": "B",
+    "explanation": "Điều 39 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), quỹ mở mua lại ít nhất hàng tuần theo điều lệ."
+  },
+  {
+    "id": 64,
+    "question": "Công ty quản lý quỹ phải tách biệt tài sản quỹ và tài sản tự có, nhưng ngân hàng giám sát phải xác nhận giá trị tài sản ròng quỹ bao nhiêu lần/tuần?",
+    "options": {
+      "A": "1 lần/tuần",
+      "B": "2 lần/tuần",
+      "C": "Hàng ngày",
+      "D": "Hàng tháng"
+    },
+    "correct": "A",
+    "explanation": "Điều 100 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), ngân hàng giám sát xác nhận NAV quỹ ít nhất 1 lần/tuần."
+  },
+  {
+    "id": 65,
+    "question": "Quỹ đầu tư bất động sản phải đầu tư ít nhất 65% doanh thu từ bất động sản, nhưng theo báo cáo tài chính nào?",
+    "options": {
+      "A": "Báo cáo quý gần nhất",
+      "B": "Báo cáo năm gần nhất",
+      "C": "Báo cáo bán niên",
+      "D": "Báo cáo hợp nhất"
+    },
+    "correct": "B",
+    "explanation": "Điều 4 khoản 43 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), doanh thu từ bất động sản tối thiểu 65% theo báo cáo tài chính năm gần nhất."
+  },
+  {
+    "id": 66,
+    "question": "Ban đại diện quỹ đại chúng giám sát công ty quản lý quỹ, nhưng số thành viên Ban đại diện tối thiểu là bao nhiêu?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "11"
+    },
+    "correct": "A",
+    "explanation": "Điều 102 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), Ban đại diện quỹ có ít nhất 3 thành viên, đa số độc lập."
+  },
+  {
+    "id": 67,
+    "question": "Quỹ đầu tư có thể vay vốn không vượt 5% NAV cho quỹ đóng, nhưng đối với quỹ mở thì tỷ lệ vay tối đa là bao nhiêu?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "15%",
+      "D": "20%"
+    },
+    "correct": "B",
+    "explanation": "Điều 94 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), quỹ mở vay không vượt 10% NAV."
+  },
+  {
+    "id": 68,
+    "question": "Công ty đầu tư chứng khoán đại chúng phải niêm yết chứng khoán, nhưng vốn điều lệ tối thiểu để thành lập là bao nhiêu?",
+    "options": {
+      "A": "50 tỷ đồng",
+      "B": "100 tỷ đồng",
+      "C": "200 tỷ đồng",
+      "D": "500 tỷ đồng"
+    },
+    "correct": "B",
+    "explanation": "Điều 110 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), công ty đầu tư chứng khoán đại chúng có vốn điều lệ tối thiểu 100 tỷ đồng."
+  },
+  {
+    "id": 69,
+    "question": "Người nội bộ phải báo cáo giao dịch chứng khoán trước khi thực hiện ít nhất bao nhiêu ngày?",
+    "options": {
+      "A": "1 ngày",
+      "B": "3 ngày",
+      "C": "5 ngày",
+      "D": "Không cần trước, chỉ sau"
+    },
+    "correct": "D",
+    "explanation": "Điều 126 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), người nội bộ báo cáo sau giao dịch, không cần trước."
+  },
+  {
+    "id": 70,
+    "question": "Cổ đông lớn phải báo cáo khi thay đổi sở hữu vượt 1% số cổ phiếu có quyền biểu quyết, nhưng báo cáo gửi cho ai?",
+    "options": {
+      "A": "Chỉ công ty đại chúng",
+      "B": "Công ty đại chúng và Ủy ban Chứng khoán",
+      "C": "Chỉ Sở Giao dịch",
+      "D": "Không cần báo cáo"
+    },
+    "correct": "B",
+    "explanation": "Điều 29 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), báo cáo cho công ty đại chúng và Ủy ban Chứng khoán."
+  },
+  {
+    "id": 71,
+    "question": "Công ty đại chúng phải công bố báo cáo tài chính năm được kiểm toán trong bao nhiêu ngày sau kết thúc năm?",
+    "options": {
+      "A": "45 ngày",
+      "B": "60 ngày",
+      "C": "90 ngày",
+      "D": "120 ngày"
+    },
+    "correct": "C",
+    "explanation": "Điều 132 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), công bố báo cáo năm trong 90 ngày sau kết thúc năm."
+  },
+  {
+    "id": 72,
+    "question": "Thông tin nội bộ phải được công bố trong 24 giờ kể từ khi phát sinh, nhưng nếu là thông tin ảnh hưởng lớn thì thời hạn là bao nhiêu?",
+    "options": {
+      "A": "Ngay lập tức",
+      "B": "Trong 24 giờ",
+      "C": "Trong 48 giờ",
+      "D": "Trong 72 giờ"
+    },
+    "correct": "B",
+    "explanation": "Điều 128 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), công bố thông tin nội bộ trong 24 giờ."
+  },
+  {
+    "id": 73,
+    "question": "Quỹ đại chúng phải công bố NAV hàng ngày trên trang thông tin điện tử, nhưng đối với quỹ bất động sản thì tần suất là bao nhiêu?",
+    "options": {
+      "A": "Hàng ngày",
+      "B": "Hàng tuần",
+      "C": "Hàng tháng",
+      "D": "Hàng quý"
+    },
+    "correct": "C",
+    "explanation": "Điều 103 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), quỹ bất động sản công bố NAV hàng tháng."
+  },
+  {
+    "id": 74,
+    "question": "Công ty chứng khoán phải công bố báo cáo tỷ lệ vốn khả dụng hàng tháng, nhưng nếu dưới 180% thì phải báo cáo ngay cho ai?",
+    "options": {
+      "A": "Sở Giao dịch",
+      "B": "Ủy ban Chứng khoán",
+      "C": "Bộ Tài chính",
+      "D": "Không cần báo cáo ngay"
+    },
+    "correct": "B",
+    "explanation": "Điều 130 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), báo cáo ngay cho Ủy ban Chứng khoán nếu dưới 180%."
+  },
+  {
+    "id": 75,
+    "question": "Vi phạm thao túng thị trường bị phạt tiền tối đa 10 lần lợi ích bất hợp pháp, nhưng nếu không xác định lợi ích thì phạt bao nhiêu?",
+    "options": {
+      "A": "500 triệu đồng",
+      "B": "1 tỷ đồng",
+      "C": "2 tỷ đồng",
+      "D": "3 tỷ đồng"
+    },
+    "correct": "D",
+    "explanation": "Điều 211 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), phạt tối đa 3 tỷ đồng nếu không xác định lợi ích."
+  },
+  {
+    "id": 76,
+    "question": "Ủy ban Chứng khoán có quyền thanh tra đột xuất nếu nghi ngờ vi phạm, nhưng thời hạn thanh tra tối đa là bao nhiêu ngày?",
+    "options": {
+      "A": "30 ngày",
+      "B": "45 ngày",
+      "C": "60 ngày",
+      "D": "90 ngày"
+    },
+    "correct": "C",
+    "explanation": "Điều 141 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), thời hạn thanh tra tối đa 60 ngày, có thể gia hạn."
+  },
+  {
+    "id": 77,
+    "question": "Nếu vi phạm sử dụng thông tin nội bộ, cá nhân bị phạt tiền từ 1 đến 3 lần lợi ích, nhưng tổ chức thì phạt gấp bao nhiêu?",
+    "options": {
+      "A": "Gấp 1 lần",
+      "B": "Gấp 2 lần",
+      "C": "Gấp 3 lần",
+      "D": "Gấp 5 lần"
+    },
+    "correct": "B",
+    "explanation": "Điều 209 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), tổ chức phạt gấp 2 lần mức phạt cá nhân."
+  },
+  {
+    "id": 78,
+    "question": "Biện pháp khắc phục hậu quả vi phạm bao gồm buộc hoàn trả tiền, nhưng nếu vi phạm niêm yết giả mạo thì buộc hủy niêm yết trong bao lâu?",
+    "options": {
+      "A": "6 tháng",
+      "B": "12 tháng",
+      "C": "Vĩnh viễn",
+      "D": "Tùy trường hợp"
+    },
+    "correct": "C",
+    "explanation": "Điều 212 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), vi phạm nghiêm trọng như giả mạo có thể buộc hủy niêm yết vĩnh viễn."
+  },
+  {
+    "id": 79,
+    "question": "Trách nhiệm hình sự áp dụng cho vi phạm chứng khoán nếu cấu thành tội phạm, nhưng tội thao túng thị trường bị phạt tù tối đa bao nhiêu năm?",
+    "options": {
+      "A": "5 năm",
+      "B": "7 năm",
+      "C": "10 năm",
+      "D": "20 năm"
+    },
+    "correct": "C",
+    "explanation": "Điều 213 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), tham chiếu Bộ luật Hình sự, tội thao túng thị trường phạt tù đến 10 năm."
+  },
+  {
+    "id": 80,
+    "question": "Luật Chứng khoán có hiệu lực từ 01/01/2021, nhưng các sửa đổi về nhà đầu tư chuyên nghiệp có hiệu lực từ ngày nào?",
+    "options": {
+      "A": "01/01/2025",
+      "B": "01/01/2026",
+      "C": "29/11/2024",
+      "D": "26/02/2025"
+    },
+    "correct": "B",
+    "explanation": "Điều 10 khoản 2 Luật số 56/2024/QH15, sửa đổi về nhà đầu tư chuyên nghiệp hiệu lực từ 01/01/2026."
+  },
+  {
+    "id": 81,
+    "question": "Trái phiếu doanh nghiệp riêng lẻ đã chào bán trước 01/01/2026 tiếp tục theo luật cũ đến khi thanh toán hết, nhưng nếu còn dư nợ thì áp dụng quy định nào?",
+    "options": {
+      "A": "Luật mới ngay",
+      "B": "Luật cũ đến thanh toán hết",
+      "C": "Chuyển sang luật mới từ 2026",
+      "D": "Hủy trái phiếu"
+    },
+    "correct": "B",
+    "explanation": "Điểm a khoản 1 Điều 11 Luật số 56/2024/QH15, tiếp tục luật cũ đến khi thanh toán đầy đủ gốc lãi."
+  },
+  {
+    "id": 82,
+    "question": "Công ty đại chúng niêm yết trước 01/01/2021 không đáp ứng vốn chủ sở hữu từ 01/01/2026 thì bị hủy tư cách, trừ trường hợp nào?",
+    "options": {
+      "A": "Đại hội quyết định hủy trước 2026",
+      "B": "Xin gia hạn thêm 1 năm",
+      "C": "Không có ngoại lệ",
+      "D": "Nếu có lãi thì giữ"
+    },
+    "correct": "A",
+    "explanation": "Điểm d khoản 1 Điều 11 Luật số 56/2024/QH15, bị hủy trừ nếu Đại hội quyết định hủy trước 01/01/2026."
+  },
+  {
+    "id": 83,
+    "question": "Luật số 56/2024/QH15 sửa đổi nhiều luật, nhưng đối với Luật Chứng khoán, khoản nào được bãi bỏ?",
+    "options": {
+      "A": "Khoản 35 Điều 4",
+      "B": "Điều 13",
+      "C": "Khoản 45 Điều 1",
+      "D": "Tất cả trên"
+    },
+    "correct": "D",
+    "explanation": "Khoản 20 Điều 1 Luật số 56/2024/QH15 bãi bỏ một số khoản, bao gồm Điều 13, khoản 35, 45."
+  },
+  {
+    "id": 84,
+    "question": "Theo sửa đổi, điểm a khoản 6 Điều 1 bổ sung gì về chào bán chứng khoán?",
+    "options": {
+      "A": "Điều kiện vốn",
+      "B": "Xếp hạng tín nhiệm",
+      "C": "Nhà đầu tư chuyên nghiệp",
+      "D": "Công bố thông tin"
+    },
+    "correct": "B",
+    "explanation": "Điểm a khoản 6 Điều 1 Luật số 56/2024/QH15 sửa đổi về xếp hạng tín nhiệm cho chào bán."
+  },
+  {
+    "id": 85,
+    "question": "Khoản 17 Điều 1 Luật số 56/2024/QH15 bổ sung gì về hoạt động của Tổng công ty Lưu ký?",
+    "options": {
+      "A": "Quy định về công ty con",
+      "B": "Biện pháp bảo đảm",
+      "C": "Thanh toán chứng khoán",
+      "D": "Tất cả"
+    },
+    "correct": "C",
+    "explanation": "Khoản 17 Điều 1 Luật số 56/2024/QH15 bổ sung về thanh toán chứng khoán của Tổng công ty Lưu ký."
+  },
+  {
+    "id": 86,
+    "question": "Theo Luật, người hành nghề chứng khoán làm việc tại chi nhánh nước ngoài phải có chứng chỉ hành nghề, nhưng nếu vi phạm thì bị thu hồi chứng chỉ trong thời gian bao lâu?",
+    "options": {
+      "A": "6 tháng",
+      "B": "1 năm",
+      "C": "Vĩnh viễn nếu nghiêm trọng",
+      "D": "Không thu hồi"
+    },
+    "correct": "C",
+    "explanation": "Điều 135 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), thu hồi chứng chỉ vĩnh viễn nếu vi phạm nghiêm trọng."
+  },
+  {
+    "id": 87,
+    "question": "Quỹ đầu tư chứng khoán phải có điều lệ quỹ phê duyệt bởi Đại hội nhà đầu tư, nhưng nếu quỹ đóng thì Đại hội họp bao nhiêu lần/năm?",
+    "options": {
+      "A": "1 lần",
+      "B": "2 lần",
+      "C": "Không bắt buộc hàng năm",
+      "D": "Hàng quý"
+    },
+    "correct": "A",
+    "explanation": "Điều 104 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), Đại hội nhà đầu tư quỹ đóng họp ít nhất 1 lần/năm."
+  },
+  {
+    "id": 88,
+    "question": "Công ty đại chúng phải có thư ký công ty hoặc người phụ trách quản trị công ty, nhưng chức danh này thuộc người nội bộ theo khoản nào?",
+    "options": {
+      "A": "Khoản 45 điểm a",
+      "B": "Khoản 46 điểm d",
+      "C": "Khoản 45 điểm b",
+      "D": "Không thuộc người nội bộ"
+    },
+    "correct": "A",
+    "explanation": "Điều 4 khoản 45 điểm a Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), thư ký công ty là người nội bộ."
+  },
+  {
+    "id": 89,
+    "question": "Theo Luật, chào bán chứng khoán ra công chúng phải qua tổ chức bảo lãnh phát hành, nhưng nếu tự phân phối thì có được không?",
+    "options": {
+      "A": "Được nếu được phê duyệt",
+      "B": "Không được",
+      "C": "Chỉ cho trái phiếu",
+      "D": "Chỉ cho cổ phiếu"
+    },
+    "correct": "A",
+    "explanation": "Điều 18 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), có thể tự phân phối nếu được Ủy ban Chứng khoán phê duyệt."
+  },
+  {
+    "id": 90,
+    "question": "Niêm yết chứng khoán nước ngoài tại Việt Nam phải đáp ứng điều kiện nào theo Luật Chứng khoán?",
+    "options": {
+      "A": "Có vốn niêm yết tối thiểu 1.000 tỷ đồng",
+      "B": "Được chấp thuận bởi Ủy ban Chứng khoán",
+      "C": "Phải là cổ phiếu",
+      "D": "Không được niêm yết chứng khoán nước ngoài"
+    },
+    "correct": "B",
+    "explanation": "Điều 121 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng khoán nước ngoài niêm yết nếu được Ủy ban chấp thuận."
+  },
+  {
+    "id": 91,
+    "question": "Theo Luật, Sở Giao dịch Chứng khoán Việt Nam là doanh nghiệp nhà nước 100% vốn, nhưng công ty con có thể có vốn tư nhân không?",
+    "options": {
+      "A": "Có, tối đa 49%",
+      "B": "Không, 100% nhà nước",
+      "C": "Có, không giới hạn",
+      "D": "Không có công ty con"
+    },
+    "correct": "B",
+    "explanation": "Điều 35 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), Sở và công ty con là 100% vốn nhà nước."
+  },
+  {
+    "id": 92,
+    "question": "Công ty quản lý quỹ nước ngoài được lập chi nhánh tại Việt Nam, nhưng chi nhánh chỉ được quản lý quỹ nào?",
+    "options": {
+      "A": "Quỹ Việt Nam",
+      "B": "Quỹ nước ngoài",
+      "C": "Không được quản lý quỹ",
+      "D": "Quỹ liên doanh"
+    },
+    "correct": "C",
+    "explanation": "Điều 181 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chi nhánh quản lý quỹ nước ngoài không được kinh doanh quản lý quỹ tại Việt Nam."
+  },
+  {
+    "id": 93,
+    "question": "Quỹ ETF là quỹ hoán đổi danh mục, nhưng số lượng thành viên lập quỹ tối thiểu là bao nhiêu?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": "Điều 92 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), quỹ ETF có ít nhất 2 thành viên lập quỹ."
+  },
+  {
+    "id": 94,
+    "question": "Nếu công ty chứng khoán bị kiểm soát đặc biệt do vốn khả dụng dưới 120%, thời hạn khắc phục tối đa là bao nhiêu tháng?",
+    "options": {
+      "A": "3 tháng",
+      "B": "6 tháng",
+      "C": "12 tháng",
+      "D": "18 tháng"
+    },
+    "correct": "B",
+    "explanation": "Thông tư 91/2020/TT-BTC liên quan Luật Chứng khoán, kiểm soát đặc biệt và khắc phục trong 6 tháng."
+  },
+  {
+    "id": 95,
+    "question": "Chứng chỉ lưu ký được phát hành trên cơ sở chứng khoán Việt Nam, nhưng nếu chứng khoán cơ sở bị hủy thì chứng chỉ lưu ký xử lý như thế nào?",
+    "options": {
+      "A": "Tự động hủy",
+      "B": "Chuyển sang chứng khoán khác",
+      "C": "Giữ nguyên",
+      "D": "Hoàn tiền cho nhà đầu tư"
+    },
+    "correct": "A",
+    "explanation": "Điều 4 khoản 8 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), chứng chỉ lưu ký dựa trên chứng khoán cơ sở, hủy nếu cơ sở hủy."
+  },
+  {
+    "id": 96,
+    "question": "Báo cáo tài chính bán niên của công ty đại chúng phải soát xét trong 45 ngày từ kết thúc quý 2, nhưng nếu có báo cáo hợp nhất thì thời hạn là bao nhiêu?",
+    "options": {
+      "A": "45 ngày",
+      "B": "60 ngày",
+      "C": "90 ngày",
+      "D": "Không thay đổi"
+    },
+    "correct": "D",
+    "explanation": "Điều 132 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), bán niên soát xét trong 45 ngày, không thay đổi cho hợp nhất."
+  },
+  {
+    "id": 97,
+    "question": "Công ty quản lý quỹ đại chúng phải có bộ phận kiểm toán nội bộ, nhưng nếu quản lý quỹ thành viên thì có bắt buộc không?",
+    "options": {
+      "A": "Bắt buộc",
+      "B": "Không bắt buộc",
+      "C": "Chỉ nếu vốn trên 50 tỷ",
+      "D": "Tùy quyết định"
+    },
+    "correct": "A",
+    "explanation": "Điều 99 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), công ty quản lý quỹ đại chúng phải có kiểm toán nội bộ, áp dụng chung."
+  },
+  {
+    "id": 98,
+    "question": "Rủi ro thị trường trong an toàn tài chính tính dựa trên vị thế ròng, nhưng nếu chứng khoán là phái sinh thì hệ số rủi ro là bao nhiêu?",
+    "options": {
+      "A": "8%",
+      "B": "10%",
+      "C": "20%",
+      "D": "Tùy loại phái sinh"
+    },
+    "correct": "D",
+    "explanation": "Thông tư 91/2020/TT-BTC, rủi ro phái sinh tùy loại, ví dụ tương lai chỉ số 10-20%."
+  },
+  {
+    "id": 99,
+    "question": "Quỹ đầu tư có thể đầu tư phái sinh để phòng ngừa rủi ro, nhưng giá trị vị thế phái sinh không vượt bao nhiêu % NAV?",
+    "options": {
+      "A": "50%",
+      "B": "100%",
+      "C": "200%",
+      "D": "Không giới hạn nếu phòng ngừa"
+    },
+    "correct": "B",
+    "explanation": "Điều 94 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), vị thế phái sinh không vượt 100% NAV cho phòng ngừa."
+  },
+  {
+    "id": 100,
+    "question": "Công ty chứng khoán không được cho vay margin cổ phiếu tự doanh, nhưng nếu cổ phiếu của công ty mẹ thì có được không?",
+    "options": {
+      "A": "Được nếu phê duyệt",
+      "B": "Không được",
+      "C": "Được nếu dưới 5%",
+      "D": "Không quy định"
+    },
+    "correct": "B",
+    "explanation": "Điều 86 Luật Chứng khoán số 54/2019/QH14 (sửa đổi, bổ sung bởi Luật số 56/2024/QH15), không cho vay margin cổ phiếu tự doanh hoặc liên quan."
   }
 ]
