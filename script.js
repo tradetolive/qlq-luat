@@ -190,6 +190,57 @@ function loadQuestion() {
     }
 }
 
+function getRealTimeExplanation(questionData, selectedAnswer) {
+    // Sử dụng khả năng tìm kiếm web của Grok 3 để tạo giải thích thời gian thực
+    const questionText = questionData.question.toLowerCase();
+    let explanation = '';
+    let source = 'N/A';
+    let url = '#';
+    let description = 'Không tìm thấy nguồn tham khảo cụ thể.';
+
+    // Mô phỏng tìm kiếm dựa trên từ khóa
+    if (questionText.includes('1+1')) {
+        explanation = `Bạn chọn ${selectedAnswer}, nhưng 1+1=2 vì phép cộng cơ bản trong toán học quy định tổng của hai đơn vị là 2.`;
+        source = 'Wikipedia';
+        url = 'https://en.wikipedia.org/wiki/Addition';
+        description = 'Phép cộng là một trong bốn phép toán cơ bản của số học.';
+    } else if (questionText.includes('capital asset pricing model') || questionText.includes('capm')) {
+        explanation = `Bạn chọn ${selectedAnswer}, nhưng CAPM đúng là ${questionData.correct} vì mô hình này sử dụng beta để đo lường rủi ro hệ thống.`;
+        source = 'Investopedia';
+        url = 'https://www.investopedia.com/terms/c/capm.asp';
+        description = 'CAPM là mô hình định giá tài sản vốn, được sử dụng để xác định suất sinh lợi kỳ vọng.';
+    } else {
+        explanation = `Bạn chọn ${selectedAnswer}, nhưng đáp án đúng là ${questionData.correct}. Lý do có thể do hiểu nhầm khái niệm.`;
+        // Tìm kiếm thực tế trên web (mô phỏng)
+        const searchQuery = `${questionData.question} ${questionData.correct}`;
+        const webResult = searchWeb(searchQuery); // Hàm giả lập tìm kiếm
+        if (webResult) {
+            source = webResult.source;
+            url = webResult.url;
+            description = webResult.description;
+        }
+    }
+
+    return { explanation, source, url, description };
+}"
+
+function searchWeb(query) {
+    // Mô phỏng tìm kiếm web bằng Grok 3 (thay bằng API thực tế trong tương lai)
+    // Đây là phiên bản giả lập, dựa trên dữ liệu mẫu
+    const results = {
+        '1+1 2': {
+            source: 'Wikipedia',
+            url: 'https://en.wikipedia.org/wiki/Addition',
+            description: 'Phép cộng là một trong bốn phép toán cơ bản của số học.'
+        },
+        'capital asset pricing model A': {
+            source: 'Investopedia',
+            url: 'https://www.investopedia.com/terms/c/capm.asp',
+            description: 'CAPM là mô hình định giá tài sản vốn, được sử dụng để xác định suất sinh lợi kỳ vọng.'
+        }
+    };
+    return results[query.toLowerCase()] || null;
+}
 
 
 function startTimer() {
