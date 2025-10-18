@@ -3,7 +3,7 @@ let currentQuestionIndex = 0;
 let score = 0;
 let selectedOption = null;
 let selectedQuestions = [];
-let timeLeft = 5400;
+let timeLeft = 5400; // 90 phút = 5400 giây
 let timerId;
 let userAnswers = [];
 
@@ -142,9 +142,7 @@ function loadQuestion() {
     document.getElementById('progress').style.width = `${((currentQuestionIndex + 1) / selectedQuestions.length * 100)}%`;
     const optionsDiv = document.getElementById('options');
     optionsDiv.innerHTML = '';
-    document.getElementById('feedback-message').innerText = '';
-    document.getElementById('explanation').innerText = '';
-    document.getElementById('reference').innerText = '';
+    document.getElementById('feedback').innerText = '';
     document.getElementById('next-btn').disabled = true;
     selectedOption = null;
     if (!userAnswers[currentQuestionIndex]) {
@@ -169,79 +167,20 @@ function loadQuestion() {
             else if (key === answer.selected && answer.selected !== correct) button.classList.add('incorrect');
             optionsDiv.appendChild(button);
         });
-        const feedbackMessage = document.getElementById('feedback-message');
-        const explanationDiv = document.getElementById('explanation');
-        const referenceDiv = document.getElementById('reference');
+        const feedback = document.getElementById('feedback');
         if (answer.selected === null) {
-            feedbackMessage.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
-            feedbackMessage.style.color = 'red';
+            feedback.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
+            feedback.style.color = 'red';
         } else if (answer.correct) {
-            feedbackMessage.innerText = 'Đúng!';
-            feedbackMessage.style.color = 'green';
+            feedback.innerText = 'Đúng!';
+            feedback.style.color = 'green';
         } else {
-            feedbackMessage.innerText = `Sai! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
-            feedbackMessage.style.color = 'red';
-            // Tạo giải thích thời gian thực
-            const realTimeExplanation = getRealTimeExplanation(questionData, answer.selected);
-            explanationDiv.innerText = realTimeExplanation.explanation;
-            referenceDiv.innerHTML = `Nguồn tham khảo: <a href="${realTimeExplanation.url}" target="_blank">${realTimeExplanation.source}</a> - ${realTimeExplanation.description}`;
+            feedback.innerText = `Sai! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
+            feedback.style.color = 'red';
         }
         document.getElementById('next-btn').disabled = false;
     }
 }
-
-function getRealTimeExplanation(questionData, selectedAnswer) {
-    // Sử dụng khả năng tìm kiếm web của Grok 3 để tạo giải thích thời gian thực
-    const questionText = questionData.question.toLowerCase();
-    let explanation = '';
-    let source = 'N/A';
-    let url = '#';
-    let description = 'Không tìm thấy nguồn tham khảo cụ thể.';
-
-    // Mô phỏng tìm kiếm dựa trên từ khóa
-    if (questionText.includes('1+1')) {
-        explanation = `Bạn chọn ${selectedAnswer}, nhưng 1+1=2 vì phép cộng cơ bản trong toán học quy định tổng của hai đơn vị là 2.`;
-        source = 'Wikipedia';
-        url = 'https://en.wikipedia.org/wiki/Addition';
-        description = 'Phép cộng là một trong bốn phép toán cơ bản của số học.';
-    } else if (questionText.includes('capital asset pricing model') || questionText.includes('capm')) {
-        explanation = `Bạn chọn ${selectedAnswer}, nhưng CAPM đúng là ${questionData.correct} vì mô hình này sử dụng beta để đo lường rủi ro hệ thống.`;
-        source = 'Investopedia';
-        url = 'https://www.investopedia.com/terms/c/capm.asp';
-        description = 'CAPM là mô hình định giá tài sản vốn, được sử dụng để xác định suất sinh lợi kỳ vọng.';
-    } else {
-        explanation = `Bạn chọn ${selectedAnswer}, nhưng đáp án đúng là ${questionData.correct}. Lý do có thể do hiểu nhầm khái niệm.`;
-        // Tìm kiếm thực tế trên web (mô phỏng)
-        const searchQuery = `${questionData.question} ${questionData.correct}`;
-        const webResult = searchWeb(searchQuery); // Hàm giả lập tìm kiếm
-        if (webResult) {
-            source = webResult.source;
-            url = webResult.url;
-            description = webResult.description;
-        }
-    }
-
-    return { explanation, source, url, description };
-}"
-
-function searchWeb(query) {
-    // Mô phỏng tìm kiếm web bằng Grok 3 (thay bằng API thực tế trong tương lai)
-    // Đây là phiên bản giả lập, dựa trên dữ liệu mẫu
-    const results = {
-        '1+1 2': {
-            source: 'Wikipedia',
-            url: 'https://en.wikipedia.org/wiki/Addition',
-            description: 'Phép cộng là một trong bốn phép toán cơ bản của số học.'
-        },
-        'capital asset pricing model A': {
-            source: 'Investopedia',
-            url: 'https://www.investopedia.com/terms/c/capm.asp',
-            description: 'CAPM là mô hình định giá tài sản vốn, được sử dụng để xác định suất sinh lợi kỳ vọng.'
-        }
-    };
-    return results[query.toLowerCase()] || null;
-}
-
 
 function startTimer() {
     clearInterval(timerId);
@@ -249,7 +188,7 @@ function startTimer() {
         timeLeft--;
         const minutesLeft = Math.floor(timeLeft / 60);
         document.getElementById('time-left').textContent = minutesLeft;
-        if (timeLeft <= 300) {
+        if (timeLeft <= 300) { // Còn 5 phút
             document.getElementById('time-left').classList.add('warning');
         }
         if (timeLeft <= 0) {
@@ -264,9 +203,7 @@ function selectOption(button, option) {
     if (selectedOption) return;
     selectedOption = option;
     const correct = selectedQuestions[currentQuestionIndex].correct;
-    const feedbackMessage = document.getElementById('feedback-message');
-    const explanationDiv = document.getElementById('explanation');
-    const referenceDiv = document.getElementById('reference');
+    const feedback = document.getElementById('feedback');
     document.querySelectorAll('.option').forEach(btn => {
         btn.disabled = true;
         const btnKey = btn.innerText.split('.')[0];
@@ -274,12 +211,12 @@ function selectOption(button, option) {
         else if (btnKey === option && option !== correct) btn.classList.add('incorrect');
     });
     if (option === null) {
-        feedbackMessage.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${selectedQuestions[currentQuestionIndex].options[correct]}`;
-        feedbackMessage.style.color = 'red';
+        feedback.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${selectedQuestions[currentQuestionIndex].options[correct]}`;
+        feedback.style.color = 'red';
         userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: null, correct: false };
     } else if (option === correct) {
-        feedbackMessage.innerText = 'Đúng!';
-        feedbackMessage.style.color = 'green';
+        feedback.innerText = 'Đúng!';
+        feedback.style.color = 'green';
         score++;
         const scoreValueElement = document.getElementById('score-value');
         if (scoreValueElement) {
@@ -287,11 +224,8 @@ function selectOption(button, option) {
         }
         userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: option, correct: true };
     } else {
-        feedbackMessage.innerText = `Sai! Đáp án đúng: ${correct}. ${selectedQuestions[currentQuestionIndex].options[correct]}`;
-        feedbackMessage.style.color = 'red';
-        const realTimeExplanation = getRealTimeExplanation(selectedQuestions[currentQuestionIndex], option);
-        explanationDiv.innerText = realTimeExplanation.explanation;
-        referenceDiv.innerHTML = `Nguồn tham khảo: <a href="${realTimeExplanation.url}" target="_blank">${realTimeExplanation.source}</a> - ${realTimeExplanation.description}`;
+        feedback.innerText = `Sai! Đáp án đúng: ${correct}. ${selectedQuestions[currentQuestionIndex].options[correct]}`;
+        feedback.style.color = 'red';
         userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: option, correct: false };
     }
     const box = document.querySelector(`.question-box[data-index="${currentQuestionIndex}"]`);
