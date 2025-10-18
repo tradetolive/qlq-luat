@@ -1,4 +1,2069 @@
 [
+    {
+        "id": 1,
+        "question": "Tổng giám đốc công ty chứng khoán phải đáp ứng các tiêu chuẩn sau đây:",
+        "options": {
+            "A": "Có chứng chỉ hành nghề môi giới chứng khoán",
+            "B": "Có chứng chỉ hành nghề môi giới chứng khoán hoặc chứng chỉ hành nghề phân tích tài chính",
+            "C": "Có chứng chỉ hành nghề môi giới chứng khoán hoặcc chứng chỉ hành nghề quản lý quỹ",
+            "D": "Có chứng chỉ hành nghề phân tích tài chính hoặc chứng chỉ hành nghề quản lý quỹ",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 2,
+        "question": "Công ty chứng khoán nước ngoài và công ty quản lý quỹ nước ngoài được lập bao nhiêu chi \nnhánh tại Việt Nam?",
+        "options": {
+            "A": "01",
+            "B": "02",
+            "C": "03",
+            "D": "04",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 3,
+        "question": "Nhà đầu tư nước ngoài là cá nhân và người có liên quan được sở hữu tối đa bao nhiêu phần trăm vốn điều lệ của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoản?",
+        "options": {
+            "A": "10%",
+            "B": "15%",
+            "C": "49%",
+            "D": "100%",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 4,
+        "question": "Phạm vi hoạt động của văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam KHÔNG bao gồm nội dung nào sau đây?",
+        "options": {
+            "A": "Thực hiện chức năng văn phòng liên lạc và nghiên cứu thị trường",
+            "B": "Xúc tiến xây dựng các dự án hợp tác trong lĩnh vực chứng khoán và thị trường chứng khoán tại  Việt Nam",
+            "C": "Thúc đẩy, giám sát thực hiện các dự án do công ty chứng khoán, công ty quản lý quỹ nước ngoài  tài trợ tại Việt Nam",
+            "D": "Thực hiện hoạt động kinh doanh chứng khoán tại Việt Nam",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 5,
+        "question": "Chi nhánh công ty chứng khoán nước ngoài tại Việt Nam chỉ được thực hiện nghiệp vụ nào sau đây",
+        "options": {
+            "A": "Môi giới chứng khoán",
+            "B": "Tự doanh chứng khoán",
+            "C": "Bảo lãnh phát hành chứng khoán",
+            "D": "Tư vấn đầu tư chứng khoán",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 6,
+        "question": "Một trong những điều kiện để công ty chứng khoán được chào bán sản phẩm tài chính là:",
+        "options": {
+            "A": "Có vốn điều lệ và vốn chủ sở hữu đạt tối thiểu 100 tỷ đồng theo báo cáo tài chính kỳ gần nhất  được kiểm toán",
+            "B": "Có vốn điều lệ và vốn chủ sở hữu đạt tối thiếu 500 tỷ đồng theo báo cáo tài chính kỳ gần nhất được kiểm toán",
+            "C": "Có vốn điều lệ và vốn chủ sở hữu đạt tối thiếu 800 tỷ đồng theo báo cáo tài chính kỳ gần nhất được kiểm toán",
+            "D": "Có vốn điều lệ và vốn chủ sở hữu đạt tối thiếu 1000 tỷ đồng theo báo cáo tài chính kỳ gần nhất được kiểm toán",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 7,
+        "question": "Một  trong  những  điều  kiện  để  công  ty  chứng  khoán  được  cung  cấp  dịch  vụ  cho  vay  chứng  khoán là:",
+        "options": {
+            "A": "Tỷ lệ vốn khả dụng đạt tối thiểu 180% liên tục trong 06 tháng gần nhât tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán",
+            "B": "Tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 06 tháng gần nhât tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán",
+            "C": "Tỷ lệ vốn khả dụng đạt tối thiểu 240% liên tục trong 06 tháng gần nhât tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán",
+            "D": "Tỷ lệ vốn khả dụng đạt tối thiểu 280% liên tục trong 06 tháng gần nhât tính đến thời điểm đăng ký  cung cấp dịch vụ cho vay chứng khoán",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 8,
+        "question": "Một trong những điều kiện để công ty chứng khoán được cung cấp dịch vụ cho khách hàng vay tiền mua chứng khoán để thực hiện giao dịch ký quỹ, ứng trước tiền bán chứng khoán là:",
+        "options": {
+            "A": "Tỷ lệ vốn khả dụng đạt tối thiểu 180% liên tục trong 06 tháng gần nhât tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán",
+            "B": "Tỷ lệ vốn khả dụng đạt tối thiểu 220% liên tục trong 06 tháng gần nhât tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán",
+            "C": "Tỷ lệ vốn khả dụng đạt tối thiểu 240% liên tục trong 06 tháng gần nhât tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán",
+            "D": "Tỷ lệ vốn khả dụng đạt tối thiểu 280% liên tục trong 06 tháng gần nhât tính đến thời điểm đăng ký cung cấp dịch vụ cho vay chứng khoán",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 9,
+        "question": "Điều kiện, hồ sơ, thủ tục cấp chứng chỉ hành nghề chứng khoán được quy định tại",
+        "options": {
+            "A": "Thông tư số 197/2015/TT-BTC",
+            "B": "Thông tư số 210/2012/TT-BTC",
+            "C": "Nghị định 58/2012/NĐ-CP",
+            "D": "Nghị định 155/2020/NĐ-CP",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 10,
+        "question": "Tỷ lệ tổng nợ trên vốn chủ sở hữu của công ty chứng khoán không được vượt quá:",
+        "options": {
+            "A": "02 lần",
+            "B": "03 lần",
+            "C": "04 lần",
+            "D": "05 lần",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 11,
+        "question": "Tổng giá trị đầu tư vào trái phiếu doanh nghiệp của các công ty chứng khoán không được vượt quá:",
+        "options": {
+            "A": "30% vốn chủ sở hữu",
+            "B": "45% vốn chủ sở hữu",
+            "C": "50% vốn chủ sở hữu",
+            "D": "70% vốn chủ sở hữu",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 12,
+        "question": "Công ty chứng khoán không được đầu tư vào cổ phiếu, phần góp vốn và dự án kinh doanh vượt quá?",
+        "options": {
+            "A": "30% vốn chủ sở hữu",
+            "B": "45% vốn chủ sở hữu",
+            "C": "50% vốn chủ sở hữu",
+            "D": "70% vốn chủ sở hữu",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 13,
+        "question": "Công ty chứng khoán là công ty cổ phần phải tổ chức họp Đại hội đồng cổ đông thường niên trong thời hạn tối đa bao nhiêu tháng kể từ ngày kết thúc năm tài chính",
+        "options": {
+            "A": "03 tháng",
+            "B": "04 tháng",
+            "C": "05 tháng",
+            "D": "06 tháng",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 14,
+        "question": "Rủi ro hoạt động của tổ chức kinh doanh chứng khoán được xác định là giá trị lớn nhất của các giá trị sau:",
+        "options": {
+            "A": "25% chi phí duy trì hoạt động của tổ chức kinh doanh chứng khoán trong vòng 12 tháng liền kề tính tới thời điểm tính toán, 20% vốn điều lệ tối thiểu cho các nghiệp vụ kinh doanh của tổ chức kinh doanh chứng khoán theo quy định của pháp luật",
+            "B": "20% chi phí duy trì hoạt động của tổ chức kinh doanh chứng khoán trong vòng 12 tháng liền kề tính tới thời điểm tính toán, 25% vốn điều lệ tối thiểu cho các nghiệp vụ kinh doanh của tổ chức kinh doanh chứng khoán theo quy định của pháp luật",
+            "C": "25% chi phí duy trì hoạt động của tổ chức kinh doanh chứng khoán trong vòng 12 tháng liền kề tính tới thời điểm tính toán, 25% vốn điều lệ tối thiểu cho các nghiệp vụ kinh doanh của tổ chức kinh doanh chứng khoán theo quy định của pháp luật",
+            "D": "20% chi phí duy trì hoạt động của tổ chức kinh doanh chứng khoán trong vòng 12 tháng liền kề tính tới thời điểm tính toán, 20% vốn điều lệ tối thiểu cho các nghiệp vụ kinh doanh của tổ chức kinh doanh chứng khoán theo quy định của pháp luật",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 15,
+        "question": "Trong trường hợp tỷ lệ vốn khả dụng đã được xoát xét hoặc đã được kiểm toán bởi tổ chức kiểm toán được chấp thuận từ 150% đến dưới 180%, Ủy ban Chứng khoán ra quyết định đặt tổ chức vào tình trạng",
+        "options": {
+            "A": "Cảnh báo",
+            "B": "Kiểm soát",
+            "C": "Kiểm soát đặc biệt",
+            "D": "Đình chỉ hoạt động",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 16,
+        "question": "Trường hợp nào sau đây phải làm thủ tục giảm vốn điều lệ tương ứng với tổng giá trị tính theo mệnh giá số cổ phiếu được công ty mua lại",
+        "options": {
+            "A": "Mua lại cổ phiếu của người lao động theo quy chế phát hành cho người lao động của công ty",
+            "B": "Mua lại cổ phiếu lẻ theo phương án phát hành cổ phiếu để trả cổ tức, phát hành cổ phiếu từ nguồn vốn chủ sở hữu",
+            "C": "Mua lại cổ phiếu theo yêu cầu của cổ đông theo quy định của Luật doanh nghiệp",
+            "D": "Công ty chứng khoán mua lại cổ phiếu của chính mình để sửa lỗi giao dịch hoặc mua lại cổ phiếu lô lẻ",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 17,
+        "question": "Theo quy định của Luật Chứng khoán 2019, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam thực hiện các nghĩa vụ sau, ngoại trừ:",
+        "options": {
+            "A": "Quản lý tách biệt tài sản của các quỹ hỗ trợ thanh toán, quỹ bù trừ, quỹ phòng ngừa rủi to nghiệp vụ theo quy định của pháp luật",
+            "B": "Chấp thuận, hủy bỏ tư cách thành viên của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam",
+            "C": "Đảm bảo cơ sở vật chất, kỹ thuật phục vụ cho các hoạt động đăng ký, lưu ký, bù trừ và thanh toán chứng khoán",
+            "D": "Giám sát hoạt động đăng ký, lưu ký, bù trừ và thanh toán giao dịch chứng khoán",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 18,
+        "question": "Những loại chứng khoán nào sau đây phải được niêm yết, đăng ký giao dịch trên hệ thống giao dịch chứng khoán: \nI.  Chứng khoán đã chào bán ra công chúng, cổ phiếu của công ty đại chúng \nII.  Chứng chỉ quỹ đóng, chứng chỉ quỹ hoán đổi danh mục \nIII.  Công  cụ  nợ  của  chính  phủ,  trái  phiếu  được  chính  phủ  bảo  lãnh  và  trái  phiếu  chính  quyền  địa \nphương \nIV.  Chứng quyền có đảm bảo, hợp đồng tương lai, hợp đồng quyền chọn do Ủy ban chứng khoán nhà \nnước chấp thuận",
+        "options": {
+            "A": "I, II và III",
+            "B": "I, III và IV",
+            "C": "I, II và IV",
+            "D": "I, II, III và IV",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 19,
+        "question": "Chứng khoán bị hủy đăng ký giao dịch trong các trường hợp sau đây, ngoại trừ:",
+        "options": {
+            "A": "Tổ chức đăng ký giao dịch hủy tư cách công ty đại chúng theo thông báo của Ủy ban chứng khoán nhà nước",
+            "B": "Tổ chức đăng ký giao dịch chấm dứt sự tồn tại do tổ chức lại, giải thể hoặc phá sản",
+            "C": "Tổ chức đăng ký giao dịch bị thu hồi giấy đăng ký doanh nghiệp, giấy phép thành lập và hoạt động hoặc giấy tờ pháp lý có giá trị tương đương",
+            "D": "Tổ chức đăng ký giao dịch được chấp thuận niêm yết tại Sở giao dịch chứng khoán",
+            "E": "Doanh nghiệp cổ phần hóa sau 02 năm kể từ ngày giao dịch đầu tư vẫn chưa đáp ứng đủ điều kiện là công ty đại chúng theo quy định tại điểm a khoản 1 điều 32 Luật Chứng khoán và chưa được Ủy ban chứng khoán nhà nước xác nhận hoàn tất đăng ký công ty đại chúng"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 20,
+        "question": "Khi chứng khoán đã đăng ký biện pháp bảo đảm bị hủy đăng ký tập trung theo quy định pháp luật, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam thông báo cho:",
+        "options": {
+            "A": "Sở Giao dịch chứng khoán nơi chứng khoán dùng làm tài sản bảo đảm niêm yết/ đăng ký giao dịch",
+            "B": "Thành viên lưu ký nơi lưu ký chứng khoán dùng làm tài sản đảm bảo để thông báo cho các bên làm thủ tục xóa đăng ký biện pháp bảo đảm",
+            "C": "Thành viên lưu ký về việc Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam tự động thực hiện xóa biện pháp bảo đảm",
+            "D": "Các bên đăng ký biện pháp bảo đảm",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 21,
+        "question": "Những thông tin nào sau đây về chứng khoán đăng ký biện pháp bảo đảm do Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam cung cấp: \nI.  Bên bảo đảm và bên nhận bảo đảm \nII.  Mã chứng khoán, số lượng chứng khoán đăng ký biện pháp bảo đảm \nIII.  Thông tin về việc xử lý tài sản bảo đảm \nIV.  Thời điểm đăng ký biện pháp bảo đảm",
+        "options": {
+            "A": "I, II, III",
+            "B": "II, III, IV",
+            "C": "II, III",
+            "D": "I, II, IV",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 22,
+        "question": "Người sở hữu chứng khoán đã lưu ký nhận quyền, lợi ích được phân bổ thông qua",
+        "options": {
+            "A": "Sở giao dịch chứng khoán",
+            "B": "Tổ chức phát hành, công ty đại chúng",
+            "C": "Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam và các thành viên lưu ký nơi người sở hữu chứng khoán mở tài khoản lưu ký chứng khoán",
+            "D": "Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 23,
+        "question": "Câu nào sau đây miêu tả đầy đủ, chính xác về nguyên tắc lưu ký chứng khoán",
+        "options": {
+            "A": "Khách hàng lưu ký chứng khoán tại thành viên lưu ký",
+            "B": "Khách hàng lưu ký chứng khoán tại thành viên lưu ký và thành viên lưu ký tái lưu ký chứng khoán của khách hàng tại Tổng công ty lưu ký chứng khoán Việt Nam",
+            "C": "Khách hàng lưu ký chứng khoán trực tiếp tại Tổng công ty lưu ký và thanh toàn bù trừ chứng khoán Việt Nam",
+            "D": "Khách hàng lưu ký chứng khoán thông qua các tổ chức phát hành chứng khoán",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 24,
+        "question": "Thành viên lưu ký là công ty chứng khoán đã chấm dứt tư cách thành viên tại Sở giao dịch chứng khoán Việt Nam được phép:",
+        "options": {
+            "A": "Mở tài khoản lưu ký chứng khoán tại 01 ngân hàng lưu ký duy nhất khác để tất toán các tài khoản lưu ký cho chứng khoán cho khách hàng",
+            "B": "Mở tài khoản lưu ký chứng khoán tại 01 công ty chứng khoán khác dể giao dịch chứng khoán của chính minh",
+            "C": "Mở tài khoản lưu ký chứng khoán tại các thành viên lưu ký khác để xử lý số chứng khoán còn lại trên tài khoản tự doanh",
+            "D": "Mở tài khoản giao dịch chứng khoán tại các công ty chứng khoán khác để xử lý số chứng khoán còn lại trên tài khoản tự doanh",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 25,
+        "question": "Miêu tả nào sau đây chính xác nhất về giao dịch bán khống tài sản có đảm bảo",
+        "options": {
+            "A": "Giao dịch bán khống tài sản có đảm bảo là giao dịch bán chứng khoán mà nhà đầu tư đã mua trên hệ thống giao dịch chứng khoán tại các ngày giao dịch trước đó và đang trong quá trình hoàn tất chuyển quyền sở hữu",
+            "B": "Giao dịch bán khống tài sản có đảm bảo là giao dịch bán chứng khoán đã được vay trên hệ thống vay và cho vay chứng khoán của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam. Người bán sau đó có nghĩa vụ mua lại số chứng khoán đó để hoàn trả khoản đã vay",
+            "C": "Giao dịch bán khống tài sản có đảm bảo và giao dịch bán chứng khoán khi nhà đầu tư không sở hữu chứng khoán đó và sử dụng các tài sản hiện có để làm tài sản đảm bảo",
+            "D": "Giao dịch bán khống tài sản có đảm bảo và giao dịch bán chứng khoán khi nhà đầu tư không sở hữu chứng khoán tại thời điểm bán nhưng tại ngày thanh toán có đủ số chứng khoán để chuyển giao cho bên mua dựa trên hợp đồng thỏa thuận với bên mua",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 26,
+        "question": "Chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam được mở",
+        "options": {
+            "A": "01 tài khoản lưu ký chứng khoán tại 01 thành viên lưu ký duy nhất",
+            "B": "02 tài khoản lưu ký chứng khoán tại thành viên lưu ký trong đó 01 tài khoản lưu ký chứng khoán tại ngân hàng lưu ký và 01 tài khoản tại công ty chứng khoán",
+            "C": "02 tài khoản lưu ký chứng khoán tại thành viên lưu ký trong đó 01 tài khoản lưu ký chứng khoán cho chính mình và 01 tài khoản lưu ký chứng khoán để quản lý danh mục chứng khoán cho nhà đầu tư nước ngoài",
+            "D": "02 tài khoản lưu ký chứng khoán tại 01 thành viên lưu ký duy nhất",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 27,
+        "question": "Tài khoản ký quỹ bù trừ của nhà đầu tư chỉ được sử dụng cho các hoạt động sau đây, ngoại trừ:",
+        "options": {
+            "A": "Nhận và hoàn trả tài sản ký quỹ bù trừ cho thành viên bù trừ",
+            "B": "Nhận hoặc thanh toán tiền giao dịch chứng khoán của nhà đầu tư, nhận thanh toán lãi tiền gửi ngân hàng theo mức lãi suất thỏa thuận giữa thành viên bù trừ và ngân hàng quản lý tài khoản",
+            "C": "Nhận hoặc chuyển giao chứng khoán vào ngày thanh toán",
+            "D": "Nhận quyền lợi và lợi ích phát sinh đối với chứng khoán trên tài khoản ký quỹ bù trừ",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 28,
+        "question": "Chứng khoán được Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp nhận là tài sản ký quỹ bù trừ cho các giao dịch chứng khoán cơ sở phải đáp ứng điều kiện nào sau đây:",
+        "options": {
+            "A": "Thuộc nhóm chứng khoán VN30",
+            "B": "Là chứng khoán được sử dụng làm tài sản bảo đảm trong các giao dịch theo quy định của pháp luật dân sự vè gaio dịch tài sản bảo đảm",
+            "C": "Không bị phong tỏa, tạm giữ tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam",
+            "D": "Là chứng khoán có tính thanh khoản cao và giá trị giao dịch lớn",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 29,
+        "question": "Trường hợp thiếu chứng khoán do sửa lỗi sau giao dịch hoặc xử lý lỗi tự doanh, thành viên bù trừ được áp dụng các biện pháp hỗ trợ sau, ngoại trừ:",
+        "options": {
+            "A": "Sử dụng chứng khoán vay qua hệ thống vay và cho vay do Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam quản lý",
+            "B": "Trường hợp đến thời điểm thanh toán theo quy định, thanh viên bù trừ vẫn không đủ chứng khoán để thanh toán, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam sẽ thực hiện hủy thanh toán đối với số chứng khoán thiếu của thành viên bù trừ",
+            "C": "Mua bắt buộc qua hệ thống giao dịch chứng khoán",
+            "D": "Thanh toán bằng tiền nếu chứng khoán thiếu không được vay và mua bắt buộc theo quy định của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam và Sở giao dịch chứng khoán Việt Nam",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 30,
+        "question": "Hệ thống vay và cho vay chứng khoán thực hiện theo nguyên tắc nào sau đây",
+        "options": {
+            "A": "Hoạt động vay và cho vay chứng khoán được thực hiện theo cơ chế khớp lệnh giữa bên vay và bên cho vay trên nguyên tắc ưu tiên về thời gian",
+            "B": "Tài sản bảo đảm bắt buộc là chứng khoán niêm yết trên Sở giao dịch chứng khoán",
+            "C": "Lãi suất cho vay được thỏa thuận trên nguyên tắc tuân thủ các quy định pháp luật có liên quan",
+            "D": "Khoản vay phải được hoàn trả duy nhất bằng tiền sau khi được chấp thuận của bên cho vay",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 31,
+        "question": "Công ty đại chúng được mua lại cổ phiếu của chính mình không phải đáp ứng các điều kiện nào sau đây:\nI.  Mua lại không được quá 30% tổng số cổ phần phổ thông đã bán \nII.  Phải thực hiện mua lại cổ phiếu trong thời hạn 06 tháng, kể từ ngày kết thúc đợt chào bán cổ phiếu \nđể tăng vốn \nIII.  Có quyết định mua lại cổ phiếu để giảm vốn điều lệ được ĐHĐCĐ thông qua \nIV.  Có công ty chứng khoán được chỉ định thực hiện giao dịch",
+        "options": {
+            "A": "I, IV",
+            "B": "II",
+            "C": "II, IV",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 32,
+        "question": "Các hình thức xử phạt chính trong xử lý vi phạm hành chính trong lĩnh vực chứng hoán bao gồm các hình thức nào? \nI.  Cảnh cáo \nII.  Tước quyền sử dụng giấy chứng nhận đăng ký hoạt động văn phòng đại diện, chứng chỉ hành nghề chứng khoán có thời hạn từ trên 03 tháng đến 24 tháng \nIII.  Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính \nIV.  Đình chỉ giao dịch chứng khoán có thời hạn từ 01 tháng đến 12 tháng",
+        "options": {
+            "A": "I",
+            "B": "I, II",
+            "C": "I, II, IV",
+            "D": "Cả 4 phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 33,
+        "question": "Điều kiện nào sau đây là điều kiện để niêm yết trái phiếu trên Sở Giao dịch Chứng khoán \nI.  Có vốn điều lệ đã góp từ 10 tỷ đồng trở lên \nII.  Được HĐQT thông qua việc niêm yết \nIII.  Tỷ lệ lợi nhuận trên vốn chủ sở hữu (ROE) năm liền trước năm đăng ký niêm yết tối thiếu là 15% \nIV.  Phải là trái phiếu đã cháo bàn ra công chúng",
+        "options": {
+            "A": "I, II",
+            "B": "III, IV",
+            "C": "I, II, III",
+            "D": "IV",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 34,
+        "question": "Điều  kiện  về  vốn,  vốn  chủ  sở  hữu  đối  với  công  ty  chứng  khoán  thực  hiện  tự  doanh  chứng khoán phái sinh tối thiểu là",
+        "options": {
+            "A": "500 tỷ VNĐ",
+            "B": "600 tỷ VNĐ",
+            "C": "800 tỷ VNĐ",
+            "D": "900 tỷ VNĐ",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 35,
+        "question": "Điều kiện là thành viên bù trừ chung cho hoạt động thanh toán, bù trừ giao dịch chứng khoán phái sinh của Công ty chứng khoán \nI.  Là thành viên lưu ký của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam \nII.  Vốn điều lệ, vốn chủ sở hữu đạt từ 1,200 tỷ đồng trở lên \nIII.  Vốn điều lệ, vốn chủ sở hữu đạt từ 5,000 tỷ đồng trở lên \nIV.  Không có lỗ trong 02 năm gần nhất",
+        "options": {
+            "A": "I, II và IV",
+            "B": "II và IV",
+            "C": "I, III và IV",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 36,
+        "question": "Theo quy định của Luật chứng khoán, Sở giao dịch chứng khoán không có các quyền sau đây, loại trừ: \nI.  Ban hành quy chế đăng ký, lưu ký, bù trừ và thanh toán chứng khoán sau khi được UBCK chấp \nthuận \nII.  Tạm ngừng, đình chỉ hoặc hủy bỏ giao dịch chứng khoán \nIII.  Chấp thuận, hủy bỏ niêm yết chứng khoán tại Sở giao dịch chứng khoán \nIV.  Làm trung gian hòa giải theo yêu cầu của thành viên giao dịch khi phát sinh tranh chấp liên quan \nđến hoạt động giao dịch chứng khoán",
+        "options": {
+            "A": "I",
+            "B": "I, IV",
+            "C": "II, III",
+            "D": "III, IV",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 37,
+        "question": "Khi xử lý vi phạm hành chính trong lĩnh vực chứng khoán, Chủ tịch UBCK có thẩm quyền phạt tiền tối đa",
+        "options": {
+            "A": "Đến 100,000,000 đồng đối với tổ chức và phạt tiền tối đa đến 50,000,000 đồng đối với cá nhân",
+            "B": "Đến 500,000,000 đồng đối với tổ chức và phạt tiền tối đa đến 250,000,000 đồng đối với cá nhân",
+            "C": "Đến 2,000,000,000 đồng đồi với tổ chức và phạt tiền tối đa đến 1,000,000,000 đồng đối với cá nhân",
+            "D": "Đến 3,000,000,000 đồng đồi với tổ chức và phạt tiền tối đa đến 1,500,000,000 đồng đối với cá nhân",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 38,
+        "question": "Đối tượng nào có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực chứng khoán:\nI.  Bộ trưởng Bộ tài chính \nII.  Chủ tịch UBCK \nIII.  Chánh thanh tra UBCK \nIV.  Chủ tịch UBNC cấp tỉnh",
+        "options": {
+            "A": "I, II, III",
+            "B": "II, III",
+            "C": "II, III, IV",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 39,
+        "question": "Tổ chức niêm yết không phải công bố thông tin trong vòng 24 giờ kể từ khi xảy ra các sự kiện sau:",
+        "options": {
+            "A": "Có quyết định mua lại cổ phiếu của chính mình",
+            "B": "Có quyết định thay đổi doanh nghiệp kiểm toán",
+            "C": "Có quyết định của của cơ quan thuế về công ty vi phạm luật thuế",
+            "D": "Khi giá cổ phiếu tăng trần hoặc giảm sàn 10 phiên liên tiếp",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 40,
+        "question": "Tổ chức niêm yết cổ phiếu, công ty đại chúng quy mô lớn phải công bố thông tin bất thường trong vòng 24h, kể từ khi vay có giá trị bao nhiêu % trên tổng tài sản của công ty",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "25%",
+            "D": "30%",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 41,
+        "question": "Sở giao dịch chứng khoán Việt Nam được chấp  thuận các đối tượng nào sau đây trở thành thành viên của Sở giao dịch chứng khoán Việt Nam: \nI.  Công ty chứng khoán \nII.  Ngân hàng thương mại \nIII.  Chi nhánh ngân hàng nước ngoài  \nIV.  Công ty đại chúng",
+        "options": {
+            "A": "I",
+            "B": "I, II",
+            "C": "I, II. III",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 42,
+        "question": "Loại trái phiếu doanh nghiệp nào được niêm yết trên Sở giao dịch chứng khoán Việt Nam theo quy định tại nghị định 155/2020/NĐ-CP \nI.  Trái phiếu đã chào bán ra công chúng \nII.  Trái phiếu chào bán riêng lẻ \nIII.  Trái phiếu chào bán riêng lẻ và chào bán ra công chúng của công ty đại chúng \nIV.  Trái phiếu chào bán riêng lẻ và chào bán ra công chúng của tất cả các doanh nghiệp đáp ứng điều \nkiện về vốn, khả năng tài chính",
+        "options": {
+            "A": "I",
+            "B": "I, II",
+            "C": "I, II. III",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 43,
+        "question": "Tổ chức, cá nhân nào có nghĩa vụ đăng ký mã số giao dịch trên thị trường chứng khoán \nI.  Nhà đầu tư chứng khoán \nII.  Tổ chức phát hành chứng chỉ lưu ký tại nước ngoài \nIII.  Tổ chức kinh tế có nhà đầu tư nước ngoài nắm giữ trên 50% vốn điều lệ \nIV.  Tất cả các nhà đầu tư tham gia trên thị trường chứng khoán",
+        "options": {
+            "A": "I",
+            "B": "I, II",
+            "C": "I, II, III",
+            "D": "IV",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 44,
+        "question": "Tổ chức, cá nhân đã được cấp mã số giao dịch chứng khoán phải báo cáo Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về việc thay đổi thông tin liên quan đến mã số giao dịch chứng khoán trong các trường hợp nào sau đây: \nI.  Thay đổi thành viên lưu ký \nII.  Thay đổi tên, quốc gia hoặc vùng lãnh thổ nơi đăng ký hoạt động, địa chỉ trụ sở chính, số giấy \nphép đăng ký kinh doanh đối với tổ chức \nIII.  Thay đổi tên, quốc tịch, địa chỉ liên lạc, số hộ chiếu hoặc chứng thực cá nhân hợp pháp khác đối \nvới cá nhân \nIV.  Thay đổi số lượng chứng khoán nắm giữ",
+        "options": {
+            "A": "I",
+            "B": "I, II",
+            "C": "I, II, III",
+            "D": "Tất cả phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 45,
+        "question": "Đâu là điều kiện để trở thành thành viên bù trừ chung trên thị trường chứng khoán cơ sở",
+        "options": {
+            "A": "Có vốn điều lệ, vốn chủ sở hữu tối thiếu 1000 tỷ đồng (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài) hoặc tối thiểu 250 tỷ đồng (đối với công ty chứng khoán)",
+            "B": "Có vốn điều lệ, vốn chủ sở hữu tối thiếu 3000 tỷ đồng (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài) hoặc tối thiểu 500 tỷ đồng (đối với công ty chứng khoán)",
+            "C": "Có vốn điều lệ, vốn chủ sở hữu tối thiếu 7000 tỷ đồng (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài) hoặc tối thiểu 900 tỷ đồng (đối với công ty chứng khoán)",
+            "D": "Có vốn điều lệ, vốn chủ sở hữu tối thiếu 10,000 tỷ đồng (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài) hoặc tối thiểu 1200 tỷ đồng (đối với công ty chứng khoán)",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 46,
+        "question": "Ngân hàng thanh toán có thể là tổ chức nào dưới đây, ngoại trừ:",
+        "options": {
+            "A": "Chi nhánh ngân hàng nước ngoài tại Việt Nam",
+            "B": "Ngân hàng thương mại",
+            "C": "Ngân hàng nhà nước Việt Nam",
+            "D": "Không có đáp án",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 47,
+        "question": "Theo quy định của pháp luật Việt Nam, Doanh nghiệp sau đây được chào bán cổ phiếu, ngoại trừ: \nI.  Công ty cổ phần \nII.  Công ty TNHH chuyển thành công ty cổ phần \nIII.  Doanh nghiệp nhà nước cổ phần hóa \nIV.  Công ty hợp danh \nV.  Doanh nghiệp tư nhân",
+        "options": {
+            "A": "I, II",
+            "B": "I, II và III",
+            "C": "IV, V",
+            "D": "I, II, IV",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 48,
+        "question": "Khẳng định nào sau đây không chính xác về ngân hàng thương mại \nI.  Ngân hàng thương mại là thành viên giao dịch đặc biệt khi được Sở giao dịch chứng khoán Việt Nam chấp thuận \nII.  Ngân hàng thương mại là nhà đầu tư chứng khoán chuyên nghiệp khi có năng lực tài chính và được mua chứng khoán theo quy định của pháp luật \nIII.  Các ngân hàng thương mại là thành viên lưu ký, thành viên bù trừ khi được UBCK cấp giấy chứng  nhận đăng ký hoạt động lưu ký chứng khoán và được Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp thuận trở thành thành viên lưu ký \nIV.  Các  ngân  hàng  thương  mại  đều  thực  hiện  cung  cấp  dịch  vụ  thanh  toán  tiền  cho  các  giao  dịch chứng khoán trên hệ thống giao dịch chứng khoán",
+        "options": {
+            "A": "I, II",
+            "B": "II",
+            "C": "II, IV",
+            "D": "IV",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 49,
+        "question": "Theo quy định của pháp luật chứng khoán, tỷ lệ sở hữu nước ngoài được xác định là tổng tỷ lệ sở hữu cổ phần, phần vốn góp tính trên vốn điều lệ là:",
+        "options": {
+            "A": "Tất cả nhà đầu tư nước ngoài và tổ chức kinh tế có nhà đầu tư nước ngoài nắm giữ từ 51% vốn điều lệ  trở lên trong  một công ty đại chúng, tổ chức kinh doanh chứng khoán  hoặc quỹ đầu tư chứng khoán",
+            "B": "Tất cả các tổ chức thành lập theo pháp luật nước ngoài thực hiện đầu tư, kinh doanh tại Việt Nam",
+            "C": "Tất cả nhà đầu tư nước ngoài và tổ chức kinh tế có nhà đầu tư nước ngoài nắm giữ từ 50% vốn điều  lệ  trở  lên  trong  một  công  ty  đại  chúng,  tổ  chức kinh  doanh  chứng  khoán  hoặc  quỹ  đầu  tư chứng khoán",
+            "D": "Tất cả nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 50,
+        "question": "Tỷ lệ sở hữu nước ngoài đối với cổ phiếu của công ty đại chúng theo pháp luật chứng khoán là: \nI.  49% \nII.  Không hạn chế, trừ trường hợp điều ước quốc tế mà Việt Nam là thành viên, pháp luật về đầu tư, pháp luật liên quan có quy định về tỷ lệ sở hữu nước ngoài \nIII.  50% vốn điều lệ trong trường hợp công ty đại chúng hoạt động trong ngành, nghề đầu tư kinh doanh có điều kiện áp dụng đối với nhà đầu tư nước ngoài mà chưa có quy định cụ thể về sở hữu nước ngoài",
+        "options": {
+            "A": "I",
+            "B": "I, II",
+            "C": "II, III",
+            "D": "Tất cả phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 51,
+        "question": "Nguyên tắc hoạt động về chứng khoán và thị trường chứng khoán nào dưới đây không đúng",
+        "options": {
+            "A": "Bảo vệ quyền lợi và lợi ích hợp pháp của nhà đầu tư",
+            "B": "Công bằng, công khai, minh bạch",
+            "C": "Chính phủ thống nhất quản lý nhà nước về chứng khoán và thị trường chứng khoán",
+            "D": "Tôn trọng quyền sở hữu về tài sản trong hoạt động chứng khoán và thị trường chứng khoán",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 52,
+        "question": "Khẳng định nào sau đây đúng nhất về người hành nghề chứng khoán \nI.  Người làm việc tại công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam, công ty đầu tư chứng khoán \nII.  Người làm việc cho công ty đầu tư chứng khoán và được UBCK cấp chứng chỉ hành  nghề chứng khoán \nIII.  Người được UBCK cấp chứng chỉ hành nghề chứng khoán",
+        "options": {
+            "A": "I, III",
+            "B": "I, II",
+            "C": "II",
+            "D": "III",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 53,
+        "question": "Đối tượng nào dưới đây không phải là người nội bộ theo pháp luật chứng khoán:",
+        "options": {
+            "A": "Thư ký công ty",
+            "B": "Người phụ trách quản trị công ty",
+            "C": "Người được ủy quyền công bố thông tin",
+            "D": "Tổ chức, cá nhân sở hữu trên 10% cổ phần có quyền biểu quyết của doanh nghiệp đó",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 54,
+        "question": "Theo pháp luật chứng khoán, tổ chức nào dưới đây không được cấp phép nghiệp vụ tư vấn chứng khoán",
+        "options": {
+            "A": "Công ty chứng khoán",
+            "B": "Chi nhánh công ty chứng khoán nước ngoài tại Việt Nam",
+            "C": "Công ty quản lý quỹ đầu tư chứng khoán",
+            "D": "Chi nhánh công ty quản lý quỹ đầu tư nước ngoài tại Việt Nam",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 55,
+        "question": "Khẳng định nào dưới đây là đúng đối với công ty đại chúng \nI.  Công ty cổ phần có vốn điều lệ đã góp từ 30 tỷ đồng trở lên và có tối thiểu 10% số cổ phiếu có \nquyền biểu quyết do ít nhât 10 nhà đầu tư chuyên nghiệp không phải là cổ đông lớn nắm giữ \nII.  Công ty đã thực hiện chào bán thành công cổ phiếu lần đầu ra công chúng \nIII.  Công ty có vốn điều lệ đã góp từ 50 tỷ đồng trở lên",
+        "options": {
+            "A": "I",
+            "B": "II",
+            "C": "I, II",
+            "D": "III",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 56,
+        "question": "Tỷ lệ sở hữu nước ngoài đối với cổ phiếu của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán theo pháp luật Việt Nam là \nI.  Không hạn chế đối với nhà đầu tư nước ngoài là tổ chức \nII.  50% \nIII.  49% \nIV.  49% đối với nhà đầu tư nước ngoài là cá nhân",
+        "options": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "I, IV",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 57,
+        "question": "Khẳng định nào sau đây không đúng về phạm vi hoạt động của văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam \nI.  Xúc tiến xây dựng các dự án hợp tác trong lĩnh vực chứng khoán và thị trường chứng khoán tại Việt Nam \nII.  Tư vấn khách hàng đầu tư chứng khoán \nIII.  Thực hiện các hợp đồng thỏa thuận đã ký kết giữa công ty chứng khoán, công ty quản lý quỹ nước ngoài với các tổ chức kinh tế tại Việt Nam \nIV.  Giám sát thực hiện các dự án do công ty chứng khoán, công ty quản lý quỹ nước ngoài tài trợ tại Việt Nam",
+        "options": {
+            "A": "I, II",
+            "B": "II, III",
+            "C": "II, IV",
+            "D": "III, IV",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 58,
+        "question": "Nghĩa vụ nào không phải nghĩa vụ của công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam",
+        "options": {
+            "A": "Thực hiện quản lý tách biệt tài sản của từng khách hàng",
+            "B": "Bảo đảm tối thiểu 03 nhân viên làm việc tại bộ phận nghiệp vụ phải có chứng chỉ hành nghề phù hợp với nghiệp vụ thực hiện",
+            "C": "Ký hợp đồng bằng văn bản với khách hàng khi thực hiện dịch vụ cho khách hàng",
+            "D": "Thu thập thông tin về tình hình tài chính, khả năng chấp nhận rủi ro của khách hàng",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 59,
+        "question": "Người hành nghề chứng khoán không được thực hiện các hành vi sau đây,  ngoại trừ",
+        "options": {
+            "A": "Mở, quản lý tài khoản giao dịch chứng khoán tại công ty chứng khoán nơi mình đang làm việc và phải duy trì tài khoản giao dịch chứng khoán tại công ty chứng khoán khác đã mở trước đó",
+            "B": "Đồng thời làm việc cho công ty chứng khoán và chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam",
+            "C": "Thực hiện hành vi vượt quá phạm vi ủy quyền của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán nơi mình làm việc",
+            "D": "Không có phương án nào đúng",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 60,
+        "question": "Tổ chức nào dưới đây là đối tượng được xem xét chấp thuận cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán \nI.  Công ty chứng khoán \nII.  Chi nhánh công ty chứng khoán nước ngoài tại Việt Nam \nIII.  Ngân hàng thương mại \nIV.  Chi nhánh ngân hàng nước ngoài tại Việt Nam",
+        "options": {
+            "A": "I, III",
+            "B": "I, II",
+            "C": "I, III, IV",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 61,
+        "question": "Hạn chế đối với công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán bao gồm \nI.  Công ty chứng khoán được góp vốn thành lập, mua cổ phần, phần vốn góp để sở hữu hoặc cùng với người có liên quan (nếu có) sở hữu không quá 5% số cổ phiếu có quyền biểu quyết đang lưu hành của 1 công ty chứng khoán khác tại Việt Nam \nII.  Công ty chứng khoán được góp vốn thành lập, mua cổ phần, phần vốn góp của 01 công ty quản lý quỹ để thực hiện hợp nhất, sát nhập \nIII.  Không được đưa ra nhận định hoặc đảm bảo với khách hàng về mức thu nhập hoặc lời nhuận đạt được trên khoản đầu tư của mình hoặc đảm bảo khách hàng không bị thua lỗ, trừ trường hợp đầu tư vào chứng khoán có thu nhập ổn định \nIV.  Cổ đông sáng lập, thành viên góp vốn khi thành lập của công ty chứng khoán, công ty quản lý quỹ không được chuyển nhượng cổ phần hoặc phần vốn góp của mình trong thời hạn 03 năm kể từ ngày được cấp giấy phép, trừ trường hợp chuyển nhượng giữa các cổ đông sáng lập, thành viên góp vốn khi thành lập công ty",
+        "options": {
+            "A": "I, II",
+            "B": "II, III",
+            "C": "III, IV",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 62,
+        "question": "Một doanh nghiệp có kinh doanh dịch vụ đòi nợ với mức vốn điều lệ là 10 tỷ đồng. Năm 2020, đặt mục tiêu trở thành công ty đại chúng theo luật chứng khoán năm 2019 thì doanh nghiệp phải thực hiện công việc nào trước tiên",
+        "options": {
+            "A": "Tăng vốn điều lệ lên 30 tỷ đồng",
+            "B": "Tăng số lượng cổ đông lên trên 100 người không kể cổ đông lớn",
+            "C": "Chào bán cổ phiếu ra công chúng",
+            "D": "Hoàn thành quyết toán các vấn đề liên quan đến dịch vụ đòi nợ trước ngày 01/01/2021",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 63,
+        "question": "Với tư cách là nhân viên một công ty chứng khoán, được khách hàng là ngân hàng thương mại có cổ phiếu trên sở giao dịch chứng khoán, yêu cầu tư vấn về việc bầu thành viên HĐQT tại đại hội đồng cổ đông thường niên sắp tới; bạn sẽ tư vấn liên quan đến số lượng thành viên HĐQT \nnhư thế nào?",
+        "options": {
+            "A": "Số lượng thành viên HĐQT tùy thuộc vào quyết định của đa số cổ đông tham dự cuộc họp đại hội đồng cổ đông",
+            "B": "Số lượng thành viên HĐQT tùy thuộc vào kết quả bầu tại cuộc họp đại hội đồng cổ đông",
+            "C": "Số lượng thành viên HĐQT ít nhất 03 người và nhiều nhất là 11 người",
+            "D": "Số lượng thành viên HĐQT không ít hơn 05 người và không quá 11 người",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 64,
+        "question": "Với tư cách là nhân viên một công ty chứng khoán, được khách hàng là ngân hàng thương mại đồng thời là công ty đại chúng, yêu cầu tư vấn về việc bầu thành viên HĐQT tại đại hội đồng cổ đông thường niên sắp tới, bạn sẽ tư vấn liên quan đến số lượng thành viên HĐQT như thế nào?",
+        "options": {
+            "A": "Cơ cấu thành viên HĐQT phải đảm bảo tối thiểu 1/3 tổng số thành viên HĐQT là thành viên độc lập",
+            "B": "Cơ cấu thành viên HĐQT phải đảm bảo có tối thiểu 01 thành viên độc lập nếu HĐQT có từ 03 đến 05 thành viên hoặc tối thiểu 02 thành viên độc lập nếu HĐQT có từ 6 đến 8 thành viên hoặc tối thiểu 03 thành viên độc lập nếu HĐQT có từ 9 đến 11 thành viên",
+            "C": "Cơ cấu thành viên HĐQT phải đảm bảo có ít nhất 01 thành viên độc lập",
+            "D": "Cơ cấu thành viên HĐQT phải đảm bảo tối thiểu 1/5 tổng số thành viên HĐQT là thành viên độc lập",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 65,
+        "question": "Trong trường hợp nào dưới đây, hợp đồng mở tài khoản giao dịch chứng khoán của công ty chứng khoán và khách hàng có thể yêu cầu Tòa án tuyên vô hiệu",
+        "options": {
+            "A": "Hợp đồng mở tài khoản giao dịch chứng khoán có thỏa thuận nhằm trốn tránh nghĩa vụ pháp lý của công ty chứng khoán nhưng có lý do chính đáng",
+            "B": "Hợp đồng mở tài khoản giao dịch chứng khoán có thỏa thuận buộc khách hàng có nghĩa vụ bồi thường một cách không công bằng nhưng có lý do chính đáng",
+            "C": "Hợp đồng mở tài khoản giao dịch chứng khoán có thỏa thuận hạn chế phạm vi bồi thường của công ty chứng khoán nhưng có lý do chính đáng",
+            "D": "Khách hàng chưa điền đẩy đủ thông tin trên hợp đồng mở tài khoản giao dịch chứng khoán",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 66,
+        "question": "Với tình hình diễn biến khó lường của dịch bệnh Covid-19 như hiện nay, cuộc họp đại hội đồng cổ đồng thường niên năm 2021 của nhiều công ty đại chúng có thể không đảm bảo tổ chức trong thời hạn 04 tháng kể từ ngày kết thúc năm tài chính. Việc gia hạn họp Đại hội đồng cổ đông thường niên sẽ được thực hiện như thế nào?",
+        "options": {
+            "A": "HĐQT đề nghị đại hội đồng cổ đông quyết định gia hạn",
+            "B": "HĐQT tự quyết định việc gia hạn",
+            "C": "HĐQT đề nghị cơ quan đăng ký kinh doanh gia hạn",
+            "D": "HĐQT đề nghị Ủy ban chứng khoán nhà nước gia hạn",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 67,
+        "question": "Một cổ đông muốn ủy quyền cho một cá nhân khác đại diện dự họp đại hội đồng cổ đông của một công ty niêm yết thì phải làm thế nào?",
+        "options": {
+            "A": "Lập văn bản thông báo cho công ty niêm yết về việc ủy quyền trước khi diễn ra cuộc họp đại hội đồng cổ đông",
+            "B": "Lập văn bản ủy quyền theo mẫu do công ty niêm yết phát hành",
+            "C": "Lập văn bản ủy quyền nêu rõ tên cá nhân được ủy quyền và số lượng cổ phần được ủy quyền",
+            "D": "Lập văn bản ủy quyền theo quy định pháp luật về dân sự và nêu rõ tên cá nhân được ủy quyền và số lượng cổ phần ủy quyền",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 68,
+        "question": "Trường hợp chủ tọa, thư ký từ chối ký biên bản họp đại hội đồng cổ đông thì biên bản này có hiệu lực pháp luật hay không?",
+        "options": {
+            "A": "Biên bản có hiệu lực nếu ghi rõ việc chủ tọa, thư ký từ chối ký biên bản",
+            "B": "Biên bản có hiệu lực nếu có đầy đủ nội dung theo quy định tại các điểm a, b, c, d, đ, e, g và h Khoản 1, điều 50 Luật doanh nghiệp",
+            "C": "Biên bản có hiệu lực nếu được tất cả thành viên HĐQT tham gia dự họp ký",
+            "D": "Biên bản có hiệu lực nếu đáp ứng các yếu tổ a, b và c nêu trên",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 69,
+        "question": "Một cổ đông tố cáo HĐQT đã thông qua nghị quyết trái với quy định của pháp luật gây thiệt hại cho công ty, cổ đông này có quyền yêu cầu hủy bỏ nghị quyết trên hay không?",
+        "options": {
+            "A": "Cổ đông có quyền yêu cầu tòa án hủy bỏ nghị quyết nêu trên",
+            "B": "Cổ đông chỉ có quyền yêu cầu HĐQT đình chỉ việc thực hiện nghị quyết nêu trên",
+            "C": "Cổ đông có quyền đưa ra cuộc họp đại hội đồng cổ đông gần nhất để yêu cầu hủy hôn nghị quyết nêu trên",
+            "D": "Cổ đông phải đảm bảo sở hữu cổ phần của công ty liên tục trong thời hạn ít nhất 01 năm mới có quyền yêu cầu hủy bỏ nghị quyết nêu trên",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 70,
+        "question": "Một doanh nghiệp niêm yết trên Sở giao dịch chứng khoán muốn thay đổi mẫu dấu do vừa thay đổi tên doanh nghiệp, theo đó doanh nghiệp phải thực hiện thủ tục nào dưới đây",
+        "options": {
+            "A": "Đề nghị cơ quan công an cấp mẫu dấu mới",
+            "B": "Tự quyết định mẫu dấu và phải thông báo với cơ quan đăng ký kinh doanh trước khi sử dụng",
+            "C": "Tự quyết định mẫu dấu và phải đăng ký với cơ quan đăng ký kinh doanh trước khi sử dụng",
+            "D": "Tự quyết định mẫu dấu và thực hiện công bố thông tin theo quy định pháp luật về chứng khoán",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 71,
+        "question": "Loại hình doanh nghiệp nào sau đây được tham gia mua, bán cổ phiếu trên thị trường chứng khoán \nI.  Công ty cổ phần \nII.  Công ty TNHH \nIII.  Công ty hợp danh \nIV.  Doanh nghiệp tư nhân",
+        "options": {
+            "A": "Chỉ công ty cổ phần đó là loại hình doanh nghiệp duy nhất có quyền phát hành cổ phiếu",
+            "B": "Công ty cổ phần và công ty TNHH do công ty TNHH cũng được phát hành cổ phần để chuyển đổi thành công ty cổ phần",
+            "C": "Công ty cổ phần, công ty TNHH và công ty hợp danh",
+            "D": "Tất cả các loại hình doanh nghiệp nêu trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 72,
+        "question": "Ủy ban chứng khoán nhà nước có thẩm quyền quyết định tạm ngừng, đình chỉ một phần hoặc toàn bộ hoạt động gaio dịch của Sở giao dịch chứng khoán khi xảy ra sự cố hệ thống giao dịch làm ảnh hưởng đến hoạt động giao dịch bình thường của thị trường giao dịch chứng khoán trong thời gian tối đa bao lâu?",
+        "options": {
+            "A": "05 ngày",
+            "B": "05 ngày làm việc",
+            "C": "Không có quy định thời hạn tạm ngừng, đình chỉ",
+            "D": "Đến thời điểm những nguyên nhân dẫn đến việc tạm ngừng, đình chỉ một phần hoặc toàn bộ hệ thống giao dịch của Sở giao dịch chứng khoán Việt Nam được khắc phục",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 73,
+        "question": "Quỹ đầu tư chứng khoán F là quỹ thành viên được thành lập năm 2020, trong đó có 1 tổ chức góp vốn vào quỹ thành viên là công ty TNHH có vốn điều lệ 100 tỷ đồng và hoạt động trong lĩnh vực công nghiệp. Đến thời điểm Luật chứng khoán 2019 có hiệu lực, theo đó quỹ thành viên là quỹ đầu tư chứng khoán có số thành viên tham gia góp vốn từ 02 dến 99 thành viên và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp; tổ chức góp vốn nêu trên phải làm gì để được tiếp tục sở hữu chứng chỉ quỹ tương ứng với phần vốn đã góp vào quỹ thành viên?",
+        "options": {
+            "A": "Tổ chức góp vốn phải thực hiện tăng vốn điều lệ trên 100 tỷ đồng",
+            "B": "Tổ chức góp vốn phải thực hiện chào bán cổ phiếu lần đầu ra công chúng để chuyển đổi thành công ty cổ phần và sau đó thực hiện niêm yết hoặc đăng ký giao dịch cổ phiếu",
+            "C": "Tổ chức góp vốn không thể tiếp tục sở hữu chứng chỉ quỹ mà phải chuyển nhượng cho tổ chức, cá nhân khác đủ điều kiện làm thành viên của quỹ thành viên",
+            "D": "Đương nhiên được tiếp tục sở hữu chứng chỉ quỹ tương ứng với phần vốn đã góp",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 74,
+        "question": "Đối với các doanh nghiệp, được chuyển đổi thành công ty cổ phần theo pháp luật về chuyển doanh nghiệp nhà nước và công ty trách nhiệm hữu hạn một thành viên của doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ thành công ty cổ phần, đã thực hiện đăng ký giao dịch trên hệ thống Upcom trước ngày 01/01/2021 nhưng chưa được Ủy ban chứng khoán nhà nước xác nhận hoàn tất việc đăng ký công ty đại chúng; thời điểm bị hủy đăng ký giao dịch là:",
+        "options": {
+            "A": "Ngay khi Nghị định quy định chi tiết thi hành một số điều của Luật chứng khoán 2019 có hiệu lực",
+            "B": "Sau 01 năm kể từ ngày Nghị định quy định chi tiết thi hành một số điều của Luật chứng khoán 2019 có hiệu lực",
+            "C": "Sau 02 năm kể từ ngày Nghị định quy định chi tiết thi hành một số điều của Luật chứng khoán 2019 có hiệu lực",
+            "D": "Không bị hủy đăng ký giao dịch",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 75,
+        "question": "Trường hợp công ty quản lý quỹ có hơn 01 người đại diện theo pháp luật thì người nào sẽ chịu trách nhiệm cung cấp tài liệu và làm việc với Ủy ban Chứng khoán Nhà nước?",
+        "options": {
+            "A": "Đương nhiên là Chủ tịch HĐQT",
+            "B": "Đương nhiên là Tổng Giám đốc (Giám đốc)",
+            "C": "Là người đại diện pháp luật mà công ty đã đăng ký",
+            "D": "Là Chủ tịch HĐQT hoặc Tổng Giám đốc (Giám đốc) mà công ty quản lý quỹ đã đăng ký",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 76,
+        "question": "Một công ty chứng khoán là công ty trách nhiệm hữu hạn một thành viên do tổ chức làm chủ sở hữu. Tổng giám đốc công ty đồng thời là người đại diện theo pháp luật duy nhất đi công tác đột xuất nên chưa kịp làm thủ tục ủy quyền cho người khác thực hiện quyền và nghĩa vụ của  người đại diện theo pháp luật. Do tình hình dịch bệnh Covid-19, người này bị mắc kẹt tại nước ngoài từ ngày 01/01/2021, để đảm bảo tuân thủ quy định doanh nghiệp phải có ít nhất 1 người đại diện theo pháp luật cư trú tại Việt Nam, công ty chứng khoán phải làm thế nào?",
+        "options": {
+            "A": "Chủ tịch công ty đương nhiên trở thành người đại diện theo pháp luật",
+            "B": "Người đại diện theo pháp luật của tổ chức là chủ sở hữu công ty đương nhiên trở thành người đại diện theo pháp luật",
+            "C": "Chủ sở hữu công ty cử người khác làm người đại diện pháp luật",
+            "D": "Chủ tịch công ty cử người khác làm người đại diện pháp luật",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 77,
+        "question": "Mức phạt tiền tối đa trong lĩnh vực chứng khoán và thị trường chứng khoán đối với tổ chức vi phạm là",
+        "options": {
+            "A": "1.000.000 đồng",
+            "B": "2.000.000 đồng",
+            "C": "3.000.000 đồng",
+            "D": "Không giới hạn mức phạt",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 78,
+        "question": "Các hình thức xử phạt dưới đây thuộc thẩm quyền xử phạt hành chính của Chánh thanh tra UBCKNN, ngoại trừ:",
+        "options": {
+            "A": "Phạt cảnh cáo",
+            "B": "Phạt tiền tối đa 3.000.000 đồng đối với tổ chức và phạt tiền tối đa đến 1.500.000 đồng đối với cá nhân",
+            "C": "Tước quyền sử dụng giấy chứng nhận đăng ký hoạt động văn phòng đại diện, chứng chỉ hành nghề chứng khoán theo quy định",
+            "D": "Đình chỉ giao dịch chứng khoán theo quy định",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 79,
+        "question": "Chủ tịch Uỷ ban Chứng khoán Nhà nước có quyền:",
+        "options": {
+            "A": "Phạt tiền tối đa đến 100.000.000 đồng đối với tổ chức và phạt tiền tối đa đến 50.000.000 đồng đối với cá nhân có các hành vi vi phạm khác trong lĩnh vực chứng khoán",
+            "B": "Phạt tiền tối đa đến 500.000.000 đồng đối với tổ chức và phạt tiền tối đa đến 100.000.000 đồng đối với cá nhân có các hành vi vi phạm khác trong lĩnh vực chứng khoán",
+            "C": "Phạt tiền tối đa đến 1.500.000.000 đồng đối với tổ chức và phạt tiền tối đa đến 500.000.000 đồng đối với cá nhân có các hành vi vi phạm khác trong lĩnh vực chứng khoán",
+            "D": "Phạt tiền tối đa đến 3.000.000.000 đồng đối với tổ chức và phạt tiền tối đa đến 1.500.000.000 đồng đối với cá nhân có các hành vi vi phạm khác trong lĩnh vực chứng khoán",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 80,
+        "question": "Thời điểm tính thời hiệu xử phạt vi phạm hành chính trong lĩnh vực chứng khoán được quy định như sau:",
+        "options": {
+            "A": "Đối với hành vi vi phạm hành chính đang được thực hiện thì thời hiệu được tính từ ngày người có thẩm quyền thi hành công vụ phát hiện hành vi vi phạm",
+            "B": "Đối với hành vi vi phạm hành chính đã kết thúc thì thời hiệu được tính từ ngày người có thẩm quyền thi hành công vụ phát hiện hành vi vi phạm",
+            "C": "Đối với hành vi vi phạm hành chính đã kết thúc thì thời hiệu được tính từ ngày chấm dứt hành vi vi phạm",
+            "D": "Cả a và b",
+            "E": "Cả a và c"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 81,
+        "question": "Chào bán chứng khoán riêng lẻ là việc chào bán chứng khoán theo một trong các phương thức nào sau đây:",
+        "options": {
+            "A": "Chào bán cho dưới 100 nhà đầu tư, không kể nhà đầu tư chứng khoán chuyên nghiệp",
+            "B": "Chào bán cho từ 100 nhà đầu tư trở lên, không kể nhà đầu tư chứng khoán chuyên nghiệp",
+            "C": "Chỉ chào bán cho nhà đầu tư chứng khoán chuyên nghiệp",
+            "D": "Cả a và c",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 82,
+        "question": "Chào  bán  chứng  khoán  ra  công  chúng  là  việc  chào  bán  chứng  khoán  theo  một  trong  các phương thức sau đây, ngoại trừ:",
+        "options": {
+            "A": "Chào bán thông qua phương tiện thông tin đại chúng",
+            "B": "Chào bán cho từ 100 nhà đầu tư trở lên, không kể nhà đầu tư chứng khoán chuyên nghiệp",
+            "C": "Chỉ chào bán cho nhà đầu tư chứng khoán chuyên nghiệp",
+            "D": "Chào bán cho các nhà đầu tư không xác định",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 83,
+        "question": "Công ty đại chúng mua lại chứng khoán của chính mình phải đáp ứng các điều kiện sau đây, ngoại trừ:",
+        "options": {
+            "A": "Có quyết định của Đại hội cổ đông thông qua việc mua lại cổ phiếu để giảm vốn điều lệ, phương án mua lại, trong đó nêu rõ số lượng, thời gian thực hiện, nguyên tắc xác định giá mua lại, có đủ nguồn để mua lại cổ phiếu từ các nguồn sau đây: thăng dư vốn cổ phần, quỹ đầu tư phát triển, lợi nhuận sau thuế chưa phân phối, quỹ khác thuộc vốn chủ sở hữu để bổ sung vốn điều lệ theo quy định của pháp luật",
+            "B": "Có công ty chứng khoán được chỉ định thực hiện giao dịch, trừ trường hợp công ty chứng khoán là thành viên của Sở giao dịch chứng khoán Việt Nam mua lại cổ phiếu của chính mình",
+            "C": "Đang trong quá trình chào bán, phát hành cổ phiếu để huy động thêm vốn",
+            "D": "Đáp  ứng  các  điều  kiện  theo  quy  định  của  pháp  luật  trong  trường  hợp  công  ty  đại  chúng  thuộc ngành, nghề đầu tư kinh doanh có điều kiện",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 84,
+        "question": "Ngân hàng thương mại được Ủy ban Chứng khoán Nhà nước lựa chọn làm ngân hàng thanh toán khi đáp ứng một trong các điều kiện sau đây, ngoại trừ:",
+        "options": {
+            "A": "Có giấy phép thành lập và hoạt động tại Việt Nam trong quy định của pháp luật",
+            "B": "Có vốn điều lệ dưới 10.000 tỷ đồng",
+            "C": "Hoạt động kinh doanh có lãi trong 2 năm gần nhất",
+            "D": "Đáp ứng tỷ lệ an toàn vốn tối thiểu theo quy định của pháp luật về ngân hàng",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 85,
+        "question": "Công ty đại chúng phải công bố thông tin bất thường khi xảy ra một trong các sự kiện sau đây, ngoại trừ:",
+        "options": {
+            "A": "Tài khoản của Công ty tại ngân hàng, chi nhánh ngân hàng nước ngoài bị phong tỏa hoặc được phép hoạt động trở lại sau khi bị phong tỏa",
+            "B": "Tạm ngừng kinh doanh; thay đổi nội dung đăng ký doanh nghiệp; thu hồi Giấy chứng nhận đăng ký doanh nghiệp; sửa đổi, bổ sung hoặc bị đình chỉ, thu hồi Giấy phép thành lập và hoạt động hoặc Giấy phép hoạt động",
+            "C": "Báo cáo tài chính năm đã được kiểm toán, báo cáo tài chính 06 tháng đã được soát xét bởi tổ chức kiểm toán được chấp thuận, báo cáo tài chính quý",
+            "D": "Quyết định mua lại cổ phiếu của công ty",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 86,
+        "question": "Tổ chức cá nhân, nhóm người có liên quan, nhóm nhà đầu tư ngước ngoài có liên quan phải công bố thông tin:",
+        "options": {
+            "A": "Khi trở thành cổ đông lớn của công ty đại chúng, công ty đầu tư chứng khoán đại chúng",
+            "B": "Khi không còn là cổ đông lớn của công ty đại chúng, công ty đầu tư chứng khoán đại chúng",
+            "C": "Trước và sau khi giao dịch cổ phiếu của công ty đại chúng, công ty đầu tư chứng khoán đại chúng",
+            "D": "Cả a và b",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 87,
+        "question": "Nhà đầu tư, nhóm người có liên quan, nhóm nhà đầu tư nước ngoài có liên quan phải công bố thông tin:",
+        "options": {
+            "A": "Khi sở hữu từ 5% trở lên chứng chỉ quỹ của quỹ đóng",
+            "B": "Khi không còn sở hữu từ 5% trở lên chứng chỉ quỹ của quỹ đóng",
+            "C": "Trước và sau khi giao dịch chứng chỉ quỹ của quỹ đóng",
+            "D": "Cả a và b",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 88,
+        "question": "Tổ chức, cá nhân, nhóm người có liên quan, nhóm nhà đầu tư nước ngoài có liên quan là cổ đông lớn phải công bố thông tin khi có thay đổi về số lượng cổ phiếu sở hữu:",
+        "options": {
+            "A": "Qua các ngưỡng 1% số cổ phiếu có quyền biểu quyết của công ty đại chúng, công ty đầu tư chứng khoán đại chúng",
+            "B": "1% số cổ phiếu có quyền biểu quyết của công ty đại chúng, công ty đầu tư chứng khoán đại chúng",
+            "C": "3% số cổ phiếu có quyền biểu quyết của công ty đại chúng, công ty đầu tư chứng khoán đại chúng",
+            "D": "5% số cổ phiếu có quyền biểu quyết của công ty đại chúng, công ty đầu tư chứng khoán đại chúng",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 89,
+        "question": "Thanh tra chứng khoán là:",
+        "options": {
+            "A": "Thanh tra chuyên ngành về chứng khoán và thị trường chứng khoán",
+            "B": "Thanh tra hành chính về chứng khoán và thị trường chứng khoán",
+            "C": "Thanh tra nhà nước về chứng khoán và thị trường chứng khoán",
+            "D": "Cả a và b",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 90,
+        "question": "Người có thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực chứng khoán là",
+        "options": {
+            "A": "Chủ tịch Ủy ban Chứng khoán Nhà nước",
+            "B": "Chánh thanh tra Ủy ban Chứng khoán Nhà nước",
+            "C": "Trưởng đoàn thanh tra chuyên ngành chứng khoán",
+            "D": "Cả a và b",
+            "E": "Cả a, b và c"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 91,
+        "question": "Người nội bộ của công ty đại chúng, công ty đầu tư chứng khoán đại chúng, quỹ đại chúng và người có liên quan của các đối tượng này phải công bố thông tin",
+        "options": {
+            "A": "Trước khi giao dịch cổ phiếu, quyền mua cổ phiếu, trái phiếu chuyển đổi, quyền trái phiếu chuyển đổi, chứng chỉ quỹ,  quyền  mua chứng chỉ quỹ hoặc chứng  quyền có đảm  bảo dựa trên chứng khoán của công ty đại chúng, công ty đầu tư chứng khoán đại chúng, quỹ đại chúng",
+            "B": "Sau khi giao dịch cổ phiếu, quyền mua cổ phiếu, trái phiếu chuyển đổi, quyền trái phiếu chuyển đổi, chứng chỉ quỹ,  quyền  mua chứng chỉ quỹ hoặc chứng  quyền có đảm  bảo dựa trên chứng khoán của công ty đại chúng, công ty đầu tư chứng khoán đại chúng, quỹ đại chúng",
+            "C": "Khi có thay đổi sở hữu đối với cổ phiếu, quyền mua cổ phiếu, trái phiếu chuyển đổi, quyền trái phiếu chuyển đổi, chứng chỉ quỹ, quyền mua chứng chỉ quỹ hoặc chứng quyền có đảm bảo dựa trên chứng khoán của công ty đại chúng, công ty đầu tư chứng khoán đại chúng, quỹ đại chúng",
+            "D": "Cả a và b",
+            "E": "Cả a, b và c"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 92,
+        "question": "Theo quy định hiện nay, người hành nghề chứng khoán có hành vi vi phạm quy định về nhận lệnh và thực hiện lệnh giao dịch của khách hàng, sẽ bị xử phạt như sau: \nI.  70 – 100 triệu đồng \nII.  100 – 150 triệu đồng \nIII.  150 – 200 triệu đồng \nIV.  Tước quyền sử dụng chứng chỉ hành nghề chứng khoán trong thời hạn từ 01 đến 03 tháng \nV.  Đình chỉ hoạt động kinh doanh, dịch vụ chứng khoán của tổ chức kinh doanh trong thời gian từ 01 đến 03 tháng \nPhương án:",
+        "options": {
+            "A": "I, IV",
+            "B": "II, IV",
+            "C": "III, IV, V",
+            "D": "II, IV, V",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 93,
+        "question": "Theo quy định hiện nay, khi mượn, thuê chứng chỉ hành nghề chứng khoán hoặc cho mượn, cho thuê chứng chỉ hành nghề chứng khoán sẽ bị phạt như sau: \nI.  50 – 70 triệu đồng \nII.  70 – 100 triệu đồng \nIII.  100 – 150 triệu đồng \nIV.  Tước quyền sử dụng chứng chỉ hành nghề chứng khoán trong thời hạn từ 01 đến 03 tháng \nV.  Đình chỉ hoạt động kinh doanh, dịch vụ chứng khoán của tổ chức inh doanh trong thời gian từ 01 đến 03 tháng \nPhương án:",
+        "options": {
+            "A": "I, IV",
+            "B": "II, V",
+            "C": "III, IV",
+            "D": "III, IV, V",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 94,
+        "question": "Theo quy định hiện nay, khi sử dụng tài khoản, tài sản của khách hàng khi không được khách hàng ủy thác hoặc không đúng nội dung ủy thác; sử dụng tài khoản hoặc tiền, chứng khoán trên tài khoản của khách hàng khi chưa được công ty chứng khoán ủy quyền theo sự ủy thác của khách hàng cho công ty chứng khoán bằng văn bản, người hành nghề chứng khoán sẽ bị phạt và áp dụng biện pháp khắc phục sau: \nI.  100 – 200 triệu đồng \nII.  200 – 300 triệu đồng \nIII.  400 – 500 triệu đồng \nIV.  Tước quyền sử dụng chứng chỉ hành nghề chứng khoán trong thời hạn từ 06 tháng đến 12 tháng \nV.  Buộc hoàn trả chứng khoán tiền thuộc sở hữu của khách hàng thời gian tối đa 60 ngày kể từ ngày quyết định áp dụng biện pháp này có hiệu lực thi hành đối với hành vi vi phạm nói trên \nPhương án:",
+        "options": {
+            "A": "I, IV",
+            "B": "II, IV, V",
+            "C": "III, IV",
+            "D": "III, IV, V",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 95,
+        "question": "Theo quy định hiện nay, khi có hành vi môi giới giao dịch vay, mượn tài sản giữa các khách hàng và bên thứ ba, trừ trường hợp vay chứng khoán để sửa lỗi giao dịch hoặc vay để thực hiện các giao dịch hoán đổi chứng chỉ quỹ hoán đổi danh mục, người hành nghề chứng khoán sẽ bị phạt: \nI.  150 – 200 triệu đồng \nII.  200 – 250 triệu đồng \nIII.  300 – 400 triệu đồng \nIV.  Tước quyền sử dụng chứng chỉ hành nghề chứng khoán trong thời hạn từ 06 tháng đến 12 tháng \nV.  Buộc hoàn trả chứng khoán tiền thuộc sở hữu của khách hàng thời gian tối đa 60 ngày kể từ ngày quyết định áp dụng biện pháp này có hiệu lực thi hành đối với hành vi vi phạm nói trên \nPhương án:",
+        "options": {
+            "A": "I, IV",
+            "B": "II, IV, V",
+            "C": "I, IV, V",
+            "D": "III, IV",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 96,
+        "question": "Giả sử tỷ lệ ký quỹ trên tài khoản ký quỹ là 50%. Một khách hàng mua 2000 cổ phiếu của công ty niêm yết A với giá trị là 100.000 VNĐ/cổ phiếu. Sau đó, giá cổ phiếu A giảm xuống còn mức 70.000 đồng/cổ phiếu. Quy định hiện hành về mức duy trì ký quỹ bắt buộc là 30%. Vậy công ty chứng khoán có thể yêu cầu ký quỹ bổ sung là:",
+        "options": {
+            "A": "10 triệu đồng",
+            "B": "6 triệu đồng",
+            "C": "8 triệu đồng",
+            "D": "2 triệu đồng",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 97,
+        "question": "Theo quy định hiện hành, công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài ở Việt Nam bị phạt tiền từ 50 – 70 triệu đồng khi thực hiện những hành vi vi phạm sau: \nI. Không thu thập, tìm hiểu, cập nhật đầy đủ thông tin về khách hàng, trừ trường hợp khách hàng không cung cấp đầy đủ thông tin, không cung cấp thông tin đầy đủ, trung thực cho khách hàng theo quy định pháp luật\nII. Không lưu giữ đầy đủ hồ sơ thông tin khách hàng, không lưu giữ đầy đủ hồ sơ, dữ liệu, tài liệu, chứng từ liên quan đến hoạt động của công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài ở Việt Nam; hồ sơ, dữ liệu, tài liệu, chứng từ lưu giữ không phản ánh chi tiết, chính xác các giao dịch chứng khán và nhận ở tài khoản giao dịch chứng khoán cho nhà đầu tư trong nước \nIII. Đưa ra nhận định hoặc đảm bảo với khach hàng về mức thu nhập hoặc lợi nhuận đạt được trên khoản đầu tư của mình hoặc đảm bảo khách hàng không bị thua lỗ, trừ trường hợp đầu tư vào chứng khoán có thu nhập cố định \nPhương án:",
+        "options": {
+            "A": "I, II",
+            "B": "I",
+            "C": "II, III",
+            "D": "I, III",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 98,
+        "question": "Theo quy định hiện hành, công ty quản lý quỹ bị phạt tiền từ 50 – 70 triệu đồng khi thực hiện hành vi vi phạm sau: \nI.  Không ký kết hợp đồng bằng văn bản với khách hàng khi cung cấp dịch vụ cho khách hàng hoặc hợp đồng ký kết với khách hàng không có đầy đủ nội dung theo quy định của pháp luật \nII.  Không tuân thủ điều lệ quỹ đầu tư, điều lệ công ty đầu tư chứng khoán, hợp đồng quản lý đầu tư \nIII.  Vi phạm về việc cho vay hoặc giao vốn của công ty cho tổ chức, cá nhân \nIV.  Thực hiện giao dịch tài sản cho khách hàng ủy thác đầu tư với khối lượng, giá trị giao dịch trong năm thông qua một công ty chứng khoán vượt qua giới hạn về tỉ lệ tổng khối lượng, giá trị giao dịch trong năm của khách hàng ủy thác \nPhương án:",
+        "options": {
+            "A": "I, II",
+            "B": "I, III",
+            "C": "II, III",
+            "D": "I, II và III",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 99,
+        "question": "Theo quy định hiện hành, công ty chứng khoán bị phạt tiền từ 50 – 70 triệu đồng khi thực hiện hành vi vi phạm sau: \nI.  Không tuân thủ quy định của pháp luật chứng khoán, pháp luật doanh nghiệp về quản trị, điều hành đối với công ty chứng khoán không phải là công ty đại chúng, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam \nII.  Không ban hành đầy đủ các quy trình nội bộ, quy trình nghiệp vụ, quy trình kiểm soát nội bộ và quản trị rủi ro, quy tắc đạo đức hành nghề phù hợp với nghiệp vụ kinh doanh, dịch vụ cung cấp \nIII.  Vi phạm quy định về mở tài khoản giao dịch chứng khoán cho khách hàng \nIV.  Vi phạm quy định về ủy thác quản lý giao dịch chứng khoán của nhà đầu tư cá nhân \nPhương án:",
+        "options": {
+            "A": "I, II",
+            "B": "I, II, III",
+            "C": "I",
+            "D": "III, IV",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 100,
+        "question": "Hình thức xử lý vi phạm người hành nghề chứng khoán khi sử dụng tài khoản, tài sản của khách hàng khi không được khách hàng ủy thác hoặc không đúng nội dung ủy thác; sử dụng tài khoản hoặc tiền, chứng khoán trên tài khoản của khách hàng khi chưa được công ty chứng khoán ủy quyền theo sự ủy thác của khách hàng cho công ty chứng khoán bằng văn bản là: \nI.  Khiển trách \nII.  Cảnh cáo \nIII.  Bị phạt tiền \nIV.  Bị trước quyền sử dụng chứng chỉ hành  nghề chứng khoán trong thời  hạn từ  06 tháng đến 12 tháng \nPhương án:",
+        "options": {
+            "A": "I, IV",
+            "B": "I, III, IV",
+            "C": "II, IV",
+            "D": "III, IV",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 101,
+        "question": "Theo quy định hiện nay, các hành vi mà UBCKNN có thẩm quyền xử lý người hành nghề chứng khoán vi phạm pháp luật là: \nI.  Cảnh cáo \nII.  Phạt tiền \nIII.  Áp dụng biện pháp khắc phục hậu quả \nIV.  Áp dụng biện pháp xử phạt bổ sung \nPhương án:",
+        "options": {
+            "A": "II, III, IV",
+            "B": "I, II, IV",
+            "C": "I, II, III",
+            "D": "I, II, IV",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 102,
+        "question": "Trong hoạt động của văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam, hành vi vi phạm làm đại diện cho tổ chức khác, thực hiện chuyển nhượng giấy chứng nhận đăng ký hoạt động văn phòng đại diện cho tổ chức, cá nhân khác bị xử lý như sau: \nI.  Phạt từ 50 triệu đồng đến 70 triệu đồng \nII.  Phạt từ 70 triệu đồng đến 100 triệu đồng \nIII.  Đình chỉ hoạt động văn phòng đại diện trong thời hạn từ 01 tháng đến 03 tháng \nIV.  Tịch thu giấy chứng nhận đăng ký hoạt động văn phòng đại diện \nPhương án:",
+        "options": {
+            "A": "II, III, IV",
+            "B": "I, III",
+            "C": "II, III",
+            "D": "I, II, IV",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 103,
+        "question": "Hành vi thực hiện một hoặc một số giao dịch nhằm che giấu thông tin về quyền sở hữu thực sự đối với một chứng khoán để trốn tránh hoặc để hỗ trợ người khác trốn tránh nghĩa vụ công bố thông tin theo quy định hoặc nghĩa vụ phải tuân thủ trong thực hiện chào mua công khai hoặc quy định phải tuân thủ về tỷ lệ sở hữu nước ngoài trên thị trường chứng khoán Việt Nam bị xử lý như sau: \nI.  Cảnh cáo \nII.  Phạt tiền từ 400 triệu đồng đến 500 triệu đồng \nIII.  Phạt tiền từ 500 triệu đồng đến 600 triệu đồng \nIV.  Tước quyền sử dụng chứng chỉ hành nghề chứng khoán trong thời hạn từ 18 tháng đến 24 tháng \nV.  Buộc nộp lại số lợi nhuận bất hợp pháp có được do hành vi vi phạm nói trên \nPhương án:",
+        "options": {
+            "A": "III, IV",
+            "B": "II, IV, V",
+            "C": "III, IV, V",
+            "D": "IV, V",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 104,
+        "question": "Hành vi vi phạm ghi nhận không chính xác tài sản, các quyền tài sản và các lợi ích có liên quan đến tài sản và các lợi ích có liên quan đến tài sản nhận lưu ký của khách hàng; hạch toán tài khoản trên tài sản lưu  ký chứng khoán, tài khoản vị thế hoặc tài khoản ký quỹ; thanh toán không  đúng  thời  hạn.  thực  hiện  chuyển  quyền  sở  hữu  chứng  khoán  đã  đăng  ký  không  qua Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; thành viên lưu ký, thành viên bù trừ và nhân viên sẽ bị xử lý như sau: \nI.  Phạt tiền từ 100 triệu đồng đến 150 triệu đồng đối với thành viên lưu ký và thành viên bù trừ; phạt tiền từ 50 triệu đồng đến 75 triệu đồng đối với nhân viên thành viên lưu ký, thành viên bù trừ \nII.  Phạt tiền từ 200 triệu đồng đến 300 triệu đồng đối với thành viên lưu ký và thành viên bù trừ; phạt tiền từ 75 triệu đồng đến 100 triệu đồng đối với nhân viên thành viên lưu ký, thành viên bù trừ \nIII.  Đình chỉ hoạt động lưu ký chứng khoán đối với thành viên lưu ký, bù trừ vi phạm \nIV.  Tước quyền sử dụng chứng chỉ hành nghề từ 01 tháng đến 03 tháng đối với người hành nghề vi phạm \nPhương án:",
+        "options": {
+            "A": "I, III, IV",
+            "B": "II, III, IV",
+            "C": "I, IV",
+            "D": "I, III",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 105,
+        "question": "Hành vi trực tiếp hoặc gián tiếp mua hoặc cam kết mua cổ phiếu, quyền mua cổ phần và trái phiếu chuyển đổi của công ty mục tiêu hoặc chứng chỉ quỹ đầu tư mục tiêu, quyền mua chứng chỉ quỹ của quỹ đầu tư mục tiêu bên ngoài đợt chào mua công khai bị xử lí vi phạm như sau: \nI.  Phạt tiền từ 100 triệu đồng đến 150 triệu đồng \nII.  Phạt tiền từ 200 triệu đồng đến 300 triệu đồng \nIII.  Đình chỉ hoạt động chào mua công khai trong thời gian từ 01 tháng đến 03 tháng \nIV.  Đình chỉ hoạt động chào mua công khai trong thời gian từ 03 tháng đến 06 tháng \nV.  Buộc nộp số lợi nhuận bất hợp pháp thu được từ hành vi trên \nPhương án:",
+        "options": {
+            "A": "II, III",
+            "B": "I, III",
+            "C": "II, IV",
+            "D": "I, III, V",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 106,
+        "question": "Hành vi làm giả giấy tờ, xác nhận trên giấy tờ giả mạo chứng minh đủ điều kiện niêm yết chứng khoán trong hồ sơ đăng ký niêm yết chứng khoán hoặc làm giả giấy tờ, xác nhận trên giấy tờ giả mạo trong hồ sơ đăng ký giao dịch chứng khoán sẽ bị xử lý như sau: \nI.  Phạt tiền từ 1 tỷ đồng đến 2 tỷ đồng \nII.  Phạt tiền từ 2.5 tỷ đồng đến 3 tỷ đồng \nIII.  Tịch thu tang vật vi phạm hành chính, phương tiện được sử dụng để vi phạm hành chính là giấy tờ giả mạo đối với hành vi vi phạm này \nIV.  Buộc nộp lại số lợi bất hợp pháp thu được từ hành vi này \nPhương án:",
+        "options": {
+            "A": "I, III, IV",
+            "B": "II, III, IV",
+            "C": "II, III",
+            "D": "I, IV",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 107,
+        "question": "Báo cáo tổng hợp thông tin tài chính theo quy ước là:",
+        "options": {
+            "A": "Báo cáo tài chính được lập để minh họa ảnh hưởng của sự kiện hoặc giao dịch trọng yếu đến thông tin tài chính chưa điều chỉnh của đơn vị với giả định sự kiện đã xảy ra hoặc giao dịch đã được thực hiện tại một ngày trước đó được chọn cho mục đích minh họa theo hướng dẫn của Bộ Tài chính",
+            "B": "Báo cáo được lập để minh họa ảnh hưởng của sự kiện hoặc giao dịch trọng yếu đến thông tin tài chính chưa điều chỉnh của đơn vị với giả định sự kiện đã xảy ra hoặc giao dịch đã được thực hiện tại một ngày trước đó được chọn cho mục đích minh họa theo hướng dẫn của Bộ Tài chính",
+            "C": "Báo cáo được lập để nêu rõ ảnh hưởng của sự kiện hoặc giao dịch liên quan đến thông tin tài chính chưa điều chỉnh của đơn vị với giả định sự kiện đã xảy ra hoặc giao dịch được thực hiện tài một ngày trước đó được chọn cho mục đích minh họa theo hưỡng dẫn của Bộ Tài chính",
+            "D": "Báo cáo được lập để minh họa ảnh hưởng của sự kiện trọng yếu đến thông tin tài chính chưa điều chỉnh của đơn vị với giả định sự kiện đã xảy ra hoặc giao dịch được thực hiện tài một ngày trước đó được chọn cho mục đích minh họa theo hưỡng dẫn của Bộ Tài chính",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 108,
+        "question": "Ngày kết thúc đợt phát hành cổ phiếu để hoán đổi là:",
+        "options": {
+            "A": "Ngày chốt danh sách cổ đông, thành viên để hoán đổi",
+            "B": "Ngày được tổ chức phát hành xác định để hoán đổi cổ phiếu của tổ chức phát hành với khoản nợ của tổ chức phát hành với chủ nợ",
+            "C": "Ngày được tổ chức phát hành xác định để hoán đổi cổ phiếu của tổ chức phát hành với cổ phần, phần vốn góp của tổ chức, cá nhân khác",
+            "D": "Ngày đăng ký cuối cùng để phân bổ quyền",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 109,
+        "question": "Nhà đầu tư chứng khoán chuyên nghiệp là nhà đầu tư sau:",
+        "options": {
+            "A": "Cá nhân có thu nhập chịu thuế năm gần nhất tối thiểu là 2 tỷ đồng đến thời điểm cá nhân đó được xác định tư cách là nhà đầu tư chứng khoán chuyên nghiệp theo hồ sơ khai thuế đã nộp cho cơ quan thuế hoặc chứng từ khấu từ thuế của tổ chức, cá nhân chi trả",
+            "B": "Cá nhân có thu nhập chịu thuế năm gần nhất tối thiểu là 1 tỷ đồng đến thời điểm cá nhân đó được xác định tư cách là nhà đầu tư chứng khoán chuyên nghiệp theo hồ sơ khai thuế đã nộp cho cơ quan thuế hoặc chứng từ khấu từ thuế của tổ chức, cá nhân chi trả",
+            "C": "Công ty có vốn điều lệ đã góp đạt trên 150 tỷ đồng hoặc tổ chức niêm yết, tổ chức đăng ký giao dịch",
+            "D": "Công ty có vốn điều lệ đã góp đạt trên 100 tỷ đồng hoặc tổ chức niêm yết, tổ chức đăng ký giao dịch",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 110,
+        "question": "Một trong những điều kiện chào bán trái phiếu có bảo đảm ra công chúng là được bảo đảm thanh toán một phần hoặc toàn bộ gốc và lãi trái phiếu bằng một hoặc một số phương thức sau: \nI.  Bảo lãnh thanh toán của tổ chức tính dụng, chi nhánh ngân hàng nước ngoài \nII.  Bảo đảm bằng nguồn thu của tổ chức phát hành. Nguồn thu của tổ chức phát hành phải đủ thanh toán gốc và lãi trái phiếu \nIII.  Bảo đảm bằng cam kết của bên thứ ba. Cam kết phải cụ thể trách nhiệm của từng bên \nIV.  Bảo đảm bằng tài sản của tổ chức phát hành, tài sản của bên thứ ba. Tài sản bảo đảm phải được định giá bởi tổ chức có chức năng thẩm định giá và được đăng ký, xử lý theo quy định của pháp luật về đăng ký giao dịch bảo đảm \nPhương án:",
+        "options": {
+            "A": "I, II",
+            "B": "I, III",
+            "C": "II, IV",
+            "D": "III, IV",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 111,
+        "question": "Công ty đại chúng mua lại cổ phiếu của chính mình được bán ra cổ phiếu ngay sau khi mua lại trong các trường hợp sau đây \nI.  Công ty chứng khoán mua lại cổ phiếu của chính mình để sửa lỗi giao dịch hoặc mua lại cổ phiếu lô lẻ \nII.  Công ty đại chúng mua lại cổ phiếu lô lẻ \nIII.  Công ty đại chúng mua lại cổ phiếu lô lẻ theo phương án phát hành cổ phiếu để trả cổ tức, phương án phát hành cổ phiếu từ nguồn vốn chủ sở hữu \nIV.  Công ty đại chúng mua lại cổ phiếu lô lẻ theo yêu cầu của cổ đông \nPhương án:",
+        "options": {
+            "A": "I, III, IV",
+            "B": "II, III, IV",
+            "C": "II, III",
+            "D": "III, IV",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 112,
+        "question": "Trừ trường hợp mua lại cổ phiếu tương ứng với tỷ lệ sở hữu trong công ty hoặc mua lại cổ phiếu theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật, quyết định của Trọng tài hoặc mua lại cổ phiếu thông qua giao dịch thực  hiện theo phương thức  khớp lệnh, công ty không được mua lại cổ phiếu của đối tượng nào sau đây: \nI.  Người nội bộ và người có liên quan đến người nội bộ theo quy định của Luật chứng khoán \nII.  Người sở hữu cổ phiếu có hạn chế chuyển nhượng theo quy định của pháp luật và Điều lệ công ty \nIII.  Cổ đông lớn theo quy định của Luật chứng khoán \nIV.  Người lao động của công ty \nPhương án:",
+        "options": {
+            "A": "I, II",
+            "B": "II, III",
+            "C": "I, II, III",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 113,
+        "question": "Khi được Đại hội đồng cổ đông ủy quyền theo quy định tại điều lệ công ty, Hội đồng quản trị chỉ được thay đổi phương án sử dụng vốn, số tiền thu được từ đợt chào bán, đợt phát hành với giá trị thay đổi là bao nhiêu? (trừ trường hợp chào bán trái phiếu không chuyển đổi, không kèm chứng quyền theo phương án được Hội đồng quản trị thông qua)",
+        "options": {
+            "A": "Giá trị thay đổi nhỏ hơn 70% số vốn, số tiền thu được từ đợt chào bán, đợt phát hành",
+            "B": "Giá trị thay đổi nhỏ hơn 50% số vốn, số tiền thu được từ đợt chào bán, đợt phát hành",
+            "C": "Khi được Đại hội đồng cổ đông ủy quyền, Hội đồng quản trị được thay đổi toàn bộ phương án sử dụng số tiền thu được từ đợt chào bán và thực hiện báo cáo Đại hội đồng cổ đồng tại cuộc họp gần nhất",
+            "D": "Hội đồng quản trị không được thay đổi phương án sử dụng vốn, số tiền thu được từ đợt chào bán, phát hành sau khi hoàn thành đợt chào bán, phát hành",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 114,
+        "question": "Tất cả  các câu sau đều  mô tả đúng việc  xử  lý  cổ phiếu nhà đầu tư  không đăng ký mau, không nộp tiền mua, số cổ phiếu lẻ, ngoại trừ:",
+        "options": {
+            "A": "Tổ chức phát hành hiện thực phân phối số cổ phiếu nhà đầu tư không đăng ký, không nộp tiền mua số cổ phiếu lẻ cho một hoặc một số nhà đầu tư xác định phải bảo đảm điều kiện chào bán, điều kiện có quyền, nghĩa vụ của nhà đầu tư không thuận lợi hơn so với điều kiện chào bán cho cổ đông hiện hữu, trừ trường hợp Đại hội cổ đông có chấp thuận khác;",
+            "B": "Đại hội cổ đông hoặc Hội đồng quản trị phải xác định tiêu chí, danh sách nhà đầu tư được mua cổ phiếu. Sổ cổ phiếu này bị hạn chế chuyển nhượng trong thời gian tối thiếu 1 năm kể từ ngày kết thúc đợt chào bán;",
+            "C": "Việc phân phối cổ phiếu cho tổ chức, cá nhân và người có liên quan dẫn đến tỷ lệ sở hữu của các đối tượng này vượt mức sở hữu theo quy định của Luật Chứng khoán về chào mua công khai phải được Đại hội cổ đông thông qua;",
+            "D": "Khi được Đại hội cổ đông ủy quyền, Hội đông quản trị được phân phối tiếp cổ phiếu cho nhà đầu tư bao gồm cả chào bán cho tổ chức, cá nhân và người có liên quan từ 10% vốn điều lệ trở lên của tổ chức phát hành trong một đợt chào bán hoặc trong các đợt chào bán, phát hành trong 12 tháng gần nhất",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 115,
+        "question": "Công ty đại chúng đăng ký chào bán thêm cổ phiếu ra công chúng với giá thấp hơn mệnh giá, giá dự kiến chào bán được xác định như thế nào?",
+        "options": {
+            "A": "Lấy ý kiến Đại hội cổ đông căn cứ trên bảng thống kê giá tham chiếu cổ phiếu của 20 ngày giao dịch liên tiếp trước ngày chốt danh sách cổ đông",
+            "B": "Giá dự kiến chào bán là giá tham chiếu cổ phiếu trong tối thiếu 30 ngày và tối đa 60 ngày giao dịch liên tiếp liền tiếp ngày chốt danh sách cổ đông",
+            "C": "Lấy ý kiến Đại hội cổ đông căn cứ trên bảng thống kê giá tham chiếu cổ phiếu của 60 ngày giao dịch liên tiếp liền trước ngày chốt danh sách cổ đông hoặc họp Đại hội cổ đông thông qua phương án phát hành có xác nhận của tổ chức tư vấn hồ sơ đăng ký chào bán cổ phiếu ra công chúng",
+            "D": "Tất cả các phương án trên không đúng",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 116,
+        "question": "Khi đăng ký chào bán trái phiếu ra công chúng, Tổ chức phát hành hoặc trái phiếu đăng ký chào bán phải được xếp hạng tín nhiệm bởi tổ chức xếp hạng tín nhiệm được Bộ Tài chính cấp Giấy chứng nhận đủ điều kiện kinh doanh trong các trường hợp nào? \nI.  Tổng giá trị trái phiếu theo mệnh giá huy động trong mỗi 12 tháng lớn hơn 1 tỷ đồng và lớn hơn 100% vốn chủ sở hữu căn cứ trên báo cáo tài chính kỳ gần nhất \nII.  Tổng giá trị trái phiếu theo mệnh giá huy động trong mỗi 12 tháng lớn hơn 500 tỷ đồng và lớn hơn 50% vốn chủ sở hữu căn cứ trên báo cáo tài chính kỳ gần nhất \nIII.  Tổng dư nợ trái phiếu theo mệnh giá tính đến thời điểm đăng ký chào bán lớn hơn 100% vốn chủ sở hữu căn cứu trên báo cáo tài chính gần nhất \nIV.  Tổng dư nợ trái phiếu theo mệnh giá tính đến thời điểm đăng ký chào bán lớn hơn 50% vốn chủ sở hữu căn cứu trên báo cáo tài chính gần nhất",
+        "options": {
+            "A": "I hoặc III",
+            "B": "II hoặc III",
+            "C": "I hoặc IV",
+            "D": "II hoặc IV",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 117,
+        "question": "Tổ chức tài chính quốc tế chào bán trái phiếu ra công chúng bằng đồng Việt Nam, trái phiếu chào bán là trái phiếu có kỳ hạn:",
+        "options": {
+            "A": "2 năm trở lên",
+            "B": "Không dưới 5 năm",
+            "C": "Từ 5 năm đến 10 năm",
+            "D": "Không dưới 10 năm",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 118,
+        "question": "Công ty đại chúng chào bán cổ phiếu riêng lẻ với giá trị thấp hơn mệnh giá:",
+        "options": {
+            "A": "Đối tượng tham gia đợt chào bán chỉ bao gồm nhà đầu tư chứng khoán chuyên nghiệp và việc chuyển nhượng cổ phiếu bị hạn chế tối thiểu là 3 năm kể từ ngày kết thúc đợt chào bán",
+            "B": "Đối tượng tham gia đợt chào bán chỉ bao gồm nhà đầu tư chiến lược và việc chuyển nhượng cổ phiếu bị hạn chế tối thiểu là 3 năm kể từ ngày kết thúc đợt chào bán",
+            "C": "Đối tượng tham gia đợt chào bán có thể là nhà đầu tư chiến lược và hoặc nhà đầu tư chứng khoán chuyên nghiệp và việc chuyển nhượng cổ phiếu bị hạn chế tối thiểu là 3 năm kể từ ngày kết thúc đợt chào bán",
+            "D": "Đối tượng tham gia đợt chào bán chỉ bao gồm nhà đầu tư chứng khoán chuyên nghiệp và việc chuyển nhượng cổ phiếu bị hạn chế tối thiểu là năm kể từ ngày kết thúc đợt chào bán",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 119,
+        "question": "Tổ chức thực hiện bảo lãnh phát hành chứng khoán ra công chúng phải đáp ứng điều kiện nào sau đây: \nI.  Được UBCKNN cấp phép thực hiện hoạt động bảo lãnh phát hành chứng khoán theo quy định của Luật Chứng khoán \nII.  Đáp ứng các chỉ tiêu an toàn tài chính theo quy định của pháp luật \nIII.  Có vốn điều lệ trên 100 tỷ và không có nợ quá hạn căn cứ BCTC gần nhất \nIV.  Không phải là người có liên quan với tổ chức phát hành",
+        "options": {
+            "A": "I, II và III",
+            "B": "I, II và IV",
+            "C": "I, III và IV",
+            "D": "Tất cả các phương án trên",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 120,
+        "question": "Đối với trường hợp phát hành cổ phiếu theo chương trình lựa chọn cho người lao động tài liệu báo cáo kết quả đợt phát hành gửi UBCKNN kèm theo tài liệu nào? \nI.  Quy chế phát hành ESOP \nII.  Danh sách người lao động tham gia chương trình trong đó nêu cụ thể về số lượng cổ phiếu của từng người lao động đã nộp tiền mua hoặc được phân phối (đối với trường hợp phát hành cổ phiếu thưởng cho người lao động) \nIII.  Văn bản xác nhận của ngân hàng chi nhánh ngân hàng nước ngoài nơi mở tài khoản phong tỏa về số tiền thụ hưởng được từ đợt phát hành, trừ trường hợp phát hành cổ phiếu thưởng cho người lao động \nIV.  Văn bản xác định tỷ lệ sở hữu nước ngoài trong trường hợp phát hành cho người lao động là nhà đầu tư nước ngoài",
+        "options": {
+            "A": "I, II và III",
+            "B": "II, III và IV",
+            "C": "II và III",
+            "D": "III",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 121,
+        "question": "Tài liệu nào sau đây không thuộc hồ sơ đăng ký chào mua công khai:",
+        "options": {
+            "A": "Văn bản của công ty chứng khoán xác nhận làm đại lý chào mua công khai",
+            "B": "Quyết định của cấp có thẩm quyền của tổ chức đăng ký chào mua công khai thông qua việc chào mua công khai",
+            "C": "Giấy xác nhận bảo lãnh thanh toán của tổ chức tín dụng đối với tổ chức, cá nhân chào mua công khai hoặc giấy xác nhận phong tỏa tài khoản ngân hàng của tổ chức cá nhân chào mua công khai đảm bảo tổ chức, cá nhân có đủ tiền để thực hiện chào mua công khai",
+            "D": "Báo cáo tài chính năm gần nhất được kiểm toán của tổ chức chào mua",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 122,
+        "question": "Nguyên tắc xác định giá chào mua công khai đối với trường hợp chào mua công khai thanh toán bằng tiền bao gồm: \nI.  Giá chào mua không được thấp hơn bình quân giá tham chiếu của 60 ngày giao dịch liền trước ngày gửi giấy đăng ký chào mua công khai và không thấp hơn giá mua cao nhất của các đợt chào mua công khai đối với cổ phiếu, chứng chỉ quỹ của công ty mục tiêu, quỹ đầu tư mục tiêu trong thời gian này \nII.  Trong quá trình chào mua công khai, tổ chức, cá nhân công khai không được điều chỉnh giảm giá mua công khai \nIII.  Trong giá trình chào mua công khai, tổ chức, cá nhân công khai không được điều chỉnh tăng giá mua công khai \nIV.  Giá chào mua không được thấp hơn bình quân giá tham chiếu của 30 ngày giao dịch liền trước ngày gửi giấy đăng ký chào mua công khai và không thấp hơn giá mua cao nhất của các đợt chào mua công khai đối với cổ phiếu, chứng chỉ quỹ của công ty mục tiêu, quỹ đầu tư mục tiêu trong thời gian này",
+        "options": {
+            "A": "I và II",
+            "B": "III và IV",
+            "C": "I",
+            "D": "I và III",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 123,
+        "question": "Các câu sau đây mô tả về cổ phiếu quỹ, NGOẠI TRỪ:",
+        "options": {
+            "A": "Cổ phiếu quỹ là cổ phiếu đã phát hành bởi công ty cổ phần và được mua lại bởi chính công ty đó",
+            "B": "Công ty đại chúng có phiếu quỹ đã mua trước thời điểm Luật chứng khoán số 54/2019/QH14 có hiệu lực được bán cổ phiểu quỹ, dùng cổ phiếu quỹ làm cổ phiếu thưởng theo quy định của Luật Chứng khoán số 70/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật Chứng khoán số 62/2010/QH12 và các văn bản quy định chi tiết thi hành các văn bản trên. Các công ty trên không được mua lại cổ phiếu của chính mình cho đến khi hoàn thành việc xử lý số cổ phiếu quỹ hiện có",
+            "C": "Kể từ thời điểm Luật Chứng khoán số 54/2019/QH14 có hiệu lực, công ty đại chúng không được phép bán cổ phiếu quỹ và phải làm thủ tục giảm vốn điều lệ tương ứng với tổng giá trị tính theo mệnh giá của cổ phiếu cũ hiện có",
+            "D": "Công ty đại chúng thực hiện mua lại cổ phiếu của chính mình theo quy định của Luật chứng khoán số 54/2019/QH14 phải làm thủ tục giảm vốn điều lệ tương ứng với tổng giá trị tính theo mệnh giá của cổ phiếu được công ty mua lại trong thời hạn 10 ngày kể từ ngày hoàn thành việc thanh toán mua lại cổ phiếu",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 124,
+        "question": "Công ty bị chia chấm dứt sự tồn tại trong trường hợp nào?",
+        "options": {
+            "A": "Được cơ quan có thẩm quyền chấp nhận",
+            "B": "Được cơ quan có thẩm quyền cấp giấy chứng nhận đăng ký kinh doanh",
+            "C": "Được cơ quan đăng ký kinh doanh cập nhật tình trạng pháp lý của công ty bị chia",
+            "D": "Công ty mới được cấp Giấy chứng nhận đăng ký kinh doanh",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 125,
+        "question": "Tổ chức nào được quyền nắm giữ cổ phần ưu đãi có quyền biểu quyết?",
+        "options": {
+            "A": "Tổ chức được Chính phủ ủy quyền và cổ đông sáng lập",
+            "B": "Tổ chức được Chính phủ cấp giấy phép và cổ đông phổ thông",
+            "C": "Tổ chức được Chính phủ chỉ định và cổ đông sáng lập",
+            "D": "Tổ chức được Chính phủ ủy quyền và cổ đông phổ thông",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 126,
+        "question": "Công ty cổ phần chỉ được trả cổ tức của cổ phần phổ thông khi có đủ điều kiện nào dưới đây?",
+        "options": {
+            "A": "Đã hoàn thành nghĩa vụ thuế",
+            "B": "Đã trích lập các quỹ công ty và bù trừ đắp lỗ trước đó theo quy định của pháp luật và điều kiện công ty",
+            "C": "Đã hoàn thành nghĩa vụ tài chính khác",
+            "D": "Đã thanh toán đủ các khoản nợ",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 127,
+        "question": "Công ty cổ phần thực hiện đăng ký thay đổi vốn điều lệ trong thời hạn bao nhiêu ngày kể từ ngày hoàn thành đợt chào bán?",
+        "options": {
+            "A": "10 ngày",
+            "B": "15 ngày",
+            "C": "20 ngày",
+            "D": "30 ngày",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 128,
+        "question": "Các cổ đông sáng lập phải cùng nhau đăng ký mua ít nhất bao nhiêu số cổ phần phổ thông được quyền chào bán khi đăng ký thành lập doanh nghiệp",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "30%",
+            "D": "35%",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 129,
+        "question": "Cổ đông sở hữu cổ phần ưu đãi cổ tức có quyền nào sau đây?",
+        "options": {
+            "A": "Nhận phần tài sản còn lại tương ứng với tỷ lệ sở hữu cổ phần tại công ty sau khi công ty đã thanh toán hết các khoản nợ, cổ phần ưu đãi hoàn lại khi công ty giải thể hoặc phá sản",
+            "B": "Tham dự phát biểu trong cuộc họp ĐHĐCĐ và thực hiện quyền biểu quyết trực tiếp hoặc thông qua người đại diện theo ủy quyền hoặc hình thức khác do Điều lệ công ty. Pháp luật quy định",
+            "C": "Ưu tiên mua cổ phần mới tương ứng với tỷ lệ cổ phần sở hữu trong công ty",
+            "D": "Biểu quyết về các vấn đề thuộc thẩm quyền của ĐHĐCĐ",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 130,
+        "question": "Chứng quyền là loại chứng khoán nào sau đây?",
+        "options": {
+            "A": "Chứng khoán được phát hành cùng với việc phát hành trái phiếu hoặc cổ phiếu ưu đãi, cho phép người sở hữu được quyền mua một số cổ phiếu cổ thông nhất định theo mức giá đã được xác định trước trong khoản thời gian xác định",
+            "B": "Chứng khoán có tài sản đảm bảo",
+            "C": "Chứng khoán do công ty cổ phần phát hành",
+            "D": "Chứng khoán được phát hành trên cơ sở chứng khoán khác của tổ chức được thành lập và hoạt động tại Việt Nam",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 131,
+        "question": "Nhà đầu tư nước ngoài là cá nhân được sở hữu bao nhiêu vốn điều lệ của công ty chứng khoán?",
+        "options": {
+            "A": "Dưới 49%",
+            "B": "49%",
+            "C": "Trên 49%",
+            "D": "51%",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 132,
+        "question": "Trường hợp xác định được ứng cử viên Hội đồng quản trị, Công ty đại chúng phải công bố thông tin liên quan đến các ứng cử viên tối thiểu bao nhiêu ngày?",
+        "options": {
+            "A": "3 ngày trước ngày gửi thông báo mời họp",
+            "B": "5 ngày trước ngày khai mạc họp ĐHĐCĐ",
+            "C": "10 ngày trước ngày gửi thông báo mời họp",
+            "D": "10 ngày trước ngày khai mạc họp ĐHĐCĐ",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 133,
+        "question": "Theo quy định của Luật Chứng khoán, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam có các quyền và nghĩa vụ nào sau đây, ngoại trừ:",
+        "options": {
+            "A": "Ban hành các quy chế đăng ký, lưu ký, bù trừ và thanh toán chứng khoán và các quy chế nghiệp vụ khác sau khi được UBCKNN chấp thuận",
+            "B": "Làm trung gian hòa giải khi có các tranh chấp liên quan đến hoạt động đăng ký, lưu ký, bù trừ và thanh toán chứng khoán của các thành viên lưu ký",
+            "C": "Chấp thuận, thay đổi, hủy bỏ tư cách thành viên lưu ks của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam; đình chỉ hoạt động lưu ký chứng khoán của thành viên lưu ký;",
+            "D": "Cung cấp dịch vụ đăng ký, lưu ký, bù trừ và thanh toán chứng khoán; đăng ký biện pháp đảm bảo đối với chứng khoán đã đăng ký tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam theo yêu cầu của khách hàng; cung cấp dịch vụ khác theo quy định tại Điều lệ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 134,
+        "question": "Trách nhiệm xác định Nhà đầu tư chứng khoán chuyên nghiệp tham gia mua chứng khoán khi thực hiện chào bán riêng lẻ, đăng ký lập Quỹ thành viên thuộc về:",
+        "options": {
+            "A": "Công ty chứng khoán",
+            "B": "Ủy ban Chứng khoán Nhà nước",
+            "C": "Tổ chức phát hành, công ty quản lý quỹ đầu tư chứng khoán",
+            "D": "Không phải các phương án trên",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 135,
+        "question": "Trong thời hạn bao lâu kể từ ngày được công ty chứng khoán xác định nhà đầu tư chứng khoán chuyên nghiệp, nhà đầu tư không phải thực hiện xác định lại Nhà đầu tư chứng khoán chuyên nghiệp tham gia mua chứng khoán khi thực hiện chào bán riêng lẻ, đăng ký lập quỹ thành viên:",
+        "options": {
+            "A": "06 tháng",
+            "B": "01 năm",
+            "C": "1,5 năm",
+            "D": "2 năm",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 136,
+        "question": "Trường hợp thay đổi, bổ nhiệm nhân sự. Thành viên lưu ký, thành viên bù trừ phải thông báo bằng văn bản cho Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam kể từ khi việc thay đổi có hiệu lực trong thời hạn",
+        "options": {
+            "A": "03 ngày",
+            "B": "05 ngày",
+            "C": "07 ngày",
+            "D": "10 ngày",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 137,
+        "question": "Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam đình chỉ hoạt động bù trừ, thanh toán chứng khoán đối với thành viên bù trừ của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam sau khi được Ủy ban Chứng khoán Nhà nước chấp thuận khi để xảy ra thiếu sót gây thiệt hại nghiệm trọng cho khách hàng tối đa:",
+        "options": {
+            "A": "30 ngày",
+            "B": "60 ngày",
+            "C": "90 ngày",
+            "D": "120 ngày",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 138,
+        "question": "Người được quyền mua cổ phần ưu đãi cổ tức, cổ phần ưu đãi hoàn lại và cổ phần ưu đãi khác do:  \nI.  Điều lệ công ty quy định \nII.  Đại hội đồng cổ đông quyết định \nIII.  Hội đồng Quản trị quyết định",
+        "options": {
+            "A": "I và II",
+            "B": "III",
+            "C": "I, II và III",
+            "D": "II",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 139,
+        "question": "Trưởng ban kiểm soát, kiểm soát viên bị cách chức khi không thực hiện nghĩa vụ,  nhiệm vụ, công việc được phân công (trừ trường hợp bất khả kháng) trong:",
+        "options": {
+            "A": "3 tháng liên tục",
+            "B": "6 tháng liên tục",
+            "C": "9 tháng liên tục",
+            "D": "1 năm liên tục",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 140,
+        "question": "Cuộc họp Đại hồng đồng cổ đông khi có tổng số cổ đông tham dự họp đại diện trên:",
+        "options": {
+            "A": "50% tổng số cổ phiếu biểu quyết",
+            "B": "51% tổng số cổ phiếu biểu quyết",
+            "C": "65% tổng số cổ phiếu biểu quyết",
+            "D": "70% tổng số cổ phiếu biểu quyết",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 141,
+        "question": "Nhiệm kỳ của Kiểm soát viên là 05 năm và cổ thể được bầu lại với số nhiệm kỳ:",
+        "options": {
+            "A": "Không hạn chế",
+            "B": "02 nhiệm kỳ",
+            "C": "03 nhiệm kỳ",
+            "D": "05 nhiệm kỳ",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 142,
+        "question": "Tổ chức hoặc cá nhân khi trở thành hoặc không còn là cổ đông lớn của công ty đại chúng, công ty đại chúng, công ty chứng khoán đại chúng phải công bố thông tin kể từ ngày trở thành hoặc không còn là cổ đông lớn trong thời hạn",
+        "options": {
+            "A": "3 ngày làm việc",
+            "B": "5 ngày làm việc",
+            "C": "7 ngày làm việc",
+            "D": "10 ngày làm việc",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 143,
+        "question": "Thời hạn tối đa có thể mà Công ty quản lý quỹ thực hiện huy động vốn của quỹ đại chúng kể từ ngày Giấy chứng nhận chào bán chứng chỉ quỹ ra công chúng có hiệu lực:",
+        "options": {
+            "A": "30 ngày",
+            "B": "60 ngày",
+            "C": "90 ngày",
+            "D": "120 ngày",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 144,
+        "question": "Thành viên lập quỹ của ETF có thể là: \nI.  Công ty quản lỹ quỹ \nII.  Công ty chứng khoán \nIII.  Ngân hàng lưu ký \nIV.  Tất cả các phương án tren \nPhương án:",
+        "options": {
+            "A": "I và II",
+            "B": "II và III",
+            "C": "I và III",
+            "D": "IV",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 145,
+        "question": "Lựa chọn đáp án sai trong những phương án dưới đây: \nCông ty chứng đầu tư chứng khoán:",
+        "options": {
+            "A": "Là quỹ đầu tư chứng khoán được tổ chức theo loại hình công ty cổ phần để đầu tư chứng khoán",
+            "B": "Phải ủy thác cho một công ty quản lý quỹ quản lý",
+            "C": "Không được thành lập chi nhánh văn phòng đại diện",
+            "D": "Được sử dụng trụ sở của công ty quản lý quỹ làm trụ sở chính",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 146,
+        "question": "Theo  quy  định  hiện  hành  của  pháp  luật  chứng  khoán,  khi  đầu  tư  vào  chứng  khoán  phái sinh, công ty quản lý quỹ: \nI.  Không bị hạn chế khi đầu tư vào chứng khoán phái sinh \nII.  Chỉ được đầu tư từ nguồn vốn ủy thác \nIII.  Chỉ được đầu tư nhằm mục đích phòng ngừa rủi ro \nIV.  Chỉ được đầu tư nhằm mục đích phòng ngừa rủi ro cho danh mục chứng khoán cơ sở đang nắm giữ \nV.  Đảm bảo tuân hủ quy định pháp luật điều chỉnh hoạt động quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán \nPhương án:",
+        "options": {
+            "A": "I",
+            "B": "II",
+            "C": "II, III và IV",
+            "D": "II, IV và V",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 147,
+        "question": "Trong hoạt động quản lý quỹ đầu tư chứng khoán, công ty quản lý quỹ có thể nhận được thưởng hoạt động, ngoại trừ:",
+        "options": {
+            "A": "Công ty quỹ đóng",
+            "B": "Công ty quỹ thành viên",
+            "C": "Quản lý quỹ đầu tư bất động sản",
+            "D": "Quản lý quỹ hoán đổi danh mục",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 148,
+        "question": "Trong trường hợp được vay ngắn hạn theo quy định pháp luật, thời hạn tối đa công ty quản lý quỹ được vay để trang trải các chi phí cần thiết của quỹ đại chúng hoặc để thực hiện thanh toán các giao dịch chứng chỉ quỹ với nhà đầu tư:",
+        "options": {
+            "A": "15 ngày",
+            "B": "30 ngày",
+            "C": "45 ngày",
+            "D": "90 ngày",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 149,
+        "question": "Trường hợp quỹ đóng, quỹ mở được đầu tư vào quỹ đại chúng khác hoặc công ty đầu tư chứng khoán đại chúng khác, công ty quỹ phải đảm bảo: \nI.  Không được đầu tư quá 15% tổng giá trị tài sản của quỹ vào chứng chỉ quỹ của một quỹ đại chúng, cổ phiếu của một công ty đầu tư chứng khoán đại chúng \nII.  Không được đầu tư quá 20% tổng giá trị tài sản của quỹ vào chứng chỉ quỹ của một quỹ đại chúng, cổ phiếu của một công ty đầu tư chứng khoán đại chúng \nIII.  Không được đầu tư quá 30% tổng giá trị tài sản của quỹ vào chứng chỉ quỹ của một quỹ đại chúng, cổ phiếu của một công ty đầu tư chứng khoán đại chúng \nIV.  Không được đầu tư quá 35% tổng giá trị tài sản của quỹ vào chứng chỉ quỹ của một quỹ đại chúng, cổ phiếu của một công ty đầu tư chứng khoán đại chúng \nPhương án:",
+        "options": {
+            "A": "I và III",
+            "B": "I và IV",
+            "C": "II và III",
+            "D": "II và IV",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 150,
+        "question": "Quỹ hoán đổi danh mục dựa trên tham chiếu chỉ số cổ phiếu phải đáp ứng điều kiện cơ bản sau: \nI.  Danh mục có tối thiểu 8 cổ phiếu \nII.  Danh mục có tối thiểu 10 cổ phiếu \nIII.  Tỷ trọng của 1 cổ phiếu bất kỳ trong danh mục tối đa là 20% giá trị của chỉ số \nIV.  Tỷ trọng của 1 cổ phiếu bất kỳ trong danh mục tối đa là 25% giá trị của chỉ số \nPhương án:",
+        "options": {
+            "A": "I và II",
+            "B": "I và IV",
+            "C": "II và III",
+            "D": "II và IV",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 151,
+        "question": "Trong thời gian có quyết định đặt công ty quản lý quỹ đầu tư chứng khoán vào trình trạng kiểm soát, Công ty thực hiện chế độ báo cáo tỷ lệ vốn khả dụng theo tần suất như sau",
+        "options": {
+            "A": "Định kỳ hàng tháng",
+            "B": "Định kỳ hàng tuần vào ngày thứ 2",
+            "C": "Định kỳ hàng tuần vào ngày thứ 6",
+            "D": "Định kỳ 1 tháng 2 lần",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 152,
+        "question": "Trong trường hợp quỹ mở, quỹ chỉ số đầu tư vào trái phiếu doanh nghiệp phát hành riêng lẻ, trái phiếu phải đáp ứng quy định sau: \nI.  Có cam kết mua lại của doanh nghiệp phát hành tối thiểu 1 lần trong 12 tháng \nII.  Có cam kết mua lại của doanh nghiệp phát hành tối thiểu 1 lần trong 18 tháng \nIII.  Mỗi lần cam kết mua lại tối thiểu 20% giá trị đợt phát hành \nIV.  Mỗi lần cam kết mua lại tối thiểu 30% giá trị đợt phát hành \nPhương án:",
+        "options": {
+            "A": "I và III",
+            "B": "I và IV",
+            "C": "II và III",
+            "D": "II và IV",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 153,
+        "question": "Lựa chọn phương án sai về mô tả hoạt động quản lý vốn và tài sản quỹ đầu tư chứng khoán:",
+        "options": {
+            "A": "Công ty quản lý quỹ không được sử dụng vốn và tài sản của quỹ để cho vay hoặc bảo lãnh cho bất kỳ khoản vay nào",
+            "B": "Công ty quản lý quỹ không được phép vay để tài trợ cho hoat động của quỹ đại chúng",
+            "C": "Công ty quản lý quỹ không được sử dụng tài sản của quỹ để thực hiện các giao dịch ký quỹ",
+            "D": "Công ty quản lý quỹ không được sử dụng tài sản của quỹ để thực hiện các giao dịch bán khống, cho vay chứng khoán",
+            "E": ""
+        },
+        "correct": "B"
+    },
+    {
+        "id": 154,
+        "question": "Khi thực hiện nghiệp vụ kinh doanh trong nước, Công ty quản lý quỹ được ủy quyền, thuê ngoài để cung cấp một phần hoặc toàn bộ các dịch vụ:",
+        "options": {
+            "A": "Quản lý quỹ đầu tư chứng khoán",
+            "B": "Quản lý danh mục đầu tư chứng khoán",
+            "C": "Tư vấn đầu tư chứng khoán",
+            "D": "Tất cả các phương án trên đều sai",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 155,
+        "question": "Trong giao dịch hoán đổi, danh mục chứng khoán cơ cấu phải đáp ứng các điều kiện sau: \nI.  Bao gồm tối thiểu 35% số chứng khoán cơ sở hình thành chỉ số tham chiếu \nII.  Bao gồm tối thiểu 50% số chứng khoán cơ sở hình thành chỉ số tham chiếu \nIII.  Giá trị danh mục chứng khoán cơ cấu không thấp hơn 80% giá trị của danh mục chứng khoán tương ứng của chỉ số tham chiếu \nIV.  Giá trị danh mục chứng khoán cơ cấu không thấp hơn 95% giá trị của danh mục chứng khoán tương ứng của chỉ số tham chiếu \nPhương án:",
+        "options": {
+            "A": "I và III",
+            "B": "I và IV",
+            "C": "II và III",
+            "D": "II và IV",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 156,
+        "question": "Tất cả các câu sau đều mô tả hoạt động của quỹ đầu tư chứng khoán dạng mở, ngoại trừ:",
+        "options": {
+            "A": "Chứng chỉ quỹ mở không được niêm yết trên Sở giao dịch chứng khoán",
+            "B": "Chứng chỉ quỹ mở được phát hành/ mua lại bởi công ty quản lý quỹ",
+            "C": "Được thưởng hoạt động cho quản lý quỹ trong mọi trường hợp",
+            "D": "Vốn điều lệ quỹ mở liên tục thay đổi",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 157,
+        "question": "Trong hoạt động quản lý tài sản ủy thác, công ty quản lý quỹ có thể:\nI.  Dùng tài sản của quỹ, của công ty đầu tư chứng khoán để đầu tư vào chính quỹ, công ty đầu tư chứng khoán đó \nII.  Dùng tài sản của khách hàng ủy thác từ công ty quản lý danh mục, quản lý quỹ/công ty chứng khoán do mính quản lý vào quỹ/ công ty đầu tư chứng khoán khác do mình quản lý \nIII.  Dùng tài sản của quỹ đại chúng, công ty đầu tư chứng khoán đại chúng để đầu tư vào chính công ty quản lý quỹ \nIV.  Tất cả đều sai \nPhương án:",
+        "options": {
+            "A": "I và II",
+            "B": "I và III",
+            "C": "II và III",
+            "D": "IV",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 158,
+        "question": "Công ty quản lý quỹ có quyền không đáp ứng một phần lệnh bán, lệnh mua, lệnh chuyển đổi của nhà đầu tư khi xảy ra một trong các trường hợp sau:",
+        "options": {
+            "A": "Tổng giá trị các lệnh bán (kể cả lệnh bán từ hoạt động chuyển đổi) trừ tổng giá trị các lệnh mua (kể cả lệnh mua từ hoạt động chuyển đổi) tại ngày giao dịch chứng chỉ quỹ lớn hơn 10% giá trị tài sản ròng của quỹ;",
+            "B": "Giá trị tài sản ròng của quỹ thấp hơn 50 tỷ đồng",
+            "C": "Giá trị phần đơn vị quỹ hoặc số đơn vị quỹ còn lại trên tài khoản của nhà đầu tư thấp hơn giá trị tối thiểu hoặc số lượng đơn vị quỹ tối thiểu để duy trì tài khoản của nhà đầu tư theo quy định tại Điều lệ quỹ và Báo cáo bạch;",
+            "D": "Số lượng đơn vị quỹ lưu hành vượt quá khối lượng tối đa quy định tại Điều lệ quỹ và Báo cáo bạch",
+            "E": "Tổng giá trị các lệnh bán (kể cả lệnh bán từ hoạt động chuyển đổi) trừ tổng giá trị các lệnh mua (kể cả lệnh mua từ hoạt đồng chuyển đổi) tại ngày giao dịch chứng chỉ quỹ lớn hơn 5% và nhỏ hơn 10% giá trị tài sản ròng của quỹ"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 159,
+        "question": "Trong các nhiệm vụ sau đây, nhiệm vụ nào không thuộc chức năng của kiểm soát nội bộ trong công ty quản lý quỹ đại chúng theo quy định pháp luật hiện hành:",
+        "options": {
+            "A": "Tham gia xây dựng quy trình, tổ chức thực hiện công tác quản trị rủi ro của công ty và cho từng khách hàng ủy thác, kịp thời nhận diện, đánh giá mức độ rủi ro, thiết lập hạn mức đầu tư và có biện pháp ngăn ngừa, quản lý các rủi ro tiềm ẩn trong hoạt động đầu tư của công ty và của khách hàng ủy thác",
+            "B": "Giám sát, bảo đảm giá trị tài sản ròng của danh mục ủy thác, quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán được định giá phù hợp với quy định của pháp luật và quy định nội bộ; tài sản và các nguồn lực của công ty được quản lý an toàn, hiệu quả; tài sản khách hàng ủy thác được quản lý tách biệt, độc lập; báo cáo tài chính, báo cáo hoạt động, báo cáo về các chỉ tiêu an toàn tài chính và các báo cáo khác của công ty được lâp trung thực, chính xác, kịp thời, cập nhật đầy đủ theo quy định của pháp luật;",
+            "C": "Giám sát, bảo đảm hệ thống thông tin tài chính và quản lý trung thực, đầy đủ, kịp thời và chính xác; có hệ thống thông tin dự phòng để kịp thời xử lý những sự cố phát sinh như thiên tai, cháy nổ, đảm bảo duy trì hoạt động liên tục của công ty;",
+            "D": "Thực hiện chức năng kiểm soát nội bộ trong trường hợp công ty quản lý quỹ không phải thành lập bộ phận kiểm toán nội bộ",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 160,
+        "question": "Nguyên tắc nào sau đây không phải nguyên tắc của kiểm toán nội bộ:",
+        "options": {
+            "A": "Độc lập: Bộ phận kiểm toán nội bộ và hoạt động của bộ phận này độc lập với các bộ phận và hoạt động khác của công ty quản lý quỹ, không chịu sự quản lý của Ban điều hành công ty quản lý quỹ; Nhân viên bộ phận kiểm toán nội bộ không được kiêm nhiệm làm việc tại các bộ phận khác của công ty quản lý quỹ;",
+            "B": "Khách  quan:  Kiểm  toán  nội  bộ  phải  khách  quan,  công  bằng,  không  định  kiến,  không  tác  động, không bị can thiệp khi thực hiện nhiệm vụ của mình",
+            "C": "Trung thực: Công tác kiểm toán nội bộ phải được thực hiện một cách trung thực, cẩn trọng và có trách nhiệm",
+            "D": "Phối hợp: Bộ phận Kiểm toán nội bộ được toàn quyền tiếp cận không hạn chế các thông tin, tài liệu của công ty, Thành viên Ban điều hành và toàn bộ nhân viên của công ty quản lý quỹ có trách nhiệm phối hợp, cung cấp đầy đủ, kịp thời, trung thực, chính xác toàn bộ thông tin, tài liệu liên quan, theo yêu cầu của kiểm toán nội bộ. Các bộ phận trong công ty có trách nhiệm thông báo cho kiểm toán nội bộ khi phát hiện những yếu kém, tồn tại, các sai phạm, rủi ro hoặc thất thoát lớn về tài sản của công ty hoặc của khách hàng",
+            "E": "Công khai: Bộ phận kiểm toán nội bộ, nhân viên kiểm toán nội bộ phải công khai các nội dung thực hiện kiểm toán trước khi tiến hành các bước thực hiện theo quy định"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 161,
+        "question": "Nhân sự bộ phận kiểm toán nội bộ khi được bổ nhiệm không phải đảm bảo điều kiện nào trong các điều kiện sau:",
+        "options": {
+            "A": "Không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc chấp hành hình phạt tù hoặc bị cấm hành nghề chứng khoán theo quy định của pháp luật",
+            "B": "Không bị xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán trong thời hạn 6 tháng gần nhất tính đến thời điểm được bổ nhiệm",
+            "C": "Có chứng chỉ hành nghề quản lý tài sản tại các quốc gia là thành viên của Tổ chức hợp tác và phát triển kinh tế (OECD) hoặc đã thi đạt chứng chỉ quốc tế về phân tích đầu tư CFA từ bậc II trở lên (Chartered Financial Analyst level II) hoặc CIIA (Certified International Investment Analyst – Final Level II)",
+            "D": "Có chứng chỉ hành nghề chứng khoán",
+            "E": "Có chứng chỉ chuyên môn về Quản lý tài sản và chứng chỉ Pháp luật về chứng khoán và thị trường chứng khoán"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 162,
+        "question": "Trong các loại hình tổ chức sau của công ty quản lý quỹ, nhân sự bộ phận kiểm toán được thực hiện kiêm nhiệm:",
+        "options": {
+            "A": "Công ty cổ phần",
+            "B": "Công ty trách nhiệm hữu hạn 2 thành viên trở lên",
+            "C": "Công ty hợp danh",
+            "D": "Công ty trách nhiệm hữu hạn 1 thành viên",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 163,
+        "question": "Cơ cấu tổ chức của công ty quản lý quỹ đại chúng khác biệt so với công ty đại chúng ở điểm nào sau đây:",
+        "options": {
+            "A": "Phải có người điều hành quỹ",
+            "B": "Phải có tối thiểu 2 người điều hành quỹ có chứng chỉ hành nghề Quản lý quỹ",
+            "C": "Phải có tối thiểu 2 người điều hành quỹ có chứng chỉ hành nghề Quản lý quỹ và có kinh nghiệm quản lý tài sản, quản lý quỹ từ 5 năm trở lên",
+            "D": "Phải có tối thiểu 2 người điều hành quỹ có chứng chỉ hành nghề Quản lý quỹ và có kinh nghiệm quản lý tài sản, quản lý quỹ từ 4 năm trở lên",
+            "E": "Phải có tối thiểu 2 người điều hành quỹ có chứng chỉ hành nghề Quản lý quỹ và có kinh nghiệm quản lý tài sản, quản lý quỹ từ 2 năm trở lên"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 164,
+        "question": "Trong hoạt động quản lỹ quỹ, việc giám sát và tuân thủ các quy định, điều lệ là trách nhiệm của tổ chức nào dưới đây:",
+        "options": {
+            "A": "Việc giám sát và tuân thủ các quy định điều lệ là trách nhiệm của công ty quản lý quỹ",
+            "B": "Việc giám sát và tuân thủ các quy định điều lệ là trách nhiệm của ngân hàng lưu ký",
+            "C": "Việc giám sát và tuân thủ các quy định điều lệ là trách nhiệm của công ty quản lý quỹ, ngân hàng giám sát",
+            "D": "Việc giám sát và tuân thủ các quy định điều lệ là trách nhiệm của ngân hàng lưu ký, giám sát",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 165,
+        "question": "Đối với hoạt động của quỹ hoán đổi danh mục (quỹ ETF), khi mức sai lệch giữa giá trị tài sản ròng trên một lô chứng chỉ quỹ so với chỉ số tham chiếu của các quỹ ETF vượt ngưỡng nào sau đây thì công ty phải báo cáo UBCKNN:",
+        "options": {
+            "A": "50%",
+            "B": "60%",
+            "C": "70%",
+            "D": "80%",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 166,
+        "question": "Các tổ chức nào sau đâ không được phép làm thành viên lập quỹ của quỹ hoán đổi danh mục:",
+        "options": {
+            "A": "Công ty chứng khoán có đầy đủ nghiệp vụ kinh doanh trừ nghiệp vụ môi giới chứng khoán",
+            "B": "Công ty quản lý quỹ",
+            "C": "Ngân hàng thương mại chưa đăng ký làm thành viên lưu ký",
+            "D": "Ngân hàng lưu ký",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 167,
+        "question": "Trong các khái niệm sau đây, khái niệm nào là đúng nhất theo quy định pháp luật hiện hành khi xác định giá trị rủi ro thị trường để tính tỷ lệ an toàn tài chính của công ty quản lý quỹ",
+        "options": {
+            "A": "Là giá trị tương ứng với mức độ tổn thất có thể xảy ra khi giá trị thị trường của tài sản đang sở hữu theo cam kết bảo lãnh phát hành theo chiều hướng thuận lợi",
+            "B": "Là giá trị tương ứng với mức độ lợi nhuận có thể xảy ra khi giá trị thị trường của tài sản đang sở hữu và dự kiến sẽ sở hữu theo cam kết bảo lãnh phát hành theo chiều hướng bất lợi",
+            "C": "Là giá trị tương ứng với mức độ tổn thất có thể xảy ra khi giá trị thị trường của tài sản đang sở hữu và dự kiến sẽ sở hữu theo cam kết bảo lãnh phát hành theo chiều hướng bất lợi",
+            "D": "Là giá trị tương ứng với mức độ tổn thất có thể xảy ra khi giá trị thị trường của tài sản đang sở hữu và dự kiến sẽ sở hữu thay đổi giá trị",
+            "E": ""
+        },
+        "correct": "C"
+    },
+    {
+        "id": 168,
+        "question": "Trong các khái niệm sau đây, khái niệm nào là đúng nhất theo quy định pháp luật hiện hành khi xác định giá trị rủi ro hoạt động để tính tỉ lệ an toàn tài chính của công ty quản lý quỹ:",
+        "options": {
+            "A": "Là giá trị tương ứng với mức độ tổn thất có thể xảy ra do lỗi kỹ thuật, lỗi hệ thống",
+            "B": "Là giá trị tương ứng với mức độ tổn thất có thể xảy ra do lỗi hệ thống và quy trình nghiệp vụ, lỗi con người trong quá trình tác nghiệp, do thiếu vốn kinh doanh phát sinh từ các khoản chi phí, lỗ từ hoạt động đầu tư, do các nguyên nhân khách quan khác",
+            "C": "Là giá trị tương ứng với mức độ tổn thất có thể xảy ra do lỗi con người trong quy trình tác nghiệp, do thiếu vốn kinh doanh phát sinh từ các khoản chi phí, lỗ từ hoạt động đầu tư, do các nguyên nhân khách quan khác",
+            "D": "Là giá trị tương ứng với mức độ tổn thất có thể xảy ra do kỹ thuật, lỗi hệ thống và quy trình nghiệp vụ, lỗi con người trong quá trình tác nghiệp, do thiếu vốn kinh doanh, phát sinh từ các khoản chi phí, lỗ từ hoạt động đầu tư, do các nguyên nhân khách quan khác",
+            "E": ""
+        },
+        "correct": "D"
+    },
+    {
+        "id": 169,
+        "question": "Trong các loại thông tin phải công bố định kỳ của quỹ đại chúng, loại thông tin nào không phải công bố theo quy định:",
+        "options": {
+            "A": "Báo cáo tài chính năm đã được kiểm toán",
+            "B": "Báo cáo tài chính bán niên đã được soát xét hoặc kiểm toán",
+            "C": "Báo cáo giao dịch của quỹ qua các công ty chứng khoán",
+            "D": "Báo cáo giá trị tài sản ròng",
+            "E": "Báo cáo thay đổi người điều hành quỹ"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 170,
+        "question": "Trong  các  loại  thông  tin  phải  công  bố  bất  thường  của  quỹ  đại  chúng,  loại  thông  tin  nào không phải công bố theo quy định:",
+        "options": {
+            "A": "Quyết định thay đổi vốn điều lệ của quỹ đóng",
+            "B": "Sửa đổi Điều lệ, Bán báo cáo bạch",
+            "C": "Định giá sai giá trị tài sản ròng",
+            "D": "Vượt mức các hạn chế đầu tư và điều chỉnh sai lệch của danh mục đầu tư",
+            "E": "Dự kiến thay đổi ngân hàng lưu ký"
+        },
+        "correct": "E"
+    },
+    {
+        "id": 171,
+        "question": "Quy định nào dưới đây không phù hợp với quy định pháp luật hiện hành:",
+        "options": {
+            "A": "Công ty đầu tư chứng khoán riêng lẻ là công ty có tối đa 30 nhà đầu tư tổ chức",
+            "B": "Công ty đầu tư chứng khoán riêng lẻ tự quản lý là công ty tự mình ra các quyết định đầu tư tài sản của công ty và không cần phải ủy thác qua một công ty quản lý quỹ để quản lý tài sản",
+            "C": "Công ty đầu tư chứng khoán riêng lẻ tự quản lý là công ty đầu tư chứng khoán tối đa 99 cổ đông, trong đó giá trị góp vốn đầu tư mỗi cổ đông tổ chức tối thiểu là 3 tỷ đồng và của mỗi cá nhân tối thiểu là 01 tỷ đồng",
+            "D": "Công ty đầu tư chứng khoán đại chúng là công ty đầu tư chứng khoán đã thực hiện việc chào bán thành công cổ phiếu lần đầu ra công chúng",
+            "E": ""
+        },
+        "correct": "A"
+    },
+    {
+        "id": 172,
+        "question": "Quy định nào dưới đây phù hợp nhất theo quy định hiện hành với đối tượng là ngân hàng thanh toán và ngân hàng lưu ký:",
+        "options": {
+            "A": "Là tổ chức tín dụng do Ngân hàng nhà nước cấp phép",
+            "B": "Chỉ được thanh toán tiền giao dịch chứng khoán",
+            "C": "Có vốn điều lệ trên 50.000 tỷ đồng",
+            "D": "Được Ủy ban Chứng khoán Nhà nước chấp thuận sau khi đã thực hiện thủ tục đăng ký",
+            "E": ""
+        },
+        "correct": "D"
+    },
+
   {
     "id": 1,
     "question": "Theo Luật Chứng khoán, chứng khoán là tài sản bao gồm các loại nào sau đây, nhưng lưu ý rằng không phải tất cả các loại tài sản đều được coi là chứng khoán?",
