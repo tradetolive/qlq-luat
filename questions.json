@@ -5813,5 +5813,1290 @@
     },
     "correct": "A",
     "explanation": "Theo Mẫu số 85 Phụ lục Nghị định số 155/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 245/2025/NĐ-CP), loại chứng chỉ đề nghị cấp lại bao gồm Môi giới, Phân tích tài chính, Quản lý quỹ."
+  },
+
+
+{
+  "id": 1,
+  "question": "Hành vi nào dưới đây được coi là sử dụng thông tin nội bộ để mua, bán chứng khoán theo quy định của pháp luật chứng khoán?",
+  "options": {
+    "A": "Mua chứng khoán dựa trên thông tin công khai từ báo cáo tài chính",
+    "B": "Tiết lộ thông tin nội bộ cho người khác để họ mua chứng khoán",
+    "C": "Giao dịch chứng khoán dựa trên phân tích kỹ thuật",
+    "D": "Công bố thông tin nội bộ trên trang web của công ty"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 1 Điều 3 Nghị định số 156/2020/NĐ-CP, sử dụng thông tin nội bộ để mua, bán chứng khoán bao gồm tiết lộ, cung cấp thông tin nội bộ hoặc tư vấn cho người khác mua, bán chứng khoán trên cơ sở thông tin nội bộ."
+}
+
+{
+  "id": 2,
+  "question": "Hành vi nào được coi là thao túng thị trường chứng khoán khi liên tục mua hoặc bán chứng khoán vào thời điểm mở cửa hoặc đóng cửa thị trường?",
+  "options": {
+    "A": "Giao dịch để cân bằng danh mục đầu tư",
+    "B": "Mua bán nhằm tạo mức giá đóng cửa hoặc giá mở cửa mới cho chứng khoán",
+    "C": "Thực hiện giao dịch dựa trên phân tích cơ bản",
+    "D": "Mua bán chứng khoán theo lệnh của khách hàng"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 2 Điều 3 Nghị định số 156/2020/NĐ-CP, thao túng thị trường chứng khoán bao gồm hành vi liên tục mua hoặc bán chứng khoán với khối lượng chi phối vào thời điểm mở cửa hoặc đóng cửa thị trường nhằm tạo ra mức giá đóng cửa hoặc giá mở cửa mới."
+}
+
+{
+  "id": 3,
+  "question": "Hành vi chào bán chứng khoán riêng lẻ khi chưa được Ủy ban Chứng khoán Nhà nước thông báo bằng văn bản về việc nhận đầy đủ hồ sơ đăng ký sẽ bị phạt bao nhiêu tiền đối với công ty đại chúng?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "200.000.000 đồng đến 300.000.000 đồng",
+    "C": "400.000.000 đồng đến 500.000.000 đồng",
+    "D": "1.000.000.000 đồng đến 1.500.000.000 đồng"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 5 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi chào bán, phát hành chứng khoán riêng lẻ khi chưa đáp ứng đủ điều kiện hoặc không đăng ký với Ủy ban Chứng khoán Nhà nước (đối với công ty đại chúng) bị phạt tiền từ 200.000.000 đồng đến 300.000.000 đồng."
+}
+
+{
+  "id": 4,
+  "question": "Việc sử dụng số tiền thu được từ đợt chào bán chứng khoán riêng lẻ không đúng với phương án đã được Đại hội đồng cổ đông thông qua sẽ bị áp dụng biện pháp khắc phục hậu quả nào?",
+  "options": {
+    "A": "Buộc nộp lại số lợi bất hợp pháp",
+    "B": "Buộc thông qua Đại hội đồng cổ đông về việc thay đổi phương án sử dụng vốn",
+    "C": "Buộc hủy bỏ thông tin sai lệch",
+    "D": "Buộc đình chỉ hoạt động giao dịch chứng khoán"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 9 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi sử dụng số tiền thu được từ đợt chào bán chứng khoán riêng lẻ không đúng với phương án đã được Đại hội đồng cổ đông thông qua sẽ bị buộc thông qua Đại hội đồng cổ đông gần nhất về việc thay đổi phương án sử dụng vốn."
+}
+
+{
+  "id": 5,
+  "question": "Hành vi làm giả giấy tờ để chứng minh đủ điều kiện chào bán chứng khoán ra công chúng bị phạt bao nhiêu tiền đối với tổ chức?",
+  "options": {
+    "A": "100.000.000 đồng đến 150.000.000 đồng",
+    "B": "400.000.000 đồng đến 500.000.000 đồng",
+    "C": "2.500.000.000 đồng đến 3.000.000.000 đồng",
+    "D": "1.000.000.000 đồng đến 1.500.000.000 đồng"
+  },
+  "correct": "C",
+  "explanation": "Theo khoản 3 Điều 9 Nghị định số 156/2020/NĐ-CP, hành vi làm giả giấy tờ hoặc xác nhận trên giấy tờ giả mạo để chứng minh đủ điều kiện chào bán chứng khoán ra công chúng bị phạt tiền từ 2.500.000.000 đồng đến 3.000.000.000 đồng đối với tổ chức."
+}
+
+{
+  "id": 6,
+  "question": "Hành vi sử dụng thông tin ngoài Bản cáo bạch để thăm dò thị trường trước khi được phép chào bán chứng khoán ra công chúng bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "70.000.000 đồng đến 100.000.000 đồng",
+    "B": "100.000.000 đồng đến 150.000.000 đồng",
+    "C": "150.000.000 đồng đến 200.000.000 đồng",
+    "D": "300.000.000 đồng đến 400.000.000 đồng"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 2 Điều 10 Nghị định số 156/2020/NĐ-CP, hành vi sử dụng thông tin ngoài Bản cáo bạch hoặc thông tin sai lệch với Bản cáo bạch để thăm dò thị trường trước khi được phép chào bán chứng khoán ra công chúng bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng."
+}
+
+{
+  "id": 7,
+  "question": "Hành vi nào dưới đây bị coi là che giấu thông tin về quyền sở hữu thực sự đối với chứng khoán để trốn tránh nghĩa vụ chào mua công khai?",
+  "options": {
+    "A": "Công khai tỷ lệ sở hữu cổ phiếu trên trang thông tin của công ty",
+    "B": "Thỏa thuận để một bên đứng tên mua chứng khoán nhằm tránh chào mua công khai",
+    "C": "Báo cáo đầy đủ tỷ lệ sở hữu cho Ủy ban Chứng khoán Nhà nước",
+    "D": "Thực hiện giao dịch chứng khoán thông qua công ty chứng khoán"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 9 Điều 3 Nghị định số 156/2020/NĐ-CP (được bổ sung bởi khoản 2 Điều 1 Nghị định số 128/2021/NĐ-CP), che giấu thông tin về quyền sở hữu thực sự bao gồm việc thỏa thuận để một bên đứng tên mua, sở hữu chứng khoán nhằm trốn tránh nghĩa vụ chào mua công khai."
+}
+
+{
+  "id": 8,
+  "question": "Hành vi nào dưới đây bị coi là tạo dựng thông tin sai sự thật trong hoạt động chứng khoán?",
+  "options": {
+    "A": "Công bố báo cáo tài chính được kiểm toán",
+    "B": "Tạo dựng thông tin không chính xác để gây hiểu nhầm nghiêm trọng về hoạt động chào bán",
+    "C": "Cung cấp thông tin chính xác về giá chứng khoán",
+    "D": "Báo cáo đúng hạn cho Ủy ban Chứng khoán Nhà nước"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 10 Điều 3 Nghị định số 156/2020/NĐ-CP (được bổ sung bởi khoản 2 Điều 1 Nghị định số 128/2021/NĐ-CP), tạo dựng thông tin sai sự thật bao gồm việc công bố thông tin không chính xác để gây hiểu nhầm nghiêm trọng, ảnh hưởng đến hoạt động chào bán, niêm yết, giao dịch chứng khoán."
+}
+
+{
+  "id": 9,
+  "question": "Thời điểm chấm dứt hành vi vi phạm để tính thời hiệu xử phạt đối với hành vi chào bán chứng khoán riêng lẻ không đúng quy định là khi nào?",
+  "options": {
+    "A": "Ngày nộp hồ sơ đăng ký với Ủy ban Chứng khoán Nhà nước",
+    "B": "Ngày kết thúc việc thu tiền mua chứng khoán",
+    "C": "Ngày công bố thông tin chào bán",
+    "D": "Ngày phát hành chứng khoán"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 3 Điều 6 Nghị định số 156/2020/NĐ-CP, thời điểm chấm dứt hành vi vi phạm đối với hành vi chào bán, phát hành chứng khoán riêng lẻ không đúng quy định là ngày kết thúc việc thu tiền mua chứng khoán."
+}
+
+{
+  "id": 10,
+  "question": "Hành vi thay đổi phương án sử dụng vốn từ đợt chào bán chứng khoán ra công chúng với giá trị từ 50% trở lên mà không được Đại hội đồng cổ đông ủy quyền sẽ bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "70.000.000 đồng đến 100.000.000 đồng",
+    "B": "150.000.000 đồng đến 200.000.000 đồng",
+    "C": "300.000.000 đồng đến 400.000.000 đồng",
+    "D": "500.000.000 đồng đến 600.000.000 đồng"
+  },
+  "correct": "C",
+  "explanation": "Theo điểm b khoản 4 Điều 10 Nghị định số 156/2020/NĐ-CP, hành vi thay đổi phương án sử dụng vốn từ đợt chào bán chứng khoán ra công chúng với giá trị từ 50% trở lên mà không được Đại hội đồng cổ đông ủy quyền bị phạt tiền từ 300.000.000 đồng đến 400.000.000 đồng."
+}
+
+{
+  "id": 11,
+  "question": "Hành vi nào dưới đây bị coi là đối xử không công bằng với những người sở hữu cùng loại cổ phiếu trong chào mua công khai?",
+  "options": {
+    "A": "Áp dụng cùng giá chào mua cho tất cả cổ đông",
+    "B": "Áp dụng các điều kiện chào mua khác nhau cho cùng loại cổ phiếu",
+    "C": "Công bố thông tin chào mua công khai đúng hạn",
+    "D": "Thực hiện chào mua theo phương án đã đăng ký"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 8 Điều 3 Nghị định số 156/2020/NĐ-CP, đối xử không công bằng với những người sở hữu cùng loại cổ phiếu trong chào mua công khai là việc áp dụng các điều kiện, điều khoản khác nhau khi chào mua từ các nhà đầu tư sở hữu cùng loại cổ phiếu."
+}
+
+{
+  "id": 12,
+  "question": "Hành vi lập hồ sơ đăng ký chào bán chứng khoán riêng lẻ có thông tin sai lệch sẽ bị áp dụng biện pháp khắc phục hậu quả nào?",
+  "options": {
+    "A": "Buộc nộp lại số lợi bất hợp pháp",
+    "B": "Buộc thu hồi chứng khoán đã chào bán và hoàn trả tiền cho nhà đầu tư",
+    "C": "Buộc cải chính thông tin trên báo chí",
+    "D": "Buộc đình chỉ hoạt động giao dịch chứng khoán"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm e khoản 9 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi lập hồ sơ đăng ký chào bán chứng khoán riêng lẻ có thông tin sai lệch bị buộc thu hồi chứng khoán đã chào bán và hoàn trả tiền mua chứng khoán hoặc tiền đặt cọc (nếu có) cộng thêm tiền lãi cho nhà đầu tư."
+}
+
+{
+  "id": 13,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phát hành thêm cổ phiếu?",
+  "options": {
+    "A": "Phát hành thêm cổ phiếu theo phương án được Đại hội đồng cổ đông thông qua",
+    "B": "Phát hành thêm cổ phiếu khi chưa được Ủy ban Chứng khoán Nhà nước chấp thuận",
+    "C": "Công bố thông tin phát hành thêm cổ phiếu đúng hạn",
+    "D": "Đăng ký lưu ký cổ phiếu phát hành thêm đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 2 Điều 12 Nghị định số 156/2020/NĐ-CP, hành vi phát hành thêm cổ phiếu khi chưa được Ủy ban Chứng khoán Nhà nước chấp thuận là vi phạm quy định về phát hành thêm cổ phiếu."
+}
+
+{
+  "id": 14,
+  "question": "Hành vi không công bố báo cáo sử dụng vốn từ đợt chào bán chứng khoán ra công chúng tại Đại hội đồng cổ đông sẽ bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "100.000.000 đồng đến 150.000.000 đồng",
+    "C": "150.000.000 đồng đến 200.000.000 đồng",
+    "D": "300.000.000 đồng đến 400.000.000 đồng"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 2 Điều 10 Nghị định số 156/2020/NĐ-CP, hành vi không công bố báo cáo sử dụng vốn được kiểm toán xác nhận tại Đại hội đồng cổ đông bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng."
+}
+
+{
+  "id": 15,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về đăng ký công ty đại chúng?",
+  "options": {
+    "A": "Nộp hồ sơ đăng ký công ty đại chúng đúng thời hạn",
+    "B": "Chậm nộp hồ sơ đăng ký công ty đại chúng cho Ủy ban Chứng khoán Nhà nước",
+    "C": "Công bố thông tin về công ty đại chúng đúng quy định",
+    "D": "Báo cáo tài chính được kiểm toán đúng hạn"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 1 Điều 13 Nghị định số 156/2020/NĐ-CP, hành vi chậm nộp hồ sơ đăng ký công ty đại chúng cho Ủy ban Chứng khoán Nhà nước là vi phạm quy định về đăng ký công ty đại chúng."
+}
+
+{
+  "id": 16,
+  "question": "Hành vi thực hiện bảo lãnh phát hành chứng khoán ra công chúng vượt quá 15 lần hiệu số giữa giá trị tài sản ngắn hạn và nợ ngắn hạn bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "70.000.000 đồng đến 100.000.000 đồng",
+    "B": "100.000.000 đồng đến 150.000.000 đồng",
+    "C": "150.000.000 đồng đến 200.000.000 đồng",
+    "D": "300.000.000 đồng đến 400.000.000 đồng"
+  },
+  "correct": "C",
+  "explanation": "Theo điểm b khoản 3 Điều 10 Nghị định số 156/2020/NĐ-CP, hành vi thực hiện bảo lãnh phát hành chứng khoán ra công chúng vượt quá 15 lần hiệu số giữa giá trị tài sản ngắn hạn và nợ ngắn hạn bị phạt tiền từ 150.000.000 đồng đến 200.000.000 đồng."
+}
+
+{
+  "id": 17,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về niêm yết chứng khoán?",
+  "options": {
+    "A": "Nộp hồ sơ niêm yết chứng khoán đúng thời hạn",
+    "B": "Niêm yết chứng khoán khi chưa đáp ứng đủ điều kiện theo quy định",
+    "C": "Công bố thông tin niêm yết đúng quy định",
+    "D": "Thực hiện giao dịch chứng khoán trên sàn đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 4 Điều 18 Nghị định số 156/2020/NĐ-CP, hành vi niêm yết chứng khoán khi chưa đáp ứng đủ điều kiện theo quy định pháp luật bị coi là vi phạm quy định về niêm yết chứng khoán."
+}
+
+{
+  "id": 18,
+  "question": "Hành vi thao túng giá chứng khoán bằng cách tung tin đồn sai sự thật sẽ bị phạt bao nhiêu tiền đối với tổ chức?",
+  "options": {
+    "A": "400.000.000 đồng đến 500.000.000 đồng",
+    "B": "1.000.000.000 đồng đến 1.500.000.000 đồng",
+    "C": "2.500.000.000 đồng đến 3.000.000.000 đồng",
+    "D": "10 lần khoản thu trái pháp luật"
+  },
+  "correct": "D",
+  "explanation": "Theo khoản 1 Điều 36 Nghị định số 156/2020/NĐ-CP, hành vi thao túng giá chứng khoán (bao gồm tung tin đồn sai sự thật) bị phạt tiền tối đa 10 lần khoản thu trái pháp luật đối với tổ chức."
+}
+
+{
+  "id": 19,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán?",
+  "options": {
+    "A": "Báo cáo giao dịch đáng ngờ đúng hạn",
+    "B": "Không thực hiện biện pháp nhận biết khách hàng theo quy định",
+    "C": "Lưu giữ hồ sơ khách hàng đầy đủ",
+    "D": "Cung cấp thông tin cho cơ quan nhà nước có thẩm quyền"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 2 Điều 45 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện biện pháp nhận biết khách hàng theo quy định là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán."
+}
+
+{
+  "id": 20,
+  "question": "Hành vi không báo cáo về việc dự kiến giao dịch của cổ đông lớn sẽ bị xử phạt như thế nào?",
+  "options": {
+    "A": "Phạt tiền từ 50.000.000 đồng đến 70.000.000 đồng",
+    "B": "Phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng",
+    "C": "Phạt cảnh cáo",
+    "D": "Đình chỉ hoạt động giao dịch chứng khoán"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 4 Điều 33 Nghị định số 156/2020/NĐ-CP, hành vi không báo cáo về việc dự kiến giao dịch của cổ đông lớn bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng."
+}
+
+{
+  "id": 21,
+  "question": "Thời hạn tối đa để tổ chức vi phạm hoàn trả tiền mua chứng khoán cho nhà đầu tư đối với hành vi chào bán chứng khoán riêng lẻ không đúng thời gian quy định là bao lâu?",
+  "options": {
+    "A": "15 ngày",
+    "B": "30 ngày",
+    "C": "60 ngày",
+    "D": "90 ngày"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm đ khoản 9 Điều 8 Nghị định số 156/2020/NĐ-CP, thời hạn tối đa để hoàn trả tiền mua chứng khoán hoặc tiền đặt cọc cho nhà đầu tư đối với hành vi chào bán chứng khoán riêng lẻ không đúng thời gian quy định là 30 ngày kể từ ngày quyết định áp dụng biện pháp khắc phục hậu quả có hiệu lực."
+}
+
+{
+  "id": 22,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của công ty đại chúng?",
+  "options": {
+    "A": "Công bố thông tin đúng thời hạn",
+    "B": "Không công bố thông tin về thay đổi tỷ lệ sở hữu cổ phiếu của cổ đông lớn",
+    "C": "Nộp báo cáo tài chính đúng quy định",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về thay đổi tỷ lệ sở hữu cổ phiếu của cổ đông lớn là vi phạm quy định về công bố thông tin của công ty đại chúng."
+}
+
+{
+  "id": 23,
+  "question": "Hành vi tẩy xóa, sửa chữa chứng chỉ hành nghề chứng khoán bị phạt bao nhiêu tiền đối với cá nhân?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "70.000.000 đồng đến 100.000.000 đồng",
+    "C": "100.000.000 đồng đến 150.000.000 đồng",
+    "D": "150.000.000 đồng đến 200.000.000 đồng"
+  },
+  "correct": "C",
+  "explanation": "Theo điểm b khoản 5 Điều 30 Nghị định số 156/2020/NĐ-CP, hành vi tẩy xóa, sửa chữa làm thay đổi nội dung chứng chỉ hành nghề chứng khoán bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng đối với cá nhân."
+}
+
+{
+  "id": 24,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán?",
+  "options": {
+    "A": "Tổ chức giao dịch chứng khoán theo quy định của Sở giao dịch chứng khoán",
+    "B": "Không công bố thông tin về sự cố hệ thống giao dịch",
+    "C": "Báo cáo đúng hạn về hoạt động giao dịch",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 3 Điều 19 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về sự cố hệ thống giao dịch là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán."
+}
+
+{
+  "id": 25,
+  "question": "Hành vi thực hiện giao dịch chứng khoán ngoài khoảng thời gian đăng ký của người nội bộ công ty đại chúng bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "100.000.000 đồng đến 150.000.000 đồng",
+    "C": "150.000.000 đồng đến 200.000.000 đồng",
+    "D": "200.000.000 đồng đến 300.000.000 đồng"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 4 Điều 33 Nghị định số 156/2020/NĐ-CP, hành vi thực hiện giao dịch chứng khoán ngoài khoảng thời gian đăng ký của người nội bộ công ty đại chúng bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng."
+}
+
+{
+  "id": 26,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về lưu ký chứng khoán?",
+  "options": {
+    "A": "Quản lý tách biệt tài sản của từng khách hàng",
+    "B": "Không mở tài khoản lưu ký chi tiết cho từng khách hàng",
+    "C": "Báo cáo đúng hạn về hoạt động lưu ký",
+    "D": "Thực hiện lưu ký theo quy định của Tổng công ty lưu ký"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm k khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không mở tài khoản lưu ký chi tiết cho từng khách hàng là vi phạm quy định về lưu ký chứng khoán."
+}
+
+{
+  "id": 27,
+  "question": "Hành vi quảng cáo việc chào bán chứng khoán riêng lẻ trên phương tiện thông tin đại chúng bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "100.000.000 đồng đến 150.000.000 đồng",
+    "C": "150.000.000 đồng đến 200.000.000 đồng",
+    "D": "200.000.000 đồng đến 300.000.000 đồng"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 3 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi quảng cáo việc chào bán hoặc phát hành chứng khoán riêng lẻ trên phương tiện thông tin đại chúng bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng."
+}
+
+{
+  "id": 28,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về kiểm toán công ty đại chúng?",
+  "options": {
+    "A": "Cung cấp đầy đủ thông tin kiểm toán cho cơ quan quản lý",
+    "B": "Không cung cấp thông tin liên quan đến hoạt động kiểm toán",
+    "C": "Thực hiện kiểm toán theo chuẩn mực kiểm toán",
+    "D": "Báo cáo kết quả kiểm toán đúng hạn"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không cung cấp thông tin, số liệu liên quan đến hoạt động kiểm toán là vi phạm quy định về kiểm toán công ty đại chúng."
+}
+
+{
+  "id": 29,
+  "question": "Hành vi sử dụng thông tin sai lệch để làm cho nhà đầu tư hiểu nhầm về giá chứng khoán bị phạt bao nhiêu tiền đối với tổ chức?",
+  "options": {
+    "A": "400.000.000 đồng đến 500.000.000 đồng",
+    "B": "1.000.000.000 đồng đến 1.500.000.000 đồng",
+    "C": "2.500.000.000 đồng đến 3.000.000.000 đồng",
+    "D": "10 lần khoản thu trái pháp luật"
+  },
+  "correct": "D",
+  "explanation": "Theo khoản 1 Điều 35 Nghị định số 156/2020/NĐ-CP, hành vi làm cho khách hàng và nhà đầu tư hiểu nhầm về giá chứng khoán bị phạt tiền tối đa 10 lần khoản thu trái pháp luật đối với tổ chức."
+}
+
+{
+  "id": 30,
+  "question": "Hành vi không lưu giữ tài liệu về việc lựa chọn nhà đầu tư tham gia mua chứng khoán chào bán riêng lẻ bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "100.000.000 đồng đến 150.000.000 đồng",
+    "C": "150.000.000 đồng đến 200.000.000 đồng",
+    "D": "200.000.000 đồng đến 300.000.000 đồng"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm d khoản 3 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi không lưu giữ tài liệu về việc lựa chọn nhà đầu tư tham gia mua chứng khoán chào bán hoặc phát hành riêng lẻ bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng."
+}
+
+{
+  "id": 31,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về chào mua công khai?",
+  "options": {
+    "A": "Thực hiện chào mua công khai theo phương án đã đăng ký",
+    "B": "Không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định",
+    "C": "Công bố thông tin chào mua công khai đúng hạn",
+    "D": "Báo cáo kết quả chào mua công khai đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 4 Điều 34 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định là vi phạm quy định về chào mua công khai."
+}
+
+{
+  "id": 32,
+  "question": "Hành vi nào dưới đây bị áp dụng biện pháp khắc phục hậu quả buộc bán cổ phiếu để giảm tỷ lệ nắm giữ xuống dưới mức phải chào mua công khai?",
+  "options": {
+    "A": "Công bố thông tin về tỷ lệ sở hữu đúng quy định",
+    "B": "Che giấu thông tin về quyền sở hữu thực sự để trốn tránh chào mua công khai",
+    "C": "Thực hiện giao dịch chứng khoán theo quy định",
+    "D": "Báo cáo đúng hạn về thay đổi tỷ lệ sở hữu"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm e khoản 6 Điều 34 Nghị định số 156/2020/NĐ-CP, hành vi che giấu thông tin về quyền sở hữu thực sự để trốn tránh chào mua công khai bị buộc bán cổ phiếu hoặc chứng chỉ quỹ đóng để giảm tỷ lệ nắm giữ xuống dưới mức phải chào mua công khai."
+}
+
+{
+  "id": 33,
+  "question": "Thời điểm chấm dứt hành vi vi phạm để tính thời hiệu xử phạt đối với hành vi tẩy xóa giấy phép hành nghề chứng khoán là khi nào?",
+  "options": {
+    "A": "Ngày nộp hồ sơ đăng ký hành nghề",
+    "B": "Ngày thực hiện hành vi tẩy xóa",
+    "C": "Ngày công bố thông tin hành nghề",
+    "D": "Ngày giao dịch chứng khoán đầu tiên"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm d khoản 3 Điều 6 Nghị định số 156/2020/NĐ-CP, thời điểm chấm dứt hành vi vi phạm đối với hành vi tẩy xóa, sửa chữa làm thay đổi nội dung giấy phép hành nghề chứng khoán là ngày thực hiện hành vi tẩy xóa."
+}
+
+{
+  "id": 34,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền?",
+  "options": {
+    "A": "Cung cấp đầy đủ tài liệu theo yêu cầu thanh tra",
+    "B": "Không cung cấp thông tin theo yêu cầu của cơ quan thanh tra",
+    "C": "Báo cáo đúng hạn về hoạt động chứng khoán",
+    "D": "Thực hiện giao dịch theo quy định pháp luật"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 1 Điều 46 Nghị định số 156/2020/NĐ-CP, hành vi không cung cấp thông tin, tài liệu theo yêu cầu của cơ quan thanh tra, kiểm tra là vi phạm quy định về thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền."
+}
+
+{
+  "id": 35,
+  "question": "Hành vi thay đổi điều kiện, điều khoản của trái phiếu đã phát hành riêng lẻ không được pháp luật cho phép bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "100.000.000 đồng đến 150.000.000 đồng",
+    "B": "150.000.000 đồng đến 200.000.000 đồng",
+    "C": "200.000.000 đồng đến 300.000.000 đồng",
+    "D": "400.000.000 đồng đến 500.000.000 đồng"
+  },
+  "correct": "C",
+  "explanation": "Theo điểm c khoản 5 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi thay đổi điều kiện, điều khoản của trái phiếu đã phát hành riêng lẻ, trừ trường hợp được pháp luật quy định, bị phạt tiền từ 200.000.000 đồng đến 300.000.000 đồng."
+}
+
+{
+  "id": 36,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động kinh doanh chứng khoán?",
+  "options": {
+    "A": "Thực hiện nghiệp vụ kinh doanh chứng khoán theo giấy phép",
+    "B": "Lạm dụng tài sản của khách hàng để thực hiện giao dịch chứng khoán",
+    "C": "Báo cáo đúng hạn về hoạt động kinh doanh chứng khoán",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 8 Điều 26 Nghị định số 156/2020/NĐ-CP, hành vi lạm dụng, chiếm dụng tài sản của khách hàng để thực hiện giao dịch chứng khoán là vi phạm quy định về hoạt động kinh doanh chứng khoán."
+}
+
+{
+  "id": 37,
+  "question": "Hành vi không công bố thông tin về kết quả thực hiện giao dịch của cổ đông lớn bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "70.000.000 đồng đến 100.000.000 đồng",
+    "C": "100.000.000 đồng đến 150.000.000 đồng",
+    "D": "150.000.000 đồng đến 200.000.000 đồng"
+  },
+  "correct": "C",
+  "explanation": "Theo khoản 2 Điều 33 Nghị định số 156/2020/NĐ-CP, hành vi không báo cáo về kết quả thực hiện giao dịch của cổ đông lớn bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng."
+}
+
+{
+  "id": 38,
+  "question": "Hành vi nào dưới đây bị áp dụng biện pháp khắc phục hậu quả buộc nộp lại số lợi bất hợp pháp?",
+  "options": {
+    "A": "Công bố thông tin đúng hạn",
+    "B": "Sử dụng thông tin nội bộ để mua, bán chứng khoán",
+    "C": "Thực hiện giao dịch chứng khoán theo quy định",
+    "D": "Báo cáo tài chính đúng hạn"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm d khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi sử dụng thông tin nội bộ để mua, bán chứng khoán bị áp dụng biện pháp khắc phục hậu quả buộc nộp lại số lợi bất hợp pháp có được do thực hiện hành vi vi phạm."
+}
+
+{
+  "id": 39,
+  "question": "Hành vi không chuyển số tiền thu được từ đợt chào bán chứng khoán riêng lẻ vào tài khoản phong tỏa bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "70.000.000 đồng đến 100.000.000 đồng",
+    "C": "100.000.000 đồng đến 150.000.000 đồng",
+    "D": "150.000.000 đồng đến 200.000.000 đồng"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 2 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi không chuyển số tiền thu được từ đợt chào bán chứng khoán riêng lẻ vào tài khoản phong tỏa bị phạt tiền từ 70.000.000 đồng đến 100.000.000 đồng."
+}
+
+{
+  "id": 40,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phát hành trái phiếu ra thị trường quốc tế?",
+  "options": {
+    "A": "Phát hành trái phiếu theo quy định pháp luật quốc tế",
+    "B": "Phát hành trái phiếu khi chưa được cơ quan có thẩm quyền chấp thuận",
+    "C": "Công bố thông tin phát hành trái phiếu đúng hạn",
+    "D": "Nộp hồ sơ đăng ký phát hành trái phiếu đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 3 Điều 12 Nghị định số 156/2020/NĐ-CP, hành vi phát hành trái phiếu ra thị trường quốc tế khi chưa được cơ quan có thẩm quyền chấp thuận là vi phạm quy định về phát hành trái phiếu ra thị trường quốc tế."
+}
+
+{
+  "id": 41,
+  "question": "Thời hạn tối đa để tổ chức vi phạm hủy bỏ thông tin sai lệch theo quyết định xử phạt là bao lâu?",
+  "options": {
+    "A": "03 ngày làm việc",
+    "B": "07 ngày làm việc",
+    "C": "10 ngày làm việc",
+    "D": "15 ngày làm việc"
+  },
+  "correct": "A",
+  "explanation": "Theo khoản 1 Điều 51 Nghị định số 156/2020/NĐ-CP, thời hạn tối đa để tổ chức vi phạm hủy bỏ thông tin sai lệch hoặc cải chính thông tin là 03 ngày làm việc kể từ ngày nhận được quyết định xử phạt."
+}
+
+{
+  "id": 42,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về quản lý tách biệt tài sản của nhà đầu tư?",
+  "options": {
+    "A": "Quản lý tách biệt tài sản của từng nhà đầu tư",
+    "B": "Không quản lý tách biệt tài sản của quỹ đầu tư chứng khoán với tài sản của công ty quản lý quỹ",
+    "C": "Báo cáo đúng hạn về tài sản của nhà đầu tư",
+    "D": "Cung cấp thông tin đầy đủ về tài sản của nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm i khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không quản lý tách biệt tài sản của quỹ đầu tư chứng khoán với tài sản của công ty quản lý quỹ là vi phạm quy định về quản lý tách biệt tài sản."
+}
+
+{
+  "id": 43,
+  "question": "Hành vi không thực hiện biện pháp phòng, chống khủng bố trong lĩnh vực chứng khoán bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "50.000.000 đồng đến 70.000.000 đồng",
+    "B": "100.000.000 đồng đến 150.000.000 đồng",
+    "C": "150.000.000 đồng đến 200.000.000 đồng",
+    "D": "200.000.000 đồng đến 300.000.000 đồng"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 2 Điều 45 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện biện pháp phòng, chống khủng bố trong lĩnh vực chứng khoán bị phạt tiền từ 100.000.000 đồng đến 150.000.000 đồng."
+}
+
+{
+  "id": 44,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về giao dịch chứng khoán?",
+  "options": {
+    "A": "Thực hiện giao dịch chứng khoán theo quy định của Sở giao dịch chứng khoán",
+    "B": "Giao dịch chứng khoán dựa trên thông tin nội bộ",
+    "C": "Báo cáo kết quả giao dịch đúng hạn",
+    "D": "Cung cấp thông tin đầy đủ về giao dịch cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 1 Điều 35 Nghị định số 156/2020/NĐ-CP, hành vi giao dịch chứng khoán dựa trên thông tin nội bộ là vi phạm quy định về giao dịch chứng khoán."
+}
+
+{
+  "id": 45,
+  "question": "Hành vi nào dưới đây bị áp dụng biện pháp khắc phục hậu quả buộc nộp hồ sơ đăng ký giao dịch chứng khoán?",
+  "options": {
+    "A": "Nộp hồ sơ đăng ký giao dịch đúng thời hạn",
+    "B": "Đăng ký giao dịch chứng khoán quá thời hạn quy định",
+    "C": "Công bố thông tin giao dịch đúng quy định",
+    "D": "Thực hiện giao dịch chứng khoán theo quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm h khoản 7 Điều 18 Nghị định số 156/2020/NĐ-CP, hành vi đăng ký giao dịch chứng khoán quá thời hạn quy định bị áp dụng biện pháp khắc phục hậu quả buộc nộp hồ sơ đăng ký giao dịch cho Sở giao dịch chứng khoán Việt Nam."
+}
+
+{
+  "id": 46,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về ngân hàng giám sát?",
+  "options": {
+    "A": "Thực hiện giám sát theo quy định pháp luật",
+    "B": "Không quản lý tách biệt tài sản của khách hàng với tài sản của ngân hàng",
+    "C": "Báo cáo đúng hạn về hoạt động giám sát",
+    "D": "Cung cấp thông tin đầy đủ cho cơ quan quản lý"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm i khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không quản lý tách biệt tài sản của khách hàng với tài sản của ngân hàng là vi phạm quy định về ngân hàng giám sát."
+}
+
+{
+  "id": 47,
+  "question": "Hành vi thực hiện bảo lãnh phát hành chứng khoán ra công chúng khi không đáp ứng đủ điều kiện bị phạt bao nhiêu tiền?",
+  "options": {
+    "A": "100.000.000 đồng đến 150.000.000 đồng",
+    "B": "150.000.000 đồng đến 200.000.000 đồng",
+    "C": "300.000.000 đồng đến 400.000.000 đồng",
+    "D": "500.000.000 đồng đến 600.000.000 đồng"
+  },
+  "correct": "C",
+  "explanation": "Theo điểm a khoản 3 Điều 10 Nghị định số 156/2020/NĐ-CP, hành vi thực hiện bảo lãnh phát hành chứng khoán ra công chúng khi không đáp ứng đủ điều kiện bị phạt tiền từ 300.000.000 đồng đến 400.000.000 đồng."
+}
+
+{
+  "id": 48,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về báo cáo tài chính của công ty đại chúng?",
+  "options": {
+    "A": "Nộp báo cáo tài chính được kiểm toán đúng hạn",
+    "B": "Không nộp báo cáo tài chính đúng thời hạn quy định",
+    "C": "Cung cấp thông tin đầy đủ trong báo cáo tài chính",
+    "D": "Công bố báo cáo tài chính trên trang thông tin điện tử"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 2 Điều 43 Nghị định số 156/2020/NĐ-CP, hành vi không nộp báo cáo tài chính đúng thời hạn quy định là vi phạm quy định về báo cáo tài chính của công ty đại chúng."
+}
+
+{
+  "id": 49,
+  "question": "Hành vi nào dưới đây bị áp dụng biện pháp khắc phục hậu quả buộc từ bỏ quyền biểu quyết trên số cổ phần có được từ hành vi vi phạm?",
+  "options": {
+    "A": "Công bố thông tin về tỷ lệ sở hữu đúng quy định",
+    "B": "Che giấu thông tin về quyền sở hữu thực sự để trốn tránh chào mua công khai",
+    "C": "Thực hiện giao dịch chứng khoán theo quy định",
+    "D": "Báo cáo đúng hạn về thay đổi tỷ lệ sở hữu"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm đ khoản 6 Điều 34 Nghị định số 156/2020/NĐ-CP, hành vi che giấu thông tin về quyền sở hữu thực sự để trốn tránh chào mua công khai bị áp dụng biện pháp khắc phục hậu quả buộc từ bỏ quyền biểu quyết trên số cổ phần có được từ hành vi vi phạm."
+}
+
+{
+  "id": 50,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động của công ty chứng khoán?",
+  "options": {
+    "A": "Thực hiện nghiệp vụ kinh doanh chứng khoán theo giấy phép",
+    "B": "Không quản lý tách biệt tài sản của khách hàng với tài sản của công ty chứng khoán",
+    "C": "Báo cáo đúng hạn về hoạt động kinh doanh",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm k khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không quản lý tách biệt tài sản của khách hàng với tài sản của công ty chứng khoán là vi phạm quy định về hoạt động của công ty chứng khoán."
+}
+
+{
+  "id": 51,
+  "question": "Hành vi không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định bị áp dụng biện pháp khắc phục hậu quả nào?",
+  "options": {
+    "A": "Buộc nộp lại số lợi bất hợp pháp",
+    "B": "Buộc chào mua công khai theo phương án đã đăng ký",
+    "C": "Buộc hủy bỏ thông tin sai lệch",
+    "D": "Buộc đình chỉ hoạt động giao dịch chứng khoán"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm đ khoản 6 Điều 34 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định bị áp dụng biện pháp khắc phục hậu quả buộc chào mua công khai theo phương án đã đăng ký."
+}
+
+{
+  "id": 52,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về đăng ký giao dịch chứng khoán?",
+  "options": {
+    "A": "Nộp hồ sơ đăng ký giao dịch đúng thời hạn",
+    "B": "Đăng ký giao dịch chứng khoán quá thời hạn quy định",
+    "C": "Công bố thông tin giao dịch đúng quy định",
+    "D": "Thực hiện giao dịch chứng khoán theo quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 3 Điều 18 Nghị định số 156/2020/NĐ-CP, hành vi đăng ký giao dịch chứng khoán quá thời hạn quy định là vi phạm quy định về đăng ký giao dịch chứng khoán."
+}
+
+{
+  "id": 53,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán?",
+  "options": {
+    "A": "Báo cáo giao dịch đáng ngờ đúng hạn",
+    "B": "Không thực hiện biện pháp nhận biết khách hàng theo quy định",
+    "C": "Lưu giữ hồ sơ khách hàng đầy đủ",
+    "D": "Cung cấp thông tin cho cơ quan nhà nước có thẩm quyền"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 2 Điều 45 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện biện pháp nhận biết khách hàng theo quy định là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán."
+}
+
+{
+  "id": 54,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của tổ chức niêm yết?",
+  "options": {
+    "A": "Công bố thông tin đúng thời hạn",
+    "B": "Không công bố thông tin về sự cố hệ thống giao dịch",
+    "C": "Báo cáo tài chính đúng hạn",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về sự cố hệ thống giao dịch là vi phạm quy định về công bố thông tin của tổ chức niêm yết."
+}
+
+{
+  "id": 55,
+  "question": "Hành vi nào dưới đây bị áp dụng hình thức xử phạt bổ sung tịch thu tang vật vi phạm hành chính?",
+  "options": {
+    "A": "Công bố thông tin sai lệch",
+    "B": "Làm giả giấy tờ trong hồ sơ đăng ký chào bán chứng khoán riêng lẻ",
+    "C": "Thực hiện giao dịch chứng khoán theo quy định",
+    "D": "Báo cáo đúng hạn về hoạt động kinh doanh"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 8 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi làm giả giấy tờ trong hồ sơ đăng ký chào bán chứng khoán riêng lẻ bị áp dụng hình thức xử phạt bổ sung tịch thu tang vật vi phạm hành chính là giấy tờ giả mạo."
+}
+
+{
+  "id": 56,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động của ngân hàng lưu ký?",
+  "options": {
+    "A": "Quản lý tách biệt tài sản của khách hàng",
+    "B": "Không quản lý tách biệt tài sản của khách hàng với tài sản của ngân hàng",
+    "C": "Báo cáo đúng hạn về hoạt động lưu ký",
+    "D": "Cung cấp thông tin đầy đủ cho cơ quan quản lý"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm i khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không quản lý tách biệt tài sản của khách hàng với tài sản của ngân hàng là vi phạm quy định về hoạt động của ngân hàng lưu ký."
+}
+
+{
+  "id": 57,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về kiểm toán công ty đại chúng?",
+  "options": {
+    "A": "Cung cấp đầy đủ thông tin kiểm toán cho cơ quan quản lý",
+    "B": "Không cung cấp thông tin liên quan đến hoạt động kiểm toán",
+    "C": "Thực hiện kiểm toán theo chuẩn mực kiểm toán",
+    "D": "Báo cáo kết quả kiểm toán đúng hạn"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không cung cấp thông tin, số liệu liên quan đến hoạt động kiểm toán là vi phạm quy định về kiểm toán công ty đại chúng."
+}
+
+{
+  "id": 58,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán?",
+  "options": {
+    "A": "Tổ chức giao dịch chứng khoán theo quy định của Sở giao dịch chứng khoán",
+    "B": "Không công bố thông tin về sự cố hệ thống giao dịch",
+    "C": "Báo cáo đúng hạn về hoạt động giao dịch",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 3 Điều 19 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về sự cố hệ thống giao dịch là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán."
+}
+
+{
+  "id": 59,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phát hành thêm cổ phiếu?",
+  "options": {
+    "A": "Phát hành thêm cổ phiếu theo phương án được Đại hội đồng cổ đông thông qua",
+    "B": "Phát hành thêm cổ phiếu khi chưa được Ủy ban Chứng khoán Nhà nước chấp thuận",
+    "C": "Công bố thông tin phát hành thêm cổ phiếu đúng hạn",
+    "D": "Đăng ký lưu ký cổ phiếu phát hành thêm đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 2 Điều 12 Nghị định số 156/2020/NĐ-CP, hành vi phát hành thêm cổ phiếu khi chưa được Ủy ban Chứng khoán Nhà nước chấp thuận là vi phạm quy định về phát hành thêm cổ phiếu."
+}
+
+{
+  "id": 60,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về chào bán chứng khoán ra công chúng?",
+  "options": {
+    "A": "Chào bán chứng khoán theo phương án đã đăng ký",
+    "B": "Chào bán chứng khoán khi chưa đáp ứng đủ điều kiện theo quy định",
+    "C": "Công bố thông tin chào bán đúng hạn",
+    "D": "Nộp hồ sơ đăng ký chào bán đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 5 Điều 10 Nghị định số 156/2020/NĐ-CP, hành vi chào bán chứng khoán ra công chúng khi chưa đáp ứng đủ điều kiện theo quy định pháp luật là vi phạm quy định về chào bán chứng khoán ra công chúng."
+}
+
+{
+  "id": 61,
+  "question": "Hành vi nào dưới đây bị áp dụng biện pháp khắc phục hậu quả buộc thu hồi chứng khoán đã chào bán?",
+  "options": {
+    "A": "Công bố thông tin chào bán đúng hạn",
+    "B": "Chào bán chứng khoán riêng lẻ khi chưa được Ủy ban Chứng khoán Nhà nước thông báo",
+    "C": "Thực hiện giao dịch chứng khoán theo quy định",
+    "D": "Báo cáo đúng hạn về hoạt động chào bán"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm e khoản 9 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi chào bán chứng khoán riêng lẻ khi chưa được Ủy ban Chứng khoán Nhà nước thông báo bằng văn bản bị áp dụng biện pháp khắc phục hậu quả buộc thu hồi chứng khoán đã chào bán."
+}
+
+{
+  "id": 62,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của công ty đại chúng?",
+  "options": {
+    "A": "Công bố thông tin đúng thời hạn",
+    "B": "Không công bố thông tin về thay đổi tỷ lệ sở hữu cổ phiếu của cổ đông lớn",
+    "C": "Nộp báo cáo tài chính đúng quy định",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về thay đổi tỷ lệ sở hữu cổ phiếu của cổ đông lớn là vi phạm quy định về công bố thông tin của công ty đại chúng."
+}
+
+{
+  "id": 63,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về đăng ký công ty đại chúng?",
+  "options": {
+    "A": "Nộp hồ sơ đăng ký công ty đại chúng đúng thời hạn",
+    "B": "Chậm nộp hồ sơ đăng ký công ty đại chúng cho Ủy ban Chứng khoán Nhà nước",
+    "C": "Công bố thông tin về công ty đại chúng đúng quy định",
+    "D": "Báo cáo tài chính được kiểm toán đúng hạn"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 1 Điều 13 Nghị định số 156/2020/NĐ-CP, hành vi chậm nộp hồ sơ đăng ký công ty đại chúng cho Ủy ban Chứng khoán Nhà nước là vi phạm quy định về đăng ký công ty đại chúng."
+}
+
+{
+  "id": 64,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về chào mua công khai?",
+  "options": {
+    "A": "Thực hiện chào mua công khai theo phương án đã đăng ký",
+    "B": "Không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định",
+    "C": "Công bố thông tin chào mua công khai đúng hạn",
+    "D": "Báo cáo kết quả chào mua công khai đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 4 Điều 34 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định là vi phạm quy định về chào mua công khai."
+}
+
+{
+  "id": 65,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về lưu ký chứng khoán?",
+  "options": {
+    "A": "Quản lý tách biệt tài sản của từng khách hàng",
+    "B": "Không mở tài khoản lưu ký chi tiết cho từng khách hàng",
+    "C": "Báo cáo đúng hạn về hoạt động lưu ký",
+    "D": "Thực hiện lưu ký theo quy định của Tổng công ty lưu ký"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm k khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không mở tài khoản lưu ký chi tiết cho từng khách hàng là vi phạm quy định về lưu ký chứng khoán."
+}
+
+{
+  "id": 66,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về niêm yết chứng khoán?",
+  "options": {
+    "A": "Nộp hồ sơ niêm yết chứng khoán đúng thời hạn",
+    "B": "Niêm yết chứng khoán khi chưa đáp ứng đủ điều kiện theo quy định",
+    "C": "Công bố thông tin niêm yết đúng quy định",
+    "D": "Thực hiện giao dịch chứng khoán trên sàn đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 4 Điều 18 Nghị định số 156/2020/NĐ-CP, hành vi niêm yết chứng khoán khi chưa đáp ứng đủ điều kiện theo quy định pháp luật là vi phạm quy định về niêm yết chứng khoán."
+}
+
+{
+  "id": 67,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về giao dịch chứng khoán?",
+  "options": {
+    "A": "Thực hiện giao dịch chứng khoán theo quy định của Sở giao dịch chứng khoán",
+    "B": "Giao dịch chứng khoán dựa trên thông tin nội bộ",
+    "C": "Báo cáo kết quả giao dịch đúng hạn",
+    "D": "Cung cấp thông tin đầy đủ về giao dịch cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 1 Điều 35 Nghị định số 156/2020/NĐ-CP, hành vi giao dịch chứng khoán dựa trên thông tin nội bộ là vi phạm quy định về giao dịch chứng khoán."
+}
+
+{
+  "id": 68,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của tổ chức niêm yết?",
+  "options": {
+    "A": "Công bố thông tin đúng thời hạn",
+    "B": "Không công bố thông tin về sự cố hệ thống giao dịch",
+    "C": "Báo cáo tài chính đúng hạn",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về sự cố hệ thống giao dịch là vi phạm quy định về công bố thông tin của tổ chức niêm yết."
+}
+
+{
+  "id": 69,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán?",
+  "options": {
+    "A": "Báo cáo giao dịch đáng ngờ đúng hạn",
+    "B": "Không thực hiện biện pháp nhận biết khách hàng theo quy định",
+    "C": "Lưu giữ hồ sơ khách hàng đầy đủ",
+    "D": "Cung cấp thông tin cho cơ quan nhà nước có thẩm quyền"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 2 Điều 45 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện biện pháp nhận biết khách hàng theo quy định là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán."
+}
+
+{
+  "id": 70,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phát hành trái phiếu ra thị trường quốc tế?",
+  "options": {
+    "A": "Phát hành trái phiếu theo quy định pháp luật quốc tế",
+    "B": "Phát hành trái phiếu khi chưa được cơ quan có thẩm quyền chấp thuận",
+    "C": "Công bố thông tin phát hành trái phiếu đúng hạn",
+    "D": "Nộp hồ sơ đăng ký phát hành trái phiếu đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 3 Điều 12 Nghị định số 156/2020/NĐ-CP, hành vi phát hành trái phiếu ra thị trường quốc tế khi chưa được cơ quan có thẩm quyền chấp thuận là vi phạm quy định về phát hành trái phiếu ra thị trường quốc tế."
+}
+
+{
+  "id": 71,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về kiểm toán công ty đại chúng?",
+  "options": {
+    "A": "Cung cấp đầy đủ thông tin kiểm toán cho cơ quan quản lý",
+    "B": "Không cung cấp thông tin liên quan đến hoạt động kiểm toán",
+    "C": "Thực hiện kiểm toán theo chuẩn mực kiểm toán",
+    "D": "Báo cáo kết quả kiểm toán đúng hạn"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không cung cấp thông tin, số liệu liên quan đến hoạt động kiểm toán là vi phạm quy định về kiểm toán công ty đại chúng."
+}
+
+{
+  "id": 72,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán?",
+  "options": {
+    "A": "Tổ chức giao dịch chứng khoán theo quy định của Sở giao dịch chứng khoán",
+    "B": "Không công bố thông tin về sự cố hệ thống giao dịch",
+    "C": "Báo cáo đúng hạn về hoạt động giao dịch",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 3 Điều 19 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về sự cố hệ thống giao dịch là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán."
+}
+
+{
+  "id": 73,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của công ty đại chúng?",
+  "options": {
+    "A": "Công bố thông tin đúng thời hạn",
+    "B": "Không công bố thông tin về thay đổi tỷ lệ sở hữu cổ phiếu của cổ đông lớn",
+    "C": "Nộp báo cáo tài chính đúng quy định",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về thay đổi tỷ lệ sở hữu cổ phiếu của cổ đông lớn là vi phạm quy định về công bố thông tin của công ty đại chúng."
+}
+
+{
+  "id": 74,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về chào mua công khai?",
+  "options": {
+    "A": "Thực hiện chào mua công khai theo phương án đã đăng ký",
+    "B": "Không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định",
+    "C": "Công bố thông tin chào mua công khai đúng hạn",
+    "D": "Báo cáo kết quả chào mua công khai đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 4 Điều 34 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định là vi phạm quy định về chào mua công khai."
+}
+
+{
+  "id": 75,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về lưu ký chứng khoán?",
+  "options": {
+    "A": "Quản lý tách biệt tài sản của từng khách hàng",
+    "B": "Không mở tài khoản lưu ký chi tiết cho từng khách hàng",
+    "C": "Báo cáo đúng hạn về hoạt động lưu ký",
+    "D": "Thực hiện lưu ký theo quy định của Tổng công ty lưu ký"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm k khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không mở tài khoản lưu ký chi tiết cho từng khách hàng là vi phạm quy định về lưu ký chứng khoán."
+}
+
+{
+  "id": 76,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về niêm yết chứng khoán?",
+  "options": {
+    "A": "Nộp hồ sơ niêm yết chứng khoán đúng thời hạn",
+    "B": "Niêm yết chứng khoán khi chưa đáp ứng đủ điều kiện theo quy định",
+    "C": "Công bố thông tin niêm yết đúng quy định",
+    "D": "Thực hiện giao dịch chứng khoán trên sàn đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 4 Điều 18 Nghị định số 156/2020/NĐ-CP, hành vi niêm yết chứng khoán khi chưa đáp ứng đủ điều kiện theo quy định pháp luật là vi phạm quy định về niêm yết chứng khoán."
+}
+
+{
+  "id": 77,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về giao dịch chứng khoán?",
+  "options": {
+    "A": "Thực hiện giao dịch chứng khoán theo quy định của Sở giao dịch chứng khoán",
+    "B": "Giao dịch chứng khoán dựa trên thông tin nội bộ",
+    "C": "Báo cáo kết quả giao dịch đúng hạn",
+    "D": "Cung cấp thông tin đầy đủ về giao dịch cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 1 Điều 35 Nghị định số 156/2020/NĐ-CP, hành vi giao dịch chứng khoán dựa trên thông tin nội bộ là vi phạm quy định về giao dịch chứng khoán."
+}
+
+{
+  "id": 78,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của tổ chức niêm yết?",
+  "options": {
+    "A": "Công bố thông tin đúng thời hạn",
+    "B": "Không công bố thông tin về sự cố hệ thống giao dịch",
+    "C": "Báo cáo tài chính đúng hạn",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về sự cố hệ thống giao dịch là vi phạm quy định về công bố thông tin của tổ chức niêm yết."
+}
+
+{
+  "id": 79,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán?",
+  "options": {
+    "A": "Báo cáo giao dịch đáng ngờ đúng hạn",
+    "B": "Không thực hiện biện pháp nhận biết khách hàng theo quy định",
+    "C": "Lưu giữ hồ sơ khách hàng đầy đủ",
+    "D": "Cung cấp thông tin cho cơ quan nhà nước có thẩm quyền"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 2 Điều 45 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện biện pháp nhận biết khách hàng theo quy định là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán."
+}
+
+{
+  "id": 80,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phát hành trái phiếu ra thị trường quốc tế?",
+  "options": {
+    "A": "Phát hành trái phiếu theo quy định pháp luật quốc tế",
+    "B": "Phát hành trái phiếu khi chưa được cơ quan có thẩm quyền chấp thuận",
+    "C": "Công bố thông tin phát hành trái phiếu đúng hạn",
+    "D": "Nộp hồ sơ đăng ký phát hành trái phiếu đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 3 Điều 12 Nghị định số 156/2020/NĐ-CP, hành vi phát hành trái phiếu ra thị trường quốc tế khi chưa được cơ quan có thẩm quyền chấp thuận là vi phạm quy định về phát hành trái phiếu ra thị trường quốc tế."
+},
+
+{
+  "id": 81,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về kiểm toán công ty đại chúng?",
+  "options": {
+    "A": "Cung cấp đầy đủ thông tin kiểm toán cho cơ quan quản lý",
+    "B": "Không cung cấp thông tin liên quan đến hoạt động kiểm toán",
+    "C": "Thực hiện kiểm toán theo chuẩn mực kiểm toán",
+    "D": "Báo cáo kết quả kiểm toán đúng hạn"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm c khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không cung cấp thông tin, số liệu liên quan đến hoạt động kiểm toán là vi phạm quy định về kiểm toán công ty đại chúng."
+},
+
+{
+  "id": 82,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán?",
+  "options": {
+    "A": "Tổ chức giao dịch chứng khoán theo quy định của Sở giao dịch chứng khoán",
+    "B": "Không công bố thông tin về sự cố hệ thống giao dịch",
+    "C": "Báo cáo đúng hạn về hoạt động giao dịch",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 3 Điều 19 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về sự cố hệ thống giao dịch là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán."
+},
+
+{
+  "id": 83,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của công ty đại chúng?",
+  "options": {
+    "A": "Công bố thông tin đúng thời hạn",
+    "B": "Không công bố thông tin về thay đổi tỷ lệ sở hữu cổ phiếu của cổ đông lớn",
+    "C": "Nộp báo cáo tài chính đúng quy định",
+    "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+  },
+  "correct": "B",
+  "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về thay đổi tỷ lệ sở hữu cổ phiếu của cổ đông lớn là vi phạm quy định về công bố thông tin của công ty đại chúng."
+},
+
+{
+  "id": 84,
+  "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về chào mua công khai?",
+  "options": {
+    "A": "Thực hiện chào mua công khai theo phương án đã đăng ký",
+    "B": "Không thực hiện chào mua công khai khi sở hữu vượt ngưỡng quy định",
+    "C": "Công bố thông tin chào mua công khai đúng hạn",
+    "D": "Báo cáo kết quả chào mua công khai đúng quy định"
+  },
+  "correct": "B",
+  "explanation": "Theo khoản 4 Điều 34 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện chào mua công khai khi sở hữu"
+  },
+  {
+    "id": 85,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về quản lý tài sản của quỹ đầu tư chứng khoán?",
+    "options": {
+      "A": "Quản lý tài sản quỹ đầu tư theo quy định của hợp đồng",
+      "B": "Sử dụng tài sản của quỹ đầu tư để bảo đảm thực hiện nghĩa vụ của công ty quản lý quỹ",
+      "C": "Báo cáo đúng hạn về tài sản của quỹ đầu tư",
+      "D": "Cung cấp thông tin đầy đủ về tài sản quỹ cho nhà đầu tư"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm i khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi sử dụng tài sản của quỹ đầu tư chứng khoán để bảo đảm thực hiện nghĩa vụ của công ty quản lý quỹ là vi phạm quy định về quản lý tài sản của quỹ đầu tư chứng khoán."
+  },
+  {
+    "id": 86,
+    "question": "Hành vi nào dưới đây bị áp dụng biện pháp khắc phục hậu quả buộc hoàn trả tiền mua chứng khoán cho nhà đầu tư?",
+    "options": {
+      "A": "Công bố thông tin chào bán chứng khoán đúng hạn",
+      "B": "Chào bán chứng khoán riêng lẻ khi chưa được Ủy ban Chứng khoán Nhà nước thông báo",
+      "C": "Thực hiện giao dịch chứng khoán theo quy định",
+      "D": "Báo cáo kết quả chào bán đúng hạn"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm e khoản 9 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi chào bán chứng khoán riêng lẻ khi chưa được Ủy ban Chứng khoán Nhà nước thông báo bằng văn bản bị áp dụng biện pháp khắc phục hậu quả buộc thu hồi chứng khoán đã chào bán và hoàn trả tiền mua chứng khoán hoặc tiền đặt cọc cộng thêm tiền lãi cho nhà đầu tư."
+  },
+  {
+    "id": 87,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động của công ty quản lý quỹ?",
+    "options": {
+      "A": "Thực hiện quản lý quỹ theo hợp đồng ủy thác",
+      "B": "Không thực hiện tách biệt tài sản của nhà đầu tư với tài sản của công ty quản lý quỹ",
+      "C": "Báo cáo đúng hạn về hoạt động quản lý quỹ",
+      "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm i khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện tách biệt tài sản của nhà đầu tư với tài sản của công ty quản lý quỹ là vi phạm quy định về hoạt động của công ty quản lý quỹ."
+  },
+  {
+    "id": 88,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về báo cáo giao dịch của người nội bộ công ty đại chúng?",
+    "options": {
+      "A": "Báo cáo đúng hạn về giao dịch của người nội bộ",
+      "B": "Không báo cáo về giao dịch chứng khoán của người nội bộ hoặc người có liên quan",
+      "C": "Công bố thông tin giao dịch trên trang thông tin điện tử",
+      "D": "Thực hiện giao dịch theo quy định của pháp luật"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 4 Điều 33 Nghị định số 156/2020/NĐ-CP, hành vi không báo cáo về việc dự kiến giao dịch hoặc kết quả giao dịch của người nội bộ công ty đại chúng hoặc người có liên quan là vi phạm quy định về báo cáo giao dịch."
+  },
+  {
+    "id": 89,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động bảo lãnh phát hành chứng khoán?",
+    "options": {
+      "A": "Thực hiện bảo lãnh phát hành theo hợp đồng đã ký",
+      "B": "Thực hiện bảo lãnh phát hành khi không đáp ứng đủ điều kiện về vốn pháp định",
+      "C": "Báo cáo đúng hạn về hoạt động bảo lãnh phát hành",
+      "D": "Cung cấp thông tin đầy đủ về bảo lãnh phát hành cho nhà đầu tư"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm a khoản 3 Điều 10 Nghị định số 156/2020/NĐ-CP, hành vi thực hiện bảo lãnh phát hành chứng khoán ra công chúng khi không đáp ứng đủ điều kiện về vốn pháp định là vi phạm quy định về hoạt động bảo lãnh phát hành chứng khoán."
+  },
+  {
+    "id": 90,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của tổ chức phát hành trái phiếu?",
+    "options": {
+      "A": "Công bố thông tin về phát hành trái phiếu đúng thời hạn",
+      "B": "Không công bố thông tin về thay đổi điều kiện, điều khoản của trái phiếu đã phát hành",
+      "C": "Nộp báo cáo tài chính đúng quy định",
+      "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về thay đổi điều kiện, điều khoản của trái phiếu đã phát hành là vi phạm quy định về công bố thông tin của tổ chức phát hành trái phiếu."
+  },
+  {
+    "id": 91,
+    "question": "Hành vi nào dưới đây bị áp dụng biện pháp khắc phục hậu quả buộc cải chính thông tin trên phương tiện thông tin đại chúng?",
+    "options": {
+      "A": "Công bố thông tin đúng hạn",
+      "B": "Công bố thông tin sai lệch trong Bản cáo bạch",
+      "C": "Thực hiện giao dịch chứng khoán theo quy định",
+      "D": "Báo cáo đúng hạn về hoạt động kinh doanh"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm c khoản 9 Điều 10 Nghị định số 156/2020/NĐ-CP, hành vi công bố thông tin sai lệch trong Bản cáo bạch bị áp dụng biện pháp khắc phục hậu quả buộc cải chính thông tin trên phương tiện thông tin đại chúng."
+  },
+  {
+    "id": 92,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động của tổ chức kiểm toán được chấp thuận?",
+    "options": {
+      "A": "Thực hiện kiểm toán theo chuẩn mực kiểm toán",
+      "B": "Không cung cấp thông tin, tài liệu theo yêu cầu của cơ quan quản lý",
+      "C": "Báo cáo kết quả kiểm toán đúng hạn",
+      "D": "Cung cấp đầy đủ thông tin kiểm toán cho nhà đầu tư"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm c khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không cung cấp thông tin, tài liệu theo yêu cầu của cơ quan quản lý là vi phạm quy định về hoạt động của tổ chức kiểm toán được chấp thuận."
+  },
+  {
+    "id": 93,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động của ngân hàng giám sát?",
+    "options": {
+      "A": "Thực hiện giám sát theo quy định pháp luật",
+      "B": "Không thực hiện giám sát việc sử dụng vốn của tổ chức phát hành",
+      "C": "Báo cáo đúng hạn về hoạt động giám sát",
+      "D": "Cung cấp thông tin đầy đủ cho cơ quan quản lý"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm i khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện giám sát việc sử dụng vốn của tổ chức phát hành là vi phạm quy định về hoạt động của ngân hàng giám sát."
+  },
+  {
+    "id": 94,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán?",
+    "options": {
+      "A": "Tổ chức giao dịch chứng khoán theo quy định của Sở giao dịch chứng khoán",
+      "B": "Không duy trì điều kiện hoạt động của hệ thống giao dịch theo quy định",
+      "C": "Báo cáo đúng hạn về hoạt động giao dịch",
+      "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 3 Điều 19 Nghị định số 156/2020/NĐ-CP, hành vi không duy trì điều kiện hoạt động của hệ thống giao dịch theo quy định là vi phạm quy định về tổ chức thị trường giao dịch chứng khoán."
+  },
+  {
+    "id": 95,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về công bố thông tin của quỹ đầu tư chứng khoán?",
+    "options": {
+      "A": "Công bố thông tin đúng thời hạn",
+      "B": "Không công bố thông tin về giá trị tài sản ròng của quỹ",
+      "C": "Nộp báo cáo tài chính đúng quy định",
+      "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm a khoản 3 Điều 42 Nghị định số 156/2020/NĐ-CP, hành vi không công bố thông tin về giá trị tài sản ròng của quỹ đầu tư chứng khoán là vi phạm quy định về công bố thông tin."
+  },
+  {
+    "id": 96,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động của công ty chứng khoán?",
+    "options": {
+      "A": "Thực hiện nghiệp vụ kinh doanh chứng khoán theo giấy phép",
+      "B": "Không thực hiện tách biệt tài sản của khách hàng với tài sản của công ty chứng khoán",
+      "C": "Báo cáo đúng hạn về hoạt động kinh doanh",
+      "D": "Cung cấp thông tin đầy đủ cho nhà đầu tư"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm k khoản 3 Điều 4 Nghị định số 156/2020/NĐ-CP, hành vi không thực hiện tách biệt tài sản của khách hàng với tài sản của công ty chứng khoán là vi phạm quy định về hoạt động của công ty chứng khoán."
+  },
+  {
+    "id": 97,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về chào bán chứng khoán riêng lẻ?",
+    "options": {
+      "A": "Chào bán chứng khoán riêng lẻ theo phương án đã đăng ký",
+      "B": "Chào bán chứng khoán riêng lẻ cho đối tượng không phải là nhà đầu tư chứng khoán chuyên nghiệp",
+      "C": "Công bố thông tin chào bán đúng hạn",
+      "D": "Nộp hồ sơ đăng ký chào bán đúng quy định"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm b khoản 5 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi chào bán chứng khoán riêng lẻ cho đối tượng không phải là nhà đầu tư chứng khoán chuyên nghiệp là vi phạm quy định về chào bán chứng khoán riêng lẻ."
+  },
+  {
+    "id": 98,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về giao dịch chứng khoán của người nội bộ?",
+    "options": {
+      "A": "Thực hiện giao dịch chứng khoán theo quy định của pháp luật",
+      "B": "Thực hiện giao dịch chứng khoán trong thời gian bị cấm giao dịch",
+      "C": "Báo cáo đúng hạn về giao dịch chứng khoán",
+      "D": "Cung cấp thông tin đầy đủ về giao dịch cho cơ quan quản lý"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 4 Điều 33 Nghị định số 156/2020/NĐ-CP, hành vi thực hiện giao dịch chứng khoán trong thời gian bị cấm giao dịch là vi phạm quy định về giao dịch chứng khoán của người nội bộ."
+  },
+  {
+    "id": 99,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán?",
+    "options": {
+      "A": "Báo cáo giao dịch đáng ngờ đúng hạn",
+      "B": "Không cập nhật thông tin nhận biết khách hàng theo quy định",
+      "C": "Lưu giữ hồ sơ khách hàng đầy đủ",
+      "D": "Cung cấp thông tin cho cơ quan nhà nước có thẩm quyền"
+    },
+    "correct": "B",
+    "explanation": "Theo khoản 2 Điều 45 Nghị định số 156/2020/NĐ-CP, hành vi không cập nhật thông tin nhận biết khách hàng theo quy định là vi phạm quy định về phòng, chống rửa tiền trong lĩnh vực chứng khoán."
+  },
+  {
+    "id": 100,
+    "question": "Hành vi nào dưới đây bị coi là vi phạm quy định về hoạt động của tổ chức phát hành chứng khoán?",
+    "options": {
+      "A": "Phát hành chứng khoán theo phương án đã đăng ký",
+      "B": "Sử dụng số tiền thu được từ đợt chào bán chứng khoán không đúng mục đích đã công bố",
+      "C": "Công bố thông tin phát hành chứng khoán đúng hạn",
+      "D": "Nộp hồ sơ đăng ký phát hành đúng quy định"
+    },
+    "correct": "B",
+    "explanation": "Theo điểm c khoản 9 Điều 8 Nghị định số 156/2020/NĐ-CP, hành vi sử dụng số tiền thu được từ đợt chào bán chứng khoán không đúng mục đích đã công bố là vi phạm quy định về hoạt động của tổ chức phát hành chứng khoán."
   }
 ]
