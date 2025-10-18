@@ -142,7 +142,8 @@ function loadQuestion() {
     document.getElementById('progress').style.width = `${((currentQuestionIndex + 1) / selectedQuestions.length * 100)}%`;
     const optionsDiv = document.getElementById('options');
     optionsDiv.innerHTML = '';
-    document.getElementById('feedback').innerText = '';
+    document.getElementById('feedback-message').innerText = ''; // Sử dụng feedback-message thay vì feedback.innerText
+    document.getElementById('explanation').innerText = ''; // Xóa explanation cũ
     document.getElementById('next-btn').disabled = true;
     selectedOption = null;
     if (!userAnswers[currentQuestionIndex]) {
@@ -167,16 +168,20 @@ function loadQuestion() {
             else if (key === answer.selected && answer.selected !== correct) button.classList.add('incorrect');
             optionsDiv.appendChild(button);
         });
-        const feedback = document.getElementById('feedback');
+        const feedbackMessage = document.getElementById('feedback-message');
+        const explanationElem = document.getElementById('explanation');
         if (answer.selected === null) {
-            feedback.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
-            feedback.style.color = 'red';
+            feedbackMessage.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
+            feedbackMessage.style.color = 'red';
         } else if (answer.correct) {
-            feedback.innerText = 'Đúng!';
-            feedback.style.color = 'green';
+            feedbackMessage.innerText = 'Đúng!';
+            feedbackMessage.style.color = 'green';
         } else {
-            feedback.innerText = `Sai! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
-            feedback.style.color = 'red';
+            feedbackMessage.innerText = `Sai! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
+            feedbackMessage.style.color = 'red';
+        }
+        if (questionData.explanation) {
+            explanationElem.innerText = questionData.explanation;
         }
         document.getElementById('next-btn').disabled = false;
     }
@@ -202,8 +207,10 @@ function startTimer() {
 function selectOption(button, option) {
     if (selectedOption) return;
     selectedOption = option;
-    const correct = selectedQuestions[currentQuestionIndex].correct;
-    const feedback = document.getElementById('feedback');
+    const questionData = selectedQuestions[currentQuestionIndex];
+    const correct = questionData.correct;
+    const feedbackMessage = document.getElementById('feedback-message');
+    const explanationElem = document.getElementById('explanation');
     document.querySelectorAll('.option').forEach(btn => {
         btn.disabled = true;
         const btnKey = btn.innerText.split('.')[0];
@@ -211,22 +218,25 @@ function selectOption(button, option) {
         else if (btnKey === option && option !== correct) btn.classList.add('incorrect');
     });
     if (option === null) {
-        feedback.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${selectedQuestions[currentQuestionIndex].options[correct]}`;
-        feedback.style.color = 'red';
-        userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: null, correct: false };
+        feedbackMessage.innerText = `Hết thời gian! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
+        feedbackMessage.style.color = 'red';
+        userAnswers[currentQuestionIndex] = { id: questionData.id, selected: null, correct: false };
     } else if (option === correct) {
-        feedback.innerText = 'Đúng!';
-        feedback.style.color = 'green';
+        feedbackMessage.innerText = 'Đúng!';
+        feedbackMessage.style.color = 'green';
         score++;
         const scoreValueElement = document.getElementById('score-value');
         if (scoreValueElement) {
             scoreValueElement.textContent = `${score}/${selectedQuestions.length}`;
         }
-        userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: option, correct: true };
+        userAnswers[currentQuestionIndex] = { id: questionData.id, selected: option, correct: true };
     } else {
-        feedback.innerText = `Sai! Đáp án đúng: ${correct}. ${selectedQuestions[currentQuestionIndex].options[correct]}`;
-        feedback.style.color = 'red';
-        userAnswers[currentQuestionIndex] = { id: selectedQuestions[currentQuestionIndex].id, selected: option, correct: false };
+        feedbackMessage.innerText = `Sai! Đáp án đúng: ${correct}. ${questionData.options[correct]}`;
+        feedbackMessage.style.color = 'red';
+        userAnswers[currentQuestionIndex] = { id: questionData.id, selected: option, correct: false };
+    }
+    if (questionData.explanation) {
+        explanationElem.innerText = questionData.explanation;
     }
     const box = document.querySelector(`.question-box[data-index="${currentQuestionIndex}"]`);
     if (box) {
